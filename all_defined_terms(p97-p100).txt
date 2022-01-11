@@ -1,0 +1,1210 @@
+"2014 Wells Fargo
+"Accrual Method Election"
+"Annual Interest Amount"
+"Appraisal Sample"
+"Barclays" Merrill Lynch Pierce Fenner Smith Incorporated "BofA Merrill" Credit Suisse Securities
+"Benefit Plan Investor"
+"Certain Legal Aspects
+"Certain United States Federal Income Tax Consequences Non-U S
+"Certain United States Federal Tax Consequences Information Reporting
+"Certain United States Federal Tax Consequences"
+"Class B Notes"
+"Class M Debt Notes"
+"Class Notional Amount"
+"Class Principal Balance"
+"Credit Event Amount"
+"Credit Event Net Gain"
+"Credit Event Net Loss"
+"Credit Event Reference Obligation"
+"Credit Standards Underwriting Process Desktop Underwriter"
+"Current Accrual Rate"
+"Distressed Principal Balance"
+"Distribution Arrangements Selling Restrictions"
+"EEA Risk Retention "
+"EEA Risk Retention Regulation"
+"EEA Risk Retention"
+"Early Redemption Option"
+"Eligibility Defect Rate " The Eligibility Defect Rate
+"Exchangeable Notes "
+"Fannie Mae Regulation
+"Fully Taxable Bonds"
+"Garn-St Germain Act"
+"Global Agency Agreement"
+"Group 1 Class"
+"Group 1 Classes"
+"Group 1 Early Redemption Date"
+"Group 1 Early Redemption Option"
+"Group 1 Exchangeable Notes " The Class
+<t>"Group 1 Exchangeable Notes"
+"Group 1 Junior Reference Tranche"
+"Group 1 Liquidation Date"
+"Group 1 Liquidation Period"
+"Group 1 Liquidation Recovery Amount"
+"Group 1 Mezzanine Reference Tranche"
+"Group 1 Notes"
+"Group 1 Offered Notes"
+"Group 1 Projected Recovery Amount"
+"Group 1 Recovery Election Date "
+"Group 1 Reference Tranche"
+"Group 1 Senior Percentage"
+"Group 1 Senior Reference Tranche"
+"Group 1 Subordinate Percentage"
+"Group 1 Termination Date"
+"Group 2 Class"
+"Group 2 Classes"
+"Group 2 Early Redemption Date"
+"Group 2 Early Redemption Option"
+"Group 2 Exchangeable Notes " The Class
+"Group 2 Exchangeable Notes"
+"Group 2 Junior Reference Tranche"
+"Group 2 Liquidation Date"
+"Group 2 Liquidation Period"
+"Group 2 Liquidation Recovery Amount"
+"Group 2 Mezzanine Reference Tranche"
+"Group 2 Notes"
+"Group 2 Offered Notes"
+"Group 2 Projected Recovery Amount"
+"Group 2 Recovery Election Date"
+"Group 2 Reference Tranche"
+"Group 2 Senior Percentage"
+"Group 2 Senior Reference Tranche"
+"Group 2 Subordinate Percentage"
+<t>"Group 2 Termination Date"
+"Group Termination Date "
+"Initial Cohort Pool"
+"Interest Accrual Amount"
+"Interest Payment Amount"
+"Interest Settlement Rate"
+"Investment Advisers Act"
+"Investment Company Act"
+"Junior Reference Tranches"
+"LIBOR Adjustment Date"
+"LIBOR Business Day"
+"Limited Compliance Reviews"
+"Liquidation Recovery Amount"
+"Liquidation Recovery Mortgage Loans"
+"Loan Acquisition Practices Credit Standards"
+"Loan Acquisition Practices Quality Control
+"Loan Acquisition Practices Quality Control Fannie Mae Quality Control
+"Loan Acquisition Practices Quality Control Loan Remediation Process Appeal Process
+"Loan Acquisition Practices Quality Control Loan Remediation Process Repurchases"
+"Loan Acquisition Practices Quality Control Loan Seller Quality Control Requirements"
+"Loan Acquisition Practices Quality Control"
+"Loan Acquisition Practices Servicing Standards"
+"Loan Acquisition Practices Single-Family Business Overview"
+"Loan Acquisition Practices"
+"Loan Group 1 Cut-off Date Balance"
+"Loan Group 2 Cut-off Date Balance"
+<t>"Maturity Date"
+"Mezzanine Reference Tranches"
+"Minimum Credit Enhancement Test"
+"Modeling Assumptions"
+"Modification Event "
+"Modification Event " By
+"Modification Event " For
+"Modification Loss Amount"
+"Mortgage Insurance Credit Amount"
+"Neighborhood Stabilization Initiative "
+"Net Liquidation Proceeds"
+"On-Market Swap Rate"
+"Original Accrual Rate"
+"Payment Date Statement"
+"Payment Errors"
+"Plan Asset Regulation"
+"Preliminary Class Notional Amount "
+<t>"Preliminary Principal Loss Amount "
+<t>"Preliminary Tranche Write-down Amount "
+<t>"Preliminary Tranche Write-up Amount "
+<t>"Principal Loss Amount"
+"Principal Recovery Amount"
+"Projected Recovery Amount
+"Projected Recovery Amount"
+"Qualified Institutional Buyer"
+"Qualified Institutional Buyers"
+"Qualified Stated Interest"
+"Recovery Election Date"
+"Reference Pool Cut-off Date Balance"
+"Reference Pool Removal
+"Reference Pool Removals"
+"Relevant Implementation Date"
+"Reversed Credit Event Amount"
+"Reversed Credit Event Reference Obligation"
+"Risk Factors
+"Risk Factors Governance
+"Risk Factors Investment Factors
+"Risk Factors Legislative
+"Risk Factors Risks Relating
+"Risk Factors The Interests
+"Risk Retention Letter"
+"Senior Preferred Stock Purchase Agreement"
+"Senior Reduction Amount"
+"Single Family Loan-Level Dataset"
+"Single Security Initiative"
+"Subordinate Reduction Amount"
+"Tranche Write-down Amount"
+<t>"Tranche Write-up Amount"
+"Transaction Summary Group
+"Transaction Termination Date"
+"Wells Fargo Bank"
+"Written-down Group 1 Note"
+"Written-down Group 2 Note"
+"expects " "intends " "anticipates " "estimates"
+"we " "us"
+Accordingly Fannie Mae
+Accrual Method Election
+Additionally Fannie Mae
+Additionally Prohibited Transactions
+Adverse Economic Conditions
+Aggregate Average Weighted Average Weighted Loan Original Original Loan Average
+Aggregate Cut-off Date Balance
+Aggregate Cut-off Date Balance Citigroup CitiMortgage Inc
+Aggregate Initial Cohort Pool Less
+Agreements The Debt Agreement Amendment"
+Agreements The Debt Agreement Events
+Agreements The Global Agency Agreement"
+Alberta British Columbia Ontario
+Alternative Investment Fund Managers Directive
+Amount That May Be Recovered
+Annual Interest Amount
+Any Plan Fiduciary
+Any Tranche Write-down Amounts
+Any Unscheduled Principal
+Appendix A
+Appendix A The Reference Pool
+Appendix B Diligence Provider
+Appendix C Assumed Characteristics
+Appendix D
+Appendix D Seller Restrictions
+Appraisal Adjustments 9 6
+Appraisal Data Integrity
+Appraisal Documentation 1 0
+Appraisal Documentation 3 1
+Appraisal Reviews
+Appraisals May Not Accurately Reflect
+Are Not Treated
+Army Navy Air Force Marine Corps
+Article 3 2
+Asset Calculation Analysis 5 1
+Asset Calculation Analysis 6 4
+Asset Documentation 3 2
+Asset Eligibility 2 0
+Assets 7 2
+Assumed Reference Remaining Term Original Term
+Assuming Fannie Mae
+Attention General Counsel
+Austria Cyprus France Italy Malta Portugal Slovakia Slovenia
+Average Category Count Loan Balance Balance Credit Score Ratio
+Average Weighted Principal Balance Variance Balance Reference Credit Average
+Back - 5
+Backup Withholding
+Balance Exchange Class Expected Combination Exchangeable Note Original Balance
+Barclays Capital Inc
+Benefit Plan Investor
+Benefit Plan Investors
+Blank Refinance Number
+Bond Admin Assessment
+Bond Admin Assessment"
+Bond Administration Platform
+Bond Administration Platform Wells Fargo Bank
+Book-Entry Notes
+Book-Entry Notes "Note Owners"
+Book-Entry System
+Bookrunner Barclays Capital Co-Manager BofA Merrill Lynch Co-Manager Credit Suisse Co-Manager Wells Fargo Securities Co-Manager CastleOak Securities L P
+Borrower Eligibility 2 1
+Borrowers 1 0
+Borrowers 1 2
+Borrowers 3 2 1 Number
+Borrowers May Have
+British Bankers Association
+Business Practices May Negatively Impact
+Capital Markets Act "FSCMA"
+Capital Requirements Directive
+CastleOak Securities L P
+Certain Borrowers May Present
+Certain Data Corrections May Not Result
+Certain Loan Sellers May Originate Loans Under Variances
+Certain Notes Are Not Respected
+Chase Bank N A
+Citigroup CitiMortgage Inc
+Citigroup Global Markets Inc
+Class B Note
+Class B Note Fannie Mae
+Class B Note U S Persons
+Class B Notes
+Class B Notes Are Not
+Class B Notes Are Not Treated
+Class B Notes Fannie Mae
+Class Debt M Note
+Class Expected Exchange Class
+Class M
+Class M Debt Note
+Class M Debt Notes
+Class M Debt Notes "
+Class M Debt Notes " When
+Class M Debt Notes Are Not Respected
+Class M Debt Notes Disposition
+Class M Debt Notes Fannie Mae
+Class M Debt Notes Interest
+Class M Note
+Class Notional Amount
+<t>Class Notional Amounts
+Class Principal Balance
+<t>Class Principal Balances
+Clearstream International "Clearstream International"
+<t>Closing Date
+Closing Date Fannie Mae
+Closing Date Holders
+Closing Date Reference Obligations
+Code Similar Law
+Combined Loan-to-Value Ratio
+Commodity Futures Trading Commission
+Common Stock Warrant Senior Preferred Stock Purchase Agreement"
+Compliance Reviews
+Conditions Governing Use
+Condominium Property Type 1 0
+Connecticut Avenue Securities
+Connecticut Avenue Securities Series
+Constant Prepayment Rate
+Consumer Credit Protection Act
+Consumer Financial Protection Bureau
+Consumer Financial Protection Bureau "CFPB"
+Cook County Illinois
+Corporate Trust Services
+Corresponding Reference Tranche Class
+Credit Documentation 2 0
+Credit Event Amount
+Credit Event Amounts
+Credit Event Net Gain
+<t>Credit Event Net Gains
+<t>Credit Event Net Loss
+<t>Credit Event Net Losses
+<t>Credit Event Reference Obligation
+Credit Event Reference Obligation C
+Credit Event Reference Obligations
+Credit Event Sensitivity Tables
+Credit Events
+Credit Events "
+Credit Events Due
+Credit Events Modification Events
+Credit Loss Management Work
+Credit Risk Management Set
+Credit Score Products Used
+Credit Scores May Not Accurately Predict
+Credit Standards
+Credit Suisse Securities
+Credit Support Available
+Crossing Between Loan Groups
+Cumulative Credit Events
+Cumulative Credit Events Tables
+Cumulative Note Write-down Amount Tables
+Cumulative Write-down Amount
+Current Accrual Rate
+Current Market Values
+Currently Clearstream International
+Custodial Process
+Cut-off Date
+Cut-off Date Balance
+Cut-off Date Delinquency Status Number
+Cut-off Date Occupancy Status Number
+Cut-off Date Property Type Number
+Cut-off Date Range
+Cut-off Date Remaining Term
+Cut-off Date Seasoning Months Number
+Data Integrity Review
+Data Integrity Review Discrepancies
+Date 0 5
+Dealer Affiliated Seller-Servicer
+Dealer Net Proceeds
+Dealers Fannie Mae
+Debt Agreement
+Debt Agreement Note Owners
+Debt-to-Income Ratios Number
+Declining Balances Table
+Declining Balances Tables
+Default Debt Agreement
+Default Debt Agreement"
+Default Debt Agreement" "The Agreements The Debt Agreement Rights Upon Event
+Delegated Approach
+Delinquent Loan Management
+Delinquent Loan Statistics
+Depository Trust Company "DTC"
+Deputy General Counsels
+Desktop Underwriter "DU"
+Desktop Underwriter - Documentation Requirements
+Desktop Underwriter - General
+Deutsche Bank Citibank
+Deutsche Boerse Clearing
+Diligence Discrepancies Sample Data Provider Data
+Diligence Provider
+Diligence Provider 8
+Director Mel Watt
+Discretionary Selected Loans
+Discretionary Selected Loans Total Credit Property
+Disposition Timelines May Increase
+Dispositions Mortgage Note Sales Third-Party Sales Short Sales
+Distressed Principal Balance
+Document Custodians "RDC Guide"
+Documentation Requirements May Cause Delays
+Due Diligence Provider
+Due Diligence Review
+Due-On-Sale Clauses
+Each Canadian Purchaser
+Each Class Coupon Payment
+Each Group 1 Reference Tranche
+Each Group 2 Reference Tranche
+Early Redemption Date
+Early Redemption Feature May Cause
+Early Redemption Option
+Effectively Connected Income
+Eligibility Criteria
+Eligibility Defect Defect Credit Findings 3 1 0 4 Property Valuation Findings 4 0 0 4 Compliance Findings 0 0 0 0 Total Findings 7 1 0 8 Related No
+Eligibility Defect Findings Findings Findings
+Eligibility Defect Rate
+Eligibility Defect Reason Findings Findings Comparable Selection
+Eligibility Defects Number
+Eligible Loans
+Eligible Loans February
+Employee Retirement Income Security Act
+Employment Documentation Requirements
+Enforce Remedies
+Enforce Remedies"
+Equal Credit Opportunity Act
+Equity Protection Act "HOEPA"
+Euroclear Bank S A N V
+Euroclear Banks S A N V
+Euroclear Participants
+Euroclear System "Euroclear"
+European Banking Authority
+European Economic Area
+European Economic Area "EEA"
+European Economic Area-regulated
+European Union Capital Requirements Regulation
+Exchange Administration
+Exchange Administrator
+Exchange Commission "SEC"
+Exchange Exchangeable Notes
+Exchangeable Note
+Exchangeable Notes
+Exchanges "
+Exposure Limits
+Fair Credit Billing Act
+Fair Credit Reporting Act
+Family Dwelling Unit 4
+Family Dwelling Unit 8
+Fannie Mae
+Fannie Mae "
+Fannie Mae Average
+Fannie Mae Charter
+Fannie Mae Does Not Re-Underwrite
+Fannie Mae Excluded
+Fannie Mae Investor Inquiry
+Fannie Mae May Amend
+Fannie Mae May Not Be Able
+Fannie Mae May Not Be Aligned With
+Fannie Mae Quality Control
+Fannie Mae Quality Control "
+Fannie Mae Quality Control Policy
+Fannie Mae Quality Control"
+Fannie Mae Single-Family Selling Guide
+Fannie Mae Single-Family Servicing Guide
+Fannie Mae Will Not Gross Up
+Fannie Mae"
+Federal Deposit Insurance Corporation "FDIC"
+Federal Home Loan Banks
+Federal Home Loan Mortgage Corporation "Freddie Mac"
+Federal Housing Administration "FHA"
+Federal Housing Enterprise Oversight
+Federal Housing Enterprises Financial Safety
+Federal Housing Policy Objectives Adopted
+Federal Income Tax
+Federal National Mortgage Association Charter Act
+Federal Reserve Bank
+Federal Reserve System
+Federal Truth-in-Lending Act
+Federal Truth-in-Lending Act Regulation Z
+Final Liquidation Amount
+Financial Investment Service
+Financial Services Authority
+Financial Services Commission
+Financial Services Industry May Negatively Impact Our
+Financial Services Industry May Negatively Impact Our Business
+Financial Supervisory Commission
+Findings Findings Loan Group 1 Loan Group 2 Not Identified
+First Payment Date
+First Payment Date 1 0
+First Payment Date 3 1
+First Time Home Buyer 6 0
+First Time Homebuyer First Time Homebuyer Number
+First Time Homebuyer Status No Yes
+First Time Homebuyer Status No Yes 1 First Time Homebuyer Status No Yes
+First Time Homebuyer Status No Yes 1 First Time Homebuyer Status No Yes 2 First Time Homebuyer Status No Yes
+First Time Homebuyer Status Yes No
+First Time Homebuyer Status Yes No 1 First Time Homebuyer Status Yes No
+First Time Homebuyer Status Yes No 2 Property Type Detached
+Five Digit Zip
+Five Digit Zip Code 1 0
+Floating Rate Notes
+Foreclosing Co-operative Loans
+Foreclosure Alternatives
+Foreclosure Procedures May Delay Recovery
+Foreign Account Tax Compliance Act "FATCA"
+Foreign Exchange Transaction Law
+Franklin American Mortgage Company 1
+Freddie Mac Loan Prospector
+Freedom Mortgage Corp
+Fully Taxable Bonds
+Further Fannie Mae
+Furthermore Credit Scores
+Future Incur Additional Indebtedness Secured
+Future Receivership
+Futures Act Chapter
+Garn St Germain Act
+Garn- St Germain Act
+Garn-St Germain Act
+General Information
+Geographic Concentration May Increase Risk
+Global Agency Agreement
+Global Agency Agreement Exchange Administration "
+Global Agent
+Global Agent Wells Fargo Bank
+Governing Law
+Greater Risk
+Gross Mortgage Rate
+Gross Mortgage Rates
+Gross Mortgage Rates Number
+Group 1
+Group 1 All Eligible Group 1 Loans Acquired
+Group 1 Class
+Group 1 Classes
+Group 1 Early Redemption Date
+Group 1 Early Redemption Option
+Group 1 Exchangeable Notes
+Group 1 Junior Reference Tranche
+Group 1 Junior Reference Tranches
+Group 1 Liquidation Amount
+Group 1 Liquidation Date
+Group 1 Liquidation Period
+Group 1 Liquidation Recovery Amount
+Group 1 Mezzanine Reference Tranche
+Group 1 Mezzanine Reference Tranches
+Group 1 Note
+Group 1 Notes
+Group 1 Offered Notes
+Group 1 Projected Recovery Amount
+Group 1 Recovery Election Date
+Group 1 Reference Tranche
+Group 1 Reference Tranches
+Group 1 Senior Percentage
+Group 1 Senior Reference Tranche
+Group 1 Subordinate Percentage
+<t>Group 1 Termination Date
+Group 1 We
+Group 2
+Group 2 All Eligible Group 2 Loans Acquired
+Group 2 Class
+Group 2 Classes
+Group 2 Early Redemption Date
+Group 2 Early Redemption Option
+Group 2 Exchangeable Notes
+Group 2 Junior Reference Tranche
+Group 2 Junior Reference Tranches
+Group 2 Liquidation Amount
+Group 2 Liquidation Date
+Group 2 Liquidation Period
+Group 2 Liquidation Recovery Amount
+Group 2 Mezzanine Reference Tranche
+Group 2 Mezzanine Reference Tranches
+Group 2 Note
+Group 2 Notes
+Group 2 Offered Notes
+Group 2 Projected Recovery Amount
+Group 2 Recovery Election Date
+Group 2 Reference Tranche
+Group 2 Reference Tranches
+Group 2 Senior Percentage
+Group 2 Senior Reference Tranche
+Group 2 Subordinate Percentage
+Group 2 Termination Date
+Group Liquidation Period
+Group Termination Date
+Guaranteed Mortgage Pass-Through Certificates "MBS"
+Guaranty Obligations
+Higher Loan-to-Value Ratios May Present
+Home Affordable Refinance Program "HARP"
+Homeowner Association Liens May Take Priority Over
+Houston-The Woodlands-Sugar Land
+However Fannie Mae
+However The Garn-St Germain Depository Institutions Act
+However Wells Fargo Bank
+Hypothetical Structure
+Hypothetical Structure Is Limited
+Improvements 2 0
+Improvements 3 2
+Income Documentation 6 2
+Income Eligibility 6 4
+Income Employment Calculation Analysis
+Income Employment Calculation Analysis 6 4
+Indebtedness " Fannie Mae
+Individual Condominium Unit Appraisal Report Form
+Individual Cooperative Interest Appraisal Report Form
+Initial Class Classes Coupon Class Coupon Formula Minimum Rate
+Initial Class Notional Initial Group 1 Reference Tranches Class
+Initial Class Notional Initial Group 2 Reference Tranches Class
+Initial Cohort Pool
+Initial Loan Seller
+Insurance 0 0
+Insurance Eligibility 1 0
+Intercontinental Exchange Benchmark Administration "ICE"
+Intercontinental Exchange Group Inc
+Interest Accrual Amount
+<t>Interest Payment Amount
+<t>Interest Payment Amounts
+Interest Settlement Rate
+Interest Settlement Rates
+Internal Revenue Code
+Internal Revenue Service
+Investment Advisers Act
+Investment Advisers Act H Any
+Investment Company Act
+Investment Company Act C Any Small Business Investment Company
+Investment Properties May
+Investors Dealer Discounts Proceeds
+Investors Have No Direct Right
+Investors Holding Lower Rated Notes
+Investors Service Inc
+Its Loan Sellers Which May
+Its Loan Sellers Which May Adversely Affect
+Japan Act No
+Joint Bookrunner Citigroup Co-Lead Manager
+Junior Reference Tranches
+Katten Muchin Rosenman
+Kroll Bond Rating Agency Inc
+Kroll Bond Ratings Agency
+Kroll Proportions 1
+Latest Maturity Date
+Legal Investment
+Legal Investment Considerations May Restrict Certain Investors
+Legal Regulatory Compliance 0 0
+Levels Could Reduce
+Liabilities Calculation Analysis
+Liabilities Calculation Analysis 6 4
+Liabilities Documentation 4 1
+Limit Disposition Alternatives
+Limit Investors Ability
+Limited Compliance Review
+Limited Compliance Review Findings
+Limited Compliance Reviews
+Limited Compliance Reviews 1 3
+Limited Compliance Reviews 1 6
+Limited Liquidity
+Liquidation Date
+Liquidation May Reduce Liquidation Proceeds
+Liquidation Recovery Amount
+Liquidation Recovery Amount "
+Liquidation Recovery Date
+Liquidation Recovery Mortgage Loans
+Loan Data Delivery
+Loan Delivery Controls
+Loan File 1 0
+Loan Group
+Loan Group 1
+Loan Group 1 Class
+Loan Group 1 Cut-Off Date Balance
+Loan Group 1 Cut-off Date Balance
+Loan Group 1 Reference Obligations
+Loan Group 1and
+Loan Group 2
+Loan Group 2 Assumed Reference Remaining Term Original Term
+Loan Group 2 Average
+Loan Group 2 Class
+Loan Group 2 Cut-Off Date Balance
+Loan Group 2 Cut-off Date Balance
+Loan Group 2 Reference Pool
+Loan Group 2 The Diligence Provider
+Loan Group 2and
+Loan Group A
+Loan Group Cut-off Date Balance
+Loan Groups
+Loan Modifications
+Loan Performance Monitoring
+Loan Purpose 2 0
+Loan Purpose Blank Refinance
+Loan Purpose Blank Refinance 1 Number
+Loan Remediation Process
+Loan Seller Quality Control Requirements
+Loan Seller Servicer Willingness
+Loan Seller Training
+Loan Sellers
+Loan Sellers Proprietary Automated Underwriting Systems
+Loan Sellers"
+Loans 7 1 0 8 Diligence Sample 0
+Loans Diligence Sample Total Diligence Sample 1
+Loans Savings Banks
+Local Laws May Result
+London New York City
+Loop Capital Markets
+Los Angeles-Long Beach-Anaheim
+Lost Accrued
+Lost Accrued Interest
+Luxembourg Financial Sector Supervisory Commission
+Make-Whole Proceeds Will Be Dependent
+Making Home Affordable Program
+Manual Underwriting
+Manufactured Home Appraisal Report Form
+Manufactured Homes May Present
+March Payment Date
+Marquette Avenue Minneapolis Minnesota
+Material Findings
+Material Findings Fannie Mae
+Maturity Assumed Price
+Maturity Assumed Price 6
+Maturity Assumed Price 7
+Maturity Date
+Maturity Date 2
+Maturity Date Fannie Mae
+Maturity Maturity Current Mortgage Number Balance
+Maximum Original Class
+May Limit Investors Ability
+May Not Be Sufficient
+May Significantly Affect
+Medicare Tax
+Merrill Lynch Pierce Fenner Smith Incorporated
+Metropolitan Statistical Areas
+Metropolitan Statistical Areas "MSA" Top
+Mezzanine Reference Tranches
+Military Selective Service Act
+Minimum Credit Enhancement Test
+Minimum Credit Enhancement Test Will Not Be Satisfied
+Minimum Incremental Class Original Form Denomination Denomination Class
+Modification Events
+Modification Events "
+<t>Modification Loss Amount
+Modification Loss Amount "
+Modification Loss Amount Group
+Modification Loss Amount"
+Modification Loss Amounts
+Monetary Union Eurozone
+Morgan Chase Bank N A
+Morgan Citigroup Barclays BofA Merrill Credit Suisse
+Morgan Lead Manager
+Morgan Lewis Bockius
+Mortgage Acquisitions Acquire
+Mortgage Bankers Association
+Mortgage Electronic Registration Systems Inc
+Mortgage Insurance
+Mortgage Insurance Cancellation Indicator Mortgage Insurance Cancellation Number
+Mortgage Insurance Credit Amount
+Mortgage Insurance Lender-or Borrower-Paid Mortgage Insurance Lender-
+Mortgage Insurance Mortgage Insurance Number
+Mortgage Interest Rates May Hinder Refinancing
+Mortgage Liens
+Mortgage Loan Historical Information Is Not Indicative
+Mortgage Loans First Payment Date Number
+Mortgage Loans It Acquires
+Mortgage Loans Loan Purpose Number
+Mortgage Loans Made
+Mortgage Loans Maturity Date
+Mortgage Loans Original Term
+Mortgage Loans Origination Channel Number
+Mortgage Loans Product Type Number
+Mortgage Loans Secured
+Mortgage Loans Seller Number
+Mortgage Loans Servicer Number
+Mortgage Loans Since Acquisition Delinquency Status Since Acquisition Number
+Mortgage Loans State
+Mortgage Loans That Are Cash-out Refinance
+Mortgage Loans That Are Cash-out Refinance Transactions May
+Mortgage Loans That Are Secured
+Mortgage Loans That Could Lead
+Mortgage Loans Top
+Mortgage Loans Unpaid Principal Balance
+Mortgage Origination Risk Assessment
+Mortgage Program Eligibility
+Mortgage Program Eligibility 7 5
+Mortgage Rate W A
+Mortgage-Related Securities May Adversely Affect
+Mortgaged Properties
+Mortgaged Properties By State
+Mortgaged Properties By Zip Code
+Mortgaged Properties Loan-to-Value Ratios May Be Calculated Based
+Mortgaged Properties Loanto-Value Ratios May Be Calculated Based
+Mortgaged Properties May Not Be Sufficient
+Mortgaged Properties Securing
+Mortgaged Properties Top
+Multiple Risk Factors May Significantly Increase
+National Delinquency Survey
+Natural Disasters
+Neighborhood Stabilization Initiative
+Neither Fannie Mae
+<t>Net Liquidation Proceeds
+New Jersey 1
+New Jersey 2
+New Lender Selling Representations
+New York 1
+New York 2
+New York Mellon
+New York New York County
+New York-Newark-Jersey City
+Non Metro 5
+Non-Performing Loan Sales
+North Carolina 1
+Note Classes Group Original Principal Balance Class Coupon
+Note Fannie Mae
+Note Notional Amount
+Note Owners
+Note Owners May Be Limited
+Noteholders Potential Conflicts
+Noteholders Rights Under
+Notes " Payment Date
+Notes A Reduction Withdrawal
+Notes Being Linked
+Notes Due August
+Notes Early Redemption Option Group
+Notes Early Redemption Option"
+Notes Fannie Mae
+Notes Form Registration
+Notes Hypothetical Structure
+Notes If Applicable Are
+Notes If Applicable Are Likely
+Notes Interest Accrual Amount
+Notes Interest"
+Notes Investors Have No Direct Right
+Notes J P
+Notes May Be Limited
+Notes May Be Redeemed Early
+Notes May Limit Investors Ability
+Notes May Not Be Reflective
+Notes May Result
+Notes Recovery Election Dates "
+Notes Termination Dates " Early Redemption Option
+Notes The Class
+Notes The Notes Issuance
+Notes Which May Limit Investors Ability
+Notes Will Not Be Rated
+Novel Transaction That May Result
+Number Maturity Date Expected Ratings Moody
+Number Ratings Moody
+Obligation Group Outstanding Principal
+Obligations 1 Loan Seller Proprietary
+Obligations That Could Lead
+Offered Notes
+Offered Notes Closing Date On
+Offered Notes The Classes
+Offering Terms The
+Old Annapolis Road Columbia Maryland
+On-Market Swap Rate
+Ongoing Loan Seller
+Ongoing Registrant Obligations "NI
+Original Accrual Rate
+Original Class Principal Balance
+Original Class Principal Balance 0 5
+Original Class Principal Balances
+Original Class Principal Balances Outstanding
+Original Combined Loan
+Original Combined Loan-to-Value Ratio
+Original Credit Score W A
+Original Issue Discount
+Original Issue Discount Accrual
+Original Loan-to-Value Ratio
+Original Principal Balance
+Origination Credit Scores
+Origination Date Range
+Origination Mortgage Loans
+Origination Which May Not Be Accurate Reflections
+Other Mortgage Loans
+Other Pass-through Entities
+Others May Conflict With
+Our Guaranty Obligations
+Our Limited Compliance Reviews
+Our Selling Guide
+Our Selling Guide"
+Our Servicing Guide
+Overall Credit Quality
+Oversight Additional Monitoring
+Page Page
+Participants Indirect Participants Clearstream Euroclear
+Paying Agent Intend
+<t>Payment Date
+Payment Date Fannie Mae
+Payment Date Holders
+Payment Date Interest Only
+Payment Date Statement
+Payment Date Statements
+Payment Dates
+Payments No Recourse
+Performance Management
+Permitted Variances
+Persons "non-U S
+Persons Class B Notes"
+Persons Class M Debt Notes
+Persons Class M Debt Notes Accrual Method Election "
+Pingora Loan Servicing
+Plan Asset Regulation
+Plan Fiduciaries
+Possible Alternate Treatment Deemed Reissuance
+Possible Alternate Treatment Deemed Reissuance"
+Post-Purchase Quality Control Review Selections 4
+Post-Purchase Quality Control Review Selections 7
+Post-Purchase Quality Control Review Selections Number
+Potential Effect Over Time
+Potential Military Action
+Preliminary Class Notional
+Preliminary Class Notional Amount
+<t>Preliminary Class Notional Amounts
+Preliminary Principal Loss Amount
+Preliminary Tranche Write-down Amount
+Preliminary Tranche Write-down Amount Preliminary Tranche Write-up Amount
+Preliminary Tranche Write-up Amount
+Prepayment Assumption
+Prepayment Assumption Date 0 5
+Prevailing Interest Rates
+Price Stabilization
+Principal Balance Amount
+Principal Collections Specified Credit Events Class
+Principal Loss Amount
+Principal Loss Amounts
+Principal Payment Collections
+<t>Principal Recovery Amount
+<t>Principal Recovery Amounts
+Program Loss Structure That May Result
+Prohibited Transaction Exemptions
+Prohibited Transactions
+Projected Recovery Amount
+Property Assessed Clean Energy
+Property Eligibility 9 3
+Property Inspection Report Form
+Property Inspection Waiver
+Property Review Findings Loan Group 1 Eligible Loans Loan Group 2 Eligible Loans
+Property Type Single Family Detached
+Property Valuation Findings
+Property Valuation Reviews
+Proportions 1 Coupon
+Prospectus Directive
+Prospectus Exemptions "NI
+Prospectus Fannie Mae
+Protect Noteholders
+Public Health Service
+Qualified Institutional Buyer
+Qualified Institutional Buyer Note A
+Qualified Institutional Buyers
+Qualified Stated Interest
+Quality Assurance
+Quality Assurance Processes
+Quality Control
+Quality Control Procedures
+Quality Control Self-Assessment Tool
+Quicken Loans Inc
+Rate 1 1
+Rated Notes
+Rated Notes May Adversely Affect
+Rated Notes May Not Reflect All Risks
+Rated Notes May Not Reflect All Risks"
+Ratio 1 2
+Ratio 1 2 3
+Ratio 1 2 3 4
+Ratio Broker Correspondent Retail 4
+Ratio Broker Correspondent Retail 9
+Ratio California 4
+Ratio Condo Co-op Manufactured Housing
+Ratio Fixed Rate
+Ratio Investment Property Owner-Occupied Second Home
+Ratio Los Angeles-Long Beach-Anaheim
+Ratio Never Delinquent
+Ratio No Yes
+Ratio Non Metro 3
+Ratio Purchase No Cash-out Refinance Cash-out Refinance
+Ratio W A
+Ratio Wells Fargo Bank N A
+Ratio Yes No
+Real Estate Pricing
+Real Estate Settlement Procedures Act
+Receiver May Transfer
+Receivership Which Could Adversely Affect Our Performance Under
+Recombinable Notes "RCR Notes"
+Record Type Loan File Data Diligence Provider Data Loan Group
+Recovery Election Date
+Recovery Election Date Fannie Mae
+Recovery Election Date Holders
+Recovery Election Dates
+Recovery Elections
+Reduced Lending Capacities
+Reduced Withholding Rate
+Reference 3
+Reference Category Millions 1 Obligations 1 Score 1
+Reference Obligation
+Reference Obligation Fannie Mae
+Reference Obligations
+Reference Obligations "Loan Group
+Reference Obligations B
+Reference Obligations Could Be Dependent
+Reference Obligations Due Diligence Review Data Integrity Review"
+Reference Obligations Due Diligence Review"
+Reference Obligations Fannie Mae
+Reference Obligations Foreclosure "
+Reference Obligations May Not
+Reference Obligations May Not Reveal All Aspects That Could Lead
+Reference Obligations May Not Reveal Aspects
+Reference Obligations Not Reveal All Aspects That Could Lead
+Reference Obligations Results
+Reference Obligations That Become Credit Event Reference Obligations May Not
+Reference Obligations That Become <t>Credit Event Reference Obligations May Not Result
+Reference Obligations That Could Lead
+Reference Obligations That Might Be Allocated
+Reference Obligations Will Affect
+Reference Pool
+Reference Pool Certain Loan Sellers May Originate Loans Under Variances
+Reference Pool Criteria
+Reference Pool Cut-off Date Balance
+Reference Pool Fannie Mae
+Reference Pool Formation
+Reference Pool Formation"
+Reference Pool Limited Scope
+Reference Pool May Not Reveal All Aspects Which Could Lead
+Reference Pool May Not Reveal Aspects
+Reference Pool Removal
+Reference Pool Removals
+Reference Pool Servicers May Not Follow
+Reference Pool Servicing
+Reference Pool"
+Reference Tranche
+Reference Tranche 3
+Reference Tranche Interest Accrual Amount
+Reference Tranche Only Class
+Reference Tranche Only Reference Tranches
+Reference Tranche Only Shown
+Reference Tranches
+Reference Tranches " If
+Reference Tranches " In
+Reference Tranches Allocation
+Reference Tranches Class
+Reference Tranches Increases Risk
+Reference Tranches Pursuant
+Reference Tranches"
+Registration Requirements Exemptions
+Regulation Risks Relating
+Regulatory Actions Could Adversely Affect
+Regulatory Actions Could Adversely Affect Our Business Activities
+Related Definitions
+Related Loan Group
+Related Reference Obligation
+Related Reference Obligations May Impact
+Relevant Implementation Date
+Relevant Member State
+Relief Act
+Removal Repurchase Current
+Repay Your Notes
+<t>Reporting Period
+Reporting Requirements
+Representative Credit Score
+Representative Credit Score 1 0
+Repurchase Proceeds
+Repurchase Reference Obligations
+Resell Those Notes
+Resell Those Notes "
+Resell Those Notes " " The Ratings
+Residential Mortgage Market Turbulence
+Residential Real Estate Values May Fluctuate
+Respect Thereto May Affect Yields
+Reveal All Aspects That Could Lead
+Reversed Credit Event Amount
+Reversed Credit Event Reference Obligation
+<t>Reversed Credit Event Reference Obligations
+Review Decisions
+Review Material Findings Finding Category Number
+Review Process
+Reviewed Loans Randomly Selected Loans
+Reviewed Loans Randomly Selected Loans 1
+Reviewed Loans Randomly Selected Loans 5 0
+Rights Upon Event
+Risk Management
+Risk Retention
+Risk Retention Letter
+Risk Retention Regulation
+Roundpoint Mortgage Servicing Corp
+Same-Day Funds Settlement System
+Scheduled Principal Unscheduled Principal
+Secondary Mortgage Market Enhancement Act
+Section 3 3
+Secure File Transfer Protocol
+Securities Act Note A
+Securities Act Ontario
+Securities Exchange Act
+Securities Investor Protection Corporation
+Security Instruments
+Selected Reference Obligation Data
+Sell Fannie Mae
+Selling Group Member
+Selling Group Member Loop Capital Markets
+Selling Guide
+Selling Guide Lender Announcements
+Selling Guide Servicing Guide
+Selling Restrictions
+Seneca Mortgage Servicing
+Senior Preferred Stock
+Senior Preferred Stock Purchase Agreement
+Senior Preferred Stock Purchase Agreement "
+Senior Preferred Stock Purchase Agreement Noteholders
+Senior Preferred Stock Purchase Agreement Treasury
+Senior Reduction Amount
+Senior Reduction Amount Subordinate Reduction Amount
+Senior Reduction Amounts
+Senior Reduction Amounts Subordinate Reduction Amounts Tranche Write-Down Amounts Tranche Write-up Amounts
+Senior Reference Tranches
+Servicemembers Civil Relief Act
+Servicer Compliance Oversight
+Servicer Eligibility
+Servicer Management
+Servicers May Adversely Affect
+Servicers May Not Follow
+Servicing Alignment Initiative
+Servicing Alignment Initiative "SAI"
+Servicing Guide
+Servicing Standards
+Servicing Standards Delinquent Loan Management " In
+Servicing Standards Delinquent Loan Management Non-Performing Loan Sales"
+Servicing Standards May Change
+Servicing Standards May Change Periodically
+Servicing Standards May Change Periodically"
+Servicing Support Center
+Servicing Transfers May Result
+Similar Law
+<t>Similarly Modification Loss Amounts
+Similarly Tranche Write-down Amounts
+Single Family Detached
+Single Family Loan-Level Dataset
+Single-Family Business Overview
+Single-Family Conventional Loans
+Single-Family Credit Guaranty
+Small Business Administration
+Small Business Investment Act
+Small Residential Income Property Appraisal Report Form
+Solicitation May Result
+Some Instances Limit
+South Carolina 1
+Special Note Regarding Class
+Status Since Acquisition Current Status 1 Total Current
+Street N E Washington D C
+Submission Requirements
+Subordinate Financing
+Subordinate Reduction Amount
+Subordinate Reduction Amount"
+Subordinate Reduction Amounts
+Subordination 1 4
+Such Definitive Notes
+Such Withheld Amounts
+SunTrust Mortgage Inc
+Termination Dates
+Terms Interest"
+Terms The Reference Pool Characteristics
+Terms The Reference Pool"
+Terrorist Attacks
+There May Be Conflicts
+Therefore Credit Scores
+Thereto May Affect Yields
+Thus Fannie Mae
+Timely Basis May Affect Yields
+Top Five Geographic Concentration
+Total Average
+Total Average Number
+Total Unpaid Weighted
+Training Resources Catalog
+Tranche Write-Down Amount
+Tranche Write-Down Amounts
+Tranche Write-Up Amount
+Tranche Write-down
+Tranche Write-down Amount
+Tranche Write-down Amounts
+Tranche Write-down Amounts " Such
+Tranche Write-down Amounts " Tranche Write-down Amounts
+Tranche Write-down Amounts Tranche Write-up Amounts
+Tranche Write-down Amounts"
+Tranche Write-up Amount
+Tranche Write-up Amounts
+Tranche Write-up Amounts"
+Tranche Writedown Amounts
+Transaction Diagram
+Transaction May Result
+Transaction Termination Date
+Treasury "Treasury"
+Treasury Agreements Treasury Agreements Senior Preferred Stock Purchase Agreement
+Treasury Regulations
+Truthin-Lending Regulation Z
+Undefined 5 1
+Underwriting Process
+Uniform Appraisal Dataset "UAD"
+Uniform Collateral Data Portal "UCDP"
+Uniform Commercial Code "Article
+Uniform Loan Delivery Dataset "ULDD"
+Uniform Mortgage Data Program
+Uniform Residential Appraisal Report Form
+United Kingdom
+United Kingdom Financial Services
+United States
+United States " Furthermore Class M Debt Notes
+United States Bankruptcy Code
+United States China
+United States Department
+United States District Court
+United States Federal Tax Consequences
+United States May Adversely Affect
+United States Office
+Units 1 0
+Units 2 3
+Unpaid Permitted Principal Number
+Unpaid Principal Balance
+Unpaid Principal Balance Borrower-Paid Lender-Paid
+Unpaid Principal Balance W A
+Unpaid Principal Balances
+<t>Unscheduled Principal
+Urban Development "HUD"
+Usage 3 1
+Using Collateral UnderwriterTM
+Utilities 1 0
+Utilities 4 1
+Value 1 0
+Value 3 0
+Various Federal State
+Various Matters Regarding
+Various Matters Regarding Fannie Mae
+Veterans Affairs "VA"
+Virgin Islands 7 1
+Warrant Framework
+Warranties Framework
+Warranty Settlement Amount
+Warranty Settlement Amount"
+Warranty Settlement Amounts
+Warranty Settlement Coverage Amount
+Warranty Settlement Coverage Amount"
+Washington D C
+Weighted Average 4
+Weighted Average Life
+Weighted Average Life Tables
+Weighted Average Life Tables Credit Event Sensitivity Table Cumulative Note Write-down Amount Tables
+Weighted Average Life Tables Declining Balances Tables Credit Event Sensitivity Table Cumulative Note Write-down Amount Tables
+Weighted Average Lives
+Weighted Average Lives Class
+Wells Fargo Bank
+Wells Fargo Bank N A
+Wells Fargo Company
+Wells Fargo Securities
+Wells Fargo Wells Fargo Bank N A
+While Fannie Mae
+Withhold U S
+Withholding Tax
+Withholding Tax "
+Write-up Excess
+Write-ups Will Result
+Written-down Group 1 Note
+Written-down Group 1 Notes
+Written-down Group 2 Note
+Written-down Group 2 Notes
+Yes First Time Home Buyer 4 0
+Yes No Property Type 1 0
+Yield Considerations
+Yield Considerations Yield Considerations
+Yield Considerations"
+Yield Tables
+Your Notes
+Your Notes"
+Zip Codes Number
+Zip Codes Top
