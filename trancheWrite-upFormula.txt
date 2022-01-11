@@ -1,0 +1,20 @@
+TrWrAm: [Tranche Write-up Amount]: max (PrRecAm, PrLosAm)
+	PrRecAm: [Principal Recovery Amount]: sum(CrEvNetLos,CrEvNetGa,RepWarSetAm)
+		CrEvNetGa: [Credit Event Net Gain]: max(NetLiqPr – sum(CrEvUPB,see_def),0)
+			CrEvUPB: [Credit Event UPB]: (CrEv, PayDat, Per, RepPer, CrEvRefObl)
+			NetLiqPr: [Net Liquidation Proceeds]:  sum(LiqPr, MorInsCrAm,see_def)
+		NetLiqPr: [Net Liquidation Proceeds]: sum(LiqPr,MorInsCrAm), less expensese
+			LiqPr: [Liquidation Proceeds]: (CrEvRefObl, CrEv)
+			MorInsCrAm: [Mortgage Insurance Credit Amount]: (CrEvRefObl, CrEv)
+		LiqPr: [Liquidation Proceeds]: (CrEvRefObl, CrEv)
+			CrEvRefObl: [Credit Event Reference Obligation]: (CrEv,
+		CrEvNetLos: [Credit Event Net Loss]: max(sum(CrEvUPB,see_def) - NetLiqPr, 0)
+			NetLiqPr: [Net Liquidation Proceeds]: above
+			CrEvUPB: [Credit Event UPB]: above
+	PrLosAm: [Principal Loss Amount]: sum(CrEvNetLos, cramdowns, parts of ModLosAm)
+		ModLosAm: [Modification Loss Amount]: (1/12(OrAccRa - CurAccRat)*UPB)
+			CurAccRat: [Current Accrual Rate]: (PayDat, ModEv)
+			OrAccRat: [Original Accrual Rate]: (CutDat)
+		CrEvNetLos: [Credit Event Net Loss]: (sum(CrEvUPB, prior principal forgiveness, delinquent interest ( CurAccRat))  - NetLiqPr)
+			NetLiqPr: [Net Liquidation Proceeds]: above
+			CrEvUPB: [Credit Event UPB]: above

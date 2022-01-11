@@ -1,0 +1,4180 @@
+graph: !!python/object:networkx.classes.digraph.DiGraph
+  adj: &id001
+    Accrual Period:
+      LIBOR Adjustment Date: &id372 {}
+      Payment Date Statement: &id531 {}
+    Annual Interest Amount: {}
+    Applicable Investor:
+      Retained Interest: &id651 {}
+      Risk Retention Letter: &id672 {}
+    Available Loans:
+      Initial Cohort Pool: &id343 {}
+    Barclays:
+      BofA Merrill: &id020 {}
+      Citigroup: &id047 {}
+      Credit Suisse: &id117 {}
+      Dealer Agreement: &id133 {}
+      Dealers: &id141 {}
+      JP Morgan: &id364 {}
+      Wells Fargo: &id746 {}
+    Benefit Plan Investor:
+      Investment Company Act: &id362 {}
+    BofA Merrill:
+      Barclays: &id011 {}
+      Citigroup: &id048 {}
+      Credit Suisse: &id118 {}
+      Dealer Agreement: &id134 {}
+      Dealers: &id142 {}
+      JP Morgan: &id365 {}
+      Wells Fargo: &id747 {}
+    Book-Entry Notes:
+      Common Depositary: &id078 {}
+      Definitive Notes: &id151 {}
+      Indirect Participants: &id338 {}
+      Note Owners: &id484 {}
+      Participants: &id521 {}
+      Payment Date: &id526 {}
+      Record Date: &id623 {}
+    Business Day:
+      ICE Method: &id332 {}
+      Interest Settlement Rate: &id356 {}
+      LIBOR Adjustment Date: &id373 {}
+      LIBOR Business Day: &id378 {}
+      One-Month LIBOR: &id509 {}
+      Payment Date: &id527 {}
+      Record Date: &id624 {}
+    CLASS B NOTES: {}
+    CPDI Regulations: {}
+    Canadian Purchaser:
+      NI 31-103: &id458 {}
+      NI 45-106: &id469 {}
+      Securities Laws: &id687 {}
+    Citigroup:
+      Barclays: &id012 {}
+      BofA Merrill: &id021 {}
+      Credit Suisse: &id119 {}
+      Dealer Agreement: &id135 {}
+      Dealers: &id143 {}
+      JP Morgan: &id366 {}
+      Wells Fargo: &id748 {}
+    Class B Notes:
+      Class M Debt Notes: &id055 {}
+      On-Market Swap Rate: &id506 {}
+    Class Coupon:
+      Annual Interest Amount: &id006 {}
+      Dealer: &id129 {}
+      Interest Accrual Amount: &id345 {}
+      LIBOR Adjustment Date: &id374 {}
+      Modeling Assumptions: &id423 {}
+      On-Market Swap Rate: &id507 {}
+    Class M Debt Notes:
+      CPDI Regulations: &id034 {}
+      PAC Method: &id519 {}
+      Withholding Agent: &id757 {}
+    Class Notional Amount:
+      Annual Interest Amount: &id007 {}
+      Group 1 Senior Percentage: &id238 {}
+      Group 2 Senior Percentage: &id292 {}
+      Interest Accrual Amount: &id346 {}
+      Modeling Assumptions: &id424 {}
+      Preliminary Class Notional Amount: &id566 {}
+      Preliminary Principal Loss Amount: &id575 {}
+      Write-up Excess: &id760 {}
+    Class Principal Balance:
+      Annual Interest Amount: &id008 {}
+      Group 1 Termination Date: &id248 {}
+      Group 2 Termination Date: &id302 {}
+      Interest Accrual Amount: &id347 {}
+      Modeling Assumptions: &id425 {}
+      Payment Date Statement: &id532 {}
+    Clearstream:
+      Book-Entry Notes: &id028 {}
+      Clearstream International: &id072 {}
+      Clearstream Participants: &id073 {}
+      Common Depositary: &id079 {}
+      Indirect Participants: &id339 {}
+      Note Owners: &id485 {}
+      Participants: &id522 {}
+    Clearstream International:
+      Clearstream: &id071 {}
+    Clearstream Participants: {}
+    Closing Date:
+      Accrual Period: &id003 {}
+      Book-Entry Notes: &id029 {}
+      Class M Debt Notes: &id056 {}
+      Dealer: &id130 {}
+      Debt Agreement: &id148 {}
+      Global Agency Agreement: &id199 {}
+      Group 1 Offered Notes: &id224 {}
+      Group 2 Offered Notes: &id277 {}
+      Modeling Assumptions: &id426 {}
+      Offered Notes: &id503 {}
+      Retained Interest: &id652 {}
+      Risk Retention Letter: &id673 {}
+    Combination RCR Note: {}
+    Combinations: {}
+    Common Depositary: {}
+    Complaint: {}
+    Credit Event:
+      Credit Event Amount: &id091 {}
+      Credit Event Net Gain: &id098 {}
+      Credit Event Net Loss: &id104 {}
+      Credit Event Reference Obligation: &id110 {}
+      Credit Event UPB: &id112 {}
+      Group 1 Reference Tranche: &id230 {}
+      Group 2 Reference Tranche: &id284 {}
+      Liquidation Proceeds: &id392 {}
+      Liquidation Recovery Mortgage Loans: &id403 {}
+      Modeling Assumptions: &id427 {}
+      Mortgage Insurance Credit Amount: &id456 {}
+      Net Liquidation Proceeds: &id480 {}
+      Payment Date Statement: &id533 {}
+      Principal Loss Amount: &id584 {}
+      Principal Recovery Amount: &id594 {}
+      Recovery Principal: &id628 {}
+      Reference Pool Removals: &id637 {}
+      Reversed Credit Event Amount: &id662 {}
+      Transaction Summary: &id724 {}
+      Unscheduled Principal: &id737 {}
+    Credit Event Amount:
+      Modeling Assumptions: &id428 {}
+      Payment Date Statement: &id534 {}
+      Recovery Principal: &id629 {}
+      Reversed Credit Event Amount: &id663 {}
+    Credit Event Net Gain:
+      Principal Recovery Amount: &id595 {}
+    Credit Event Net Loss:
+      Principal Loss Amount: &id585 {}
+      Principal Recovery Amount: &id596 {}
+    Credit Event Reference Obligation:
+      Credit Event Amount: &id092 {}
+      Credit Event Net Gain: &id099 {}
+      Credit Event Net Loss: &id105 {}
+      Credit Event UPB: &id113 {}
+      Liquidation Proceeds: &id393 {}
+      Liquidation Recovery Mortgage Loans: &id404 {}
+      Modeling Assumptions: &id429 {}
+      Mortgage Insurance Credit Amount: &id457 {}
+      Net Liquidation Proceeds: &id481 {}
+      Payment Date Statement: &id535 {}
+      Principal Loss Amount: &id586 {}
+      Principal Recovery Amount: &id597 {}
+      Reversed Credit Event Amount: &id664 {}
+      Unscheduled Principal: &id738 {}
+    Credit Event UPB:
+      Credit Event Amount: &id093 {}
+      Credit Event Net Gain: &id100 {}
+      Credit Event Net Loss: &id106 {}
+      Reversed Credit Event Amount: &id665 {}
+    Credit Suisse:
+      Barclays: &id013 {}
+      BofA Merrill: &id022 {}
+      Citigroup: &id049 {}
+      Dealer Agreement: &id136 {}
+      Dealers: &id144 {}
+      JP Morgan: &id367 {}
+      Wells Fargo: &id749 {}
+    Current Accrual Rate:
+      Credit Event Net Gain: &id101 {}
+      Credit Event Net Loss: &id107 {}
+      Modification Event: &id448 {}
+      Modification Loss Amount: &id452 {}
+    Cut-off Date:
+      Canadian Purchaser: &id036 {}
+      Eligibility Criteria: &id173 {}
+      Loan Group 1: &id407 {}
+      Loan Group 2: &id410 {}
+      NI 31-103: &id459 {}
+      NI 45-106: &id470 {}
+      Original Accrual Rate: &id515 {}
+      Payment Date Statement: &id536 {}
+      Reference Obligations: &id633 {}
+      Reference Pool: &id635 {}
+      Securities Laws: &id688 {}
+    Dealer:
+      Barclays: &id014 {}
+      BofA Merrill: &id023 {}
+      Canadian Purchaser: &id037 {}
+      Citigroup: &id050 {}
+      Credit Suisse: &id120 {}
+      Dealer Agreement: &id137 {}
+      Dealers: &id145 {}
+      JP Morgan: &id368 {}
+      NI 31-103: &id460 {}
+      NI 45-106: &id471 {}
+      Relevant Implementation Date: &id642 {}
+      Securities Laws: &id689 {}
+      Wells Fargo: &id750 {}
+    Dealer Agreement:
+      Barclays: &id015 {}
+      BofA Merrill: &id024 {}
+      Citigroup: &id051 {}
+      Credit Suisse: &id121 {}
+      JP Morgan: &id369 {}
+      Wells Fargo: &id751 {}
+    Dealers:
+      Barclays: &id016 {}
+      BofA Merrill: &id025 {}
+      Citigroup: &id052 {}
+      Credit Suisse: &id122 {}
+      Dealer Agreement: &id138 {}
+      JP Morgan: &id370 {}
+      Wells Fargo: &id752 {}
+    Debt Agreement:
+      Reference Pool Removals: &id638 {}
+      Retained Interest: &id653 {}
+      Risk Retention Letter: &id674 {}
+    Definitive Notes:
+      Payment Date: &id528 {}
+      Record Date: &id625 {}
+    Delinquency Test:
+      Modeling Assumptions: &id430 {}
+      Senior Reduction Amount: &id700 {}
+    Designated Page: {}
+    Diligence Provider:
+      Canadian Purchaser: &id038 {}
+      Diligence Sample: &id158 {}
+      Fannie Mae QC Review: &id198 {}
+      Material Finding: &id414 {}
+      NI 31-103: &id461 {}
+      NI 45-106: &id472 {}
+      Securities Laws: &id690 {}
+    Diligence Sample:
+      Material Finding: &id415 {}
+    Distressed Principal Balance:
+      Delinquency Test: &id152 {}
+    EEA RISK RETENTION:
+      EXEMPT PERSONS: &id165 {}
+    EEA Risk Retention:
+      EEA Risk Retention Regulation: &id163 {}
+      Transaction: &id722 {}
+    EEA Risk Retention Regulation:
+      Transaction: &id723 {}
+    EXEMPT PERSONS:
+      EEA RISK RETENTION: &id161 {}
+      RELEVANT PERSONS: &id621 {}
+    Early Redemption Option:
+      Group 1 Termination Date: &id249 {}
+      Group 2 Termination Date: &id303 {}
+      Modeling Assumptions: &id431 {}
+    Eligibility Criteria:
+      Initial Cohort Pool: &id344 {}
+    Eligibility Defect:
+      Eligibility Defect Rate: &id182 {}
+    Eligibility Defect Rate:
+      Eligibility Defect: &id181 {}
+    Euroclear:
+      Book-Entry Notes: &id030 {}
+      Common Depositary: &id080 {}
+      Euroclear Operator: &id185 {}
+      Euroclear Participants: &id186 {}
+      Indirect Participants: &id340 {}
+      Note Owners: &id486 {}
+      Participants: &id523 {}
+    Euroclear Operator: {}
+    Euroclear Participants:
+      Euroclear: &id183 {}
+    Exchange Act:
+      Rated Notes: &id622 {}
+    Exchange Administrator: {}
+    Exchangeable Notes:
+      Class Principal Balance: &id064 {}
+      Combination RCR Note: &id075 {}
+      Combinations: &id076 {}
+      Exchange Administrator: &id189 {}
+      Group 1 Exchangeable Notes: &id208 {}
+      Group 1 Notes: &id220 {}
+      Group 1 RCR Notes: &id227 {}
+      Group 2 Exchangeable Notes: &id260 {}
+      Group 2 Notes: &id273 {}
+      Group 2 RCR Notes: &id280 {}
+      Modeling Assumptions: &id432 {}
+      RCR NOTES: &id612 {}
+      RCR Notes: &id614 {}
+      Strip RCR Note: &id710 {}
+    Fannie Mae QC Review: {}
+    Global Agency Agreement:
+      Global Agent: &id203 {}
+      Retained Interest: &id654 {}
+      Risk Retention Letter: &id675 {}
+      Wells Fargo Bank: &id754 {}
+    Global Agent:
+      Business Day: &id032 {}
+      Common Depositary: &id081 {}
+      Global Agency Agreement: &id200 {}
+      Group 1 Termination Date: &id250 {}
+      Group 2 Termination Date: &id304 {}
+      ICE Method: &id333 {}
+      Interest Settlement Rate: &id357 {}
+      LIBOR Adjustment Date: &id375 {}
+      LIBOR Business Day: &id379 {}
+      One-Month LIBOR: &id510 {}
+      Payment Date: &id529 {}
+      Payment Date Statement: &id537 {}
+      Record Date: &id626 {}
+      Retained Interest: &id655 {}
+      Risk Retention Letter: &id676 {}
+      Wells Fargo Bank: &id755 {}
+    Group 1 Class:
+      Group 1 Classes: &id207 {}
+      Group 1 Termination Date: &id251 {}
+    Group 1 Classes:
+      Group 1 Class: &id206 {}
+      Group 1 Termination Date: &id252 {}
+    Group 1 Exchangeable Notes:
+      Exchangeable Notes: &id193 {}
+      Group 1 RCR Notes: &id228 {}
+      Group 2 Exchangeable Notes: &id261 {}
+    Group 1 Liquidation Date:
+      Liquidation Date: &id387 {}
+    Group 1 Liquidation Period:
+      Group 1 Liquidation Date: &id213 {}
+      Liquidation Period: &id389 {}
+    Group 1 Notes:
+      Group 1 Reference Tranche: &id231 {}
+      Group 1 Senior Percentage: &id239 {}
+      Group 1 Subordinate Percentage: &id245 {}
+      Group 1 Termination Date: &id253 {}
+      Group Termination Date: &id312 {}
+      Holder: &id318 {}
+      Holders: &id325 {}
+      Loan Group 1: &id408 {}
+      Noteholder: &id489 {}
+      Noteholders: &id496 {}
+    Group 1 Offered Notes:
+      Group 1 Notes: &id221 {}
+      Group 2 Offered Notes: &id278 {}
+      Offered Notes: &id504 {}
+    Group 1 RCR Notes:
+      Group 1 Exchangeable Notes: &id209 {}
+      Group 2 RCR Notes: &id281 {}
+      RCR Notes: &id615 {}
+    Group 1 Reference Tranche:
+      Transaction Summary: &id725 {}
+    Group 1 Senior Percentage:
+      Group 1 Subordinate Percentage: &id246 {}
+    Group 1 Subordinate Percentage:
+      Minimum Credit Enhancement Test: &id418 {}
+    Group 1 Termination Date:
+      Group Termination Date: &id313 {}
+      Preliminary Class Notional Amount: &id567 {}
+      Preliminary Principal Loss Amount: &id576 {}
+      Transaction Termination Date: &id733 {}
+    Group 2 Class:
+      Group 2 Classes: &id259 {}
+      Group 2 Termination Date: &id305 {}
+    Group 2 Classes:
+      Group 2 Class: &id258 {}
+      Group 2 Termination Date: &id306 {}
+    Group 2 Exchangeable Notes:
+      Exchangeable Notes: &id194 {}
+      Group 2 RCR Notes: &id282 {}
+    Group 2 Liquidation Date:
+      Early Redemption Option: &id166 {}
+      Liquidation Date: &id388 {}
+    Group 2 Liquidation Period:
+      Group 2 Liquidation Date: &id266 {}
+      Liquidation Period: &id390 {}
+    Group 2 Notes:
+      Early Redemption Option: &id167 {}
+      Group 2 Reference Tranche: &id285 {}
+      Group 2 Senior Percentage: &id293 {}
+      Group 2 Subordinate Percentage: &id299 {}
+      Group 2 Termination Date: &id307 {}
+      Holder: &id319 {}
+      Holders: &id326 {}
+      Loan Group 2: &id411 {}
+      Noteholder: &id490 {}
+      Noteholders: &id497 {}
+    Group 2 Offered Notes:
+      Group 1 Offered Notes: &id225 {}
+      Group 2 Notes: &id274 {}
+      Offered Notes: &id505 {}
+    Group 2 RCR Notes:
+      Group 2 Exchangeable Notes: &id262 {}
+      RCR Notes: &id616 {}
+    Group 2 Reference Tranche:
+      Transaction Summary: &id726 {}
+    Group 2 Senior Percentage:
+      Group 2 Subordinate Percentage: &id300 {}
+    Group 2 Subordinate Percentage:
+      Minimum Credit Enhancement Test: &id419 {}
+    Group 2 Termination Date:
+      Group Termination Date: &id314 {}
+      Transaction Termination Date: &id734 {}
+    Group Termination Date:
+      Credit Event: &id087 {}
+    Guaranty Obligations: {}
+    Holder:
+      Class Principal Balance: &id065 {}
+      Debt Agreement: &id149 {}
+      Early Redemption Option: &id168 {}
+      Exchangeable Notes: &id195 {}
+      Group 1 Exchangeable Notes: &id210 {}
+      Group 2 Exchangeable Notes: &id263 {}
+      Holders: &id327 {}
+      Interest Payment Amount: &id351 {}
+      Liquidation Recovery Amount: &id394 {}
+      Noteholder: &id491 {}
+      Noteholders: &id498 {}
+      RCR NOTES: &id613 {}
+      RCR Notes: &id617 {}
+      Reference Pool Removals: &id639 {}
+      Retained Interest: &id656 {}
+      Risk Factors: &id670 {}
+      Risk Retention Letter: &id677 {}
+    Holders:
+      Class Principal Balance: &id066 {}
+      Debt Agreement: &id150 {}
+      Early Redemption Option: &id169 {}
+      Exchangeable Notes: &id196 {}
+      Group 1 Exchangeable Notes: &id211 {}
+      Group 2 Exchangeable Notes: &id264 {}
+      Holder: &id320 {}
+      Interest Payment Amount: &id352 {}
+      Liquidation Recovery Amount: &id395 {}
+      Noteholder: &id492 {}
+      Noteholders: &id499 {}
+      RCR Notes: &id618 {}
+      Retained Interest: &id657 {}
+      Risk Factors: &id671 {}
+      Risk Retention Letter: &id678 {}
+    ICE Method:
+      Interest Settlement Rate: &id358 {}
+      LIBOR Business Day: &id380 {}
+      One-Month LIBOR: &id511 {}
+    Indirect Participants:
+      Common Depositary: &id082 {}
+      Note Owners: &id487 {}
+      Participants: &id524 {}
+    Initial Cohort Pool:
+      Diligence Provider: &id157 {}
+    Interest Accrual Amount:
+      Interest Payment Amount: &id353 {}
+    Interest Only RCR Notes: {}
+    Interest Payment Amount:
+      Payment Date Statement: &id538 {}
+    Interest Settlement Rate:
+      Designated Page: &id156 {}
+      ICE Method: &id334 {}
+      LIBOR Business Day: &id381 {}
+      One-Month LIBOR: &id512 {}
+    Investment Company Act:
+      Qualified Institutional Buyer: &id607 {}
+    Issuer:
+      Relevant Implementation Date: &id643 {}
+      Retained Interest: &id658 {}
+      Risk Retention Letter: &id679 {}
+    JP Morgan:
+      Barclays: &id017 {}
+      BofA Merrill: &id026 {}
+      Citigroup: &id053 {}
+      Credit Suisse: &id123 {}
+      Dealer Agreement: &id139 {}
+      Dealers: &id146 {}
+      Wells Fargo: &id753 {}
+    January-February 2015 Acquisitions:
+      Available Loans: &id009 {}
+    LIBOR Adjustment Date:
+      ICE Method: &id335 {}
+      Interest Settlement Rate: &id359 {}
+      LIBOR Business Day: &id382 {}
+      One-Month LIBOR: &id513 {}
+    LIBOR Business Day:
+      ICE Method: &id336 {}
+      Interest Settlement Rate: &id360 {}
+      LIBOR Adjustment Date: &id376 {}
+      One-Month LIBOR: &id514 {}
+    Layering: {}
+    Lender Contract:
+      Selling Guide: &id698 {}
+      Servicing Guide: &id706 {}
+    Liquidation Date:
+      Early Redemption Option: &id170 {}
+      Group 1 Liquidation Date: &id214 {}
+      Group 2 Liquidation Date: &id267 {}
+      Liquidation Recovery Amount: &id396 {}
+    Liquidation Period:
+      Group 1 Liquidation Date: &id215 {}
+      Group 1 Liquidation Period: &id217 {}
+      Group 2 Liquidation Date: &id268 {}
+      Group 2 Liquidation Period: &id270 {}
+      Liquidation Recovery Amount: &id397 {}
+    Liquidation Proceeds:
+      Credit Event Net Gain: &id102 {}
+      Credit Event Net Loss: &id108 {}
+      Net Liquidation Proceeds: &id482 {}
+      Principal Loss Amount: &id587 {}
+      Principal Recovery Amount: &id598 {}
+    Liquidation Recovery Amount:
+      Early Redemption Option: &id171 {}
+      Modeling Assumptions: &id433 {}
+    Liquidation Recovery Mortgage Loans:
+      Liquidation Recovery Amount: &id398 {}
+    Loan Acquisition Practices:
+      Permitted Variances: &id564 {}
+    Loan Group 1:
+      Canadian Purchaser: &id039 {}
+      Eligibility Criteria: &id174 {}
+      Group 1 Reference Tranche: &id232 {}
+      Group 1 Senior Percentage: &id240 {}
+      Minimum Credit Enhancement Test: &id420 {}
+      Modeling Assumptions: &id434 {}
+      NI 31-103: &id462 {}
+      NI 45-106: &id473 {}
+      Preliminary Class Notional Amount: &id568 {}
+      Preliminary Principal Loss Amount: &id577 {}
+      Securities Laws: &id691 {}
+      Transaction Summary: &id727 {}
+    Loan Group 2:
+      Canadian Purchaser: &id040 {}
+      Eligibility Criteria: &id175 {}
+      Group 2 Reference Tranche: &id286 {}
+      Group 2 Senior Percentage: &id294 {}
+      Minimum Credit Enhancement Test: &id421 {}
+      Modeling Assumptions: &id435 {}
+      NI 31-103: &id463 {}
+      NI 45-106: &id474 {}
+      Securities Laws: &id692 {}
+      Special Note: &id708 {}
+      Transaction Summary: &id728 {}
+    Loan Groups:
+      Holder: &id321 {}
+      Holders: &id328 {}
+      Noteholder: &id493 {}
+      Noteholders: &id500 {}
+      Payment Date Statement: &id539 {}
+    Material Finding: {}
+    Maturity Date:
+      Dealer: &id131 {}
+      Group 1 Termination Date: &id254 {}
+      Group 2 Termination Date: &id308 {}
+      Modeling Assumptions: &id436 {}
+    Minimum Credit Enhancement Test:
+      Senior Reduction Amount: &id701 {}
+    Modeling Assumptions: {}
+    Modification Event:
+      Current Accrual Rate: &id125 {}
+      Group 1 Reference Tranche: &id233 {}
+      Group 2 Reference Tranche: &id287 {}
+      Modeling Assumptions: &id437 {}
+      Modification Loss Amount: &id453 {}
+      Payment Date Statement: &id540 {}
+      Transaction Summary: &id729 {}
+    Modification Loss Amount:
+      Interest Payment Amount: &id354 {}
+      Modification Event: &id449 {}
+      Payment Date Statement: &id541 {}
+      Preliminary Class Notional Amount: &id569 {}
+      Preliminary Principal Loss Amount: &id578 {}
+      Principal Loss Amount: &id588 {}
+    Mortgage Insurance Credit Amount:
+      Net Liquidation Proceeds: &id483 {}
+    NI 31-103:
+      Canadian Purchaser: &id041 {}
+      NI 45-106: &id475 {}
+      Securities Laws: &id693 {}
+    NI 45-106:
+      Canadian Purchaser: &id042 {}
+      NI 31-103: &id464 {}
+      Securities Laws: &id694 {}
+    Net Liquidation Proceeds:
+      Credit Event Net Gain: &id103 {}
+      Credit Event Net Loss: &id109 {}
+      Principal Loss Amount: &id589 {}
+      Principal Recovery Amount: &id599 {}
+    Note Owners:
+      Book-Entry Notes: &id031 {}
+      Common Depositary: &id083 {}
+      Indirect Participants: &id341 {}
+      Participants: &id525 {}
+    Noteholder:
+      Holder: &id322 {}
+      Holders: &id329 {}
+      Noteholders: &id501 {}
+    Noteholders:
+      Holder: &id323 {}
+      Holders: &id330 {}
+      Noteholder: &id494 {}
+    Offered Notes:
+      Dealer: &id132 {}
+      Group 1 Notes: &id222 {}
+      Group 1 Offered Notes: &id226 {}
+      Group 2 Notes: &id275 {}
+      Group 2 Offered Notes: &id279 {}
+      Modeling Assumptions: &id438 {}
+    On-Market Swap Rate: {}
+    One-Month LIBOR:
+      ICE Method: &id337 {}
+      Interest Settlement Rate: &id361 {}
+      LIBOR Business Day: &id383 {}
+      Modeling Assumptions: &id439 {}
+      Payment Date Statement: &id542 {}
+    Original Accrual Rate:
+      Modification Event: &id450 {}
+      Modification Loss Amount: &id454 {}
+    Overcollateralization Amount:
+      Special Note: &id709 {}
+    PAC Method: {}
+    PROSPECTUS DIRECTIVE:
+      RELEVANT MEMBER STATE: &id620 {}
+    Participants:
+      Clearstream Participants: &id074 {}
+      Common Depositary: &id084 {}
+      Euroclear: &id184 {}
+      Euroclear Participants: &id187 {}
+      Indirect Participants: &id342 {}
+      Note Owners: &id488 {}
+    Payment Date:
+      Accrual Period: &id004 {}
+      Canadian Purchaser: &id043 {}
+      Class Notional Amount: &id059 {}
+      Class Principal Balance: &id067 {}
+      Credit Event: &id088 {}
+      Credit Event Amount: &id094 {}
+      Credit Event Reference Obligation: &id111 {}
+      Credit Event UPB: &id114 {}
+      Current Accrual Rate: &id126 {}
+      Delinquency Test: &id153 {}
+      Distressed Principal Balance: &id159 {}
+      Group 1 Reference Tranche: &id234 {}
+      Group 1 Senior Percentage: &id241 {}
+      Group 1 Subordinate Percentage: &id247 {}
+      Group 1 Termination Date: &id255 {}
+      Group 2 Reference Tranche: &id288 {}
+      Group 2 Senior Percentage: &id295 {}
+      Group 2 Subordinate Percentage: &id301 {}
+      Group 2 Termination Date: &id309 {}
+      Interest Accrual Amount: &id348 {}
+      Interest Only RCR Notes: &id349 {}
+      Interest Payment Amount: &id355 {}
+      Maturity Date: &id417 {}
+      Minimum Credit Enhancement Test: &id422 {}
+      Modeling Assumptions: &id440 {}
+      Modification Event: &id451 {}
+      Modification Loss Amount: &id455 {}
+      NI 31-103: &id465 {}
+      NI 45-106: &id476 {}
+      Overcollateralization Amount: &id516 {}
+      Payment Date Statement: &id543 {}
+      Preliminary Class Notional Amount: &id570 {}
+      Preliminary Principal Loss Amount: &id579 {}
+      Principal Loss Amount: &id590 {}
+      Principal Recovery Amount: &id600 {}
+      Record Date: &id627 {}
+      Recovery Principal: &id630 {}
+      Reporting Period: &id649 {}
+      Reversed Credit Event Amount: &id666 {}
+      Scheduled Principal: &id683 {}
+      Securities Laws: &id695 {}
+      Senior Reduction Amount: &id702 {}
+      Subordinate Reduction Amount: &id711 {}
+      Tranche Write-down Amount: &id716 {}
+      Tranche Write-up Amount: &id719 {}
+      Transaction Summary: &id730 {}
+      Unscheduled Principal: &id739 {}
+      Write-up Excess: &id761 {}
+    Payment Date Statement: {}
+    Payment Errors:
+      Reporting Errors: &id645 {}
+    Period:
+      Accrual Period: &id005 {}
+      Credit Event: &id089 {}
+      Credit Event Amount: &id095 {}
+      Credit Event UPB: &id115 {}
+      Group 1 Liquidation Date: &id216 {}
+      Group 1 Liquidation Period: &id218 {}
+      Group 1 Senior Percentage: &id242 {}
+      Group 2 Liquidation Date: &id269 {}
+      Group 2 Liquidation Period: &id271 {}
+      Group 2 Senior Percentage: &id296 {}
+      LIBOR Adjustment Date: &id377 {}
+      Liquidation Period: &id391 {}
+      Liquidation Recovery Amount: &id399 {}
+      Payment Date Statement: &id544 {}
+      Payment Errors: &id558 {}
+      Principal Loss Amount: &id591 {}
+      Principal Recovery Amount: &id601 {}
+      Reporting Errors: &id646 {}
+      Reporting Period: &id650 {}
+      Reversed Credit Event Amount: &id667 {}
+      Scheduled Principal: &id684 {}
+      Unscheduled Principal: &id740 {}
+    Permitted Variances: {}
+    Plan Asset Regulation:
+      Benefit Plan Investor: &id019 {}
+      Investment Company Act: &id363 {}
+    Preliminary Class Notional Amount:
+      Preliminary Principal Loss Amount: &id580 {}
+    Preliminary Principal Loss Amount:
+      Preliminary Class Notional Amount: &id571 {}
+    Principal Loss Amount:
+      Delinquency Test: &id154 {}
+      Modeling Assumptions: &id441 {}
+      Preliminary Class Notional Amount: &id572 {}
+      Preliminary Principal Loss Amount: &id581 {}
+      Tranche Write-down Amount: &id717 {}
+      Tranche Write-up Amount: &id720 {}
+    Principal Recovery Amount:
+      Tranche Write-down Amount: &id718 {}
+      Tranche Write-up Amount: &id721 {}
+    Prohibited Transactions: {}
+    Projected Recovery Amount:
+      Early Redemption Option: &id172 {}
+      Group Termination Date: &id315 {}
+      Modeling Assumptions: &id442 {}
+    Prospectus Directive:
+      Relevant Implementation Date: &id644 {}
+    Qualified Institutional Buyer:
+      Qualified Institutional Buyers: &id610 {}
+    Qualified Institutional Buyers:
+      Qualified Institutional Buyer: &id608 {}
+    Qualified Stated Interest: {}
+    RCR NOTES: {}
+    RCR Notes:
+      Class M Debt Notes: &id057 {}
+      Class Principal Balance: &id068 {}
+      Combinations: &id077 {}
+      Exchange Administrator: &id190 {}
+      Exchangeable Notes: &id197 {}
+      Group 1 Exchangeable Notes: &id212 {}
+      Group 1 Notes: &id223 {}
+      Group 1 RCR Notes: &id229 {}
+      Group 2 Exchangeable Notes: &id265 {}
+      Group 2 Notes: &id276 {}
+      Group 2 RCR Notes: &id283 {}
+      Interest Only RCR Notes: &id350 {}
+      Modeling Assumptions: &id443 {}
+      Withholding Agent: &id758 {}
+    RDC Guide: {}
+    RELEVANT MEMBER STATE:
+      PROSPECTUS DIRECTIVE: &id520 {}
+    RELEVANT PERSONS: {}
+    Rated Notes:
+      Exchange Act: &id188 {}
+    Record Date:
+      Payment Date: &id530 {}
+    Recovery Election Date:
+      Group 1 Liquidation Period: &id219 {}
+      Group 2 Liquidation Period: &id272 {}
+      Liquidation Recovery Amount: &id400 {}
+      Liquidation Recovery Mortgage Loans: &id405 {}
+      Projected Recovery Amount: &id606 {}
+    Recovery Principal:
+      Modeling Assumptions: &id444 {}
+      Payment Date Statement: &id545 {}
+      Senior Reduction Amount: &id703 {}
+      Subordinate Reduction Amount: &id712 {}
+    Reference Obligations:
+      Canadian Purchaser: &id044 {}
+      Credit Event Amount: &id096 {}
+      Cut-off Date: &id127 {}
+      Delinquency Test: &id155 {}
+      Distressed Principal Balance: &id160 {}
+      Eligibility Criteria: &id176 {}
+      Group 1 Reference Tranche: &id235 {}
+      Group 1 Senior Percentage: &id243 {}
+      Group 2 Reference Tranche: &id289 {}
+      Group 2 Senior Percentage: &id297 {}
+      Guaranty Obligations: &id316 {}
+      Holder: &id324 {}
+      Holders: &id331 {}
+      Loan Acquisition Practices: &id406 {}
+      Loan Group 1: &id409 {}
+      Loan Group 2: &id412 {}
+      Modeling Assumptions: &id445 {}
+      NI 31-103: &id466 {}
+      NI 45-106: &id477 {}
+      Noteholder: &id495 {}
+      Noteholders: &id502 {}
+      Payment Date Statement: &id546 {}
+      Principal Loss Amount: &id592 {}
+      Principal Recovery Amount: &id602 {}
+      Reference Pool: &id636 {}
+      Reference Pool Removals: &id640 {}
+      Retained Interest: &id659 {}
+      Reversed Credit Event Amount: &id668 {}
+      Risk Retention Letter: &id680 {}
+      Scheduled Principal: &id685 {}
+      Securities Laws: &id696 {}
+      Transaction Summary: &id731 {}
+      Unscheduled Principal: &id741 {}
+    Reference Pool:
+      Available Loans: &id010 {}
+      Cut-off Date: &id128 {}
+      Eligibility Criteria: &id177 {}
+      Loan Groups: &id413 {}
+      Modeling Assumptions: &id446 {}
+      Payment Date Statement: &id547 {}
+      Reference Obligations: &id634 {}
+      Reference Pool Removals: &id641 {}
+      Unscheduled Principal: &id742 {}
+    Reference Pool Removals:
+      Unscheduled Principal: &id743 {}
+    Relevant Implementation Date: {}
+    Reporting Errors:
+      Payment Errors: &id559 {}
+    Reporting Period:
+      Credit Event: &id090 {}
+      Credit Event Amount: &id097 {}
+      Credit Event UPB: &id116 {}
+      Group 1 Senior Percentage: &id244 {}
+      Group 2 Senior Percentage: &id298 {}
+      Payment Date Statement: &id548 {}
+      Principal Loss Amount: &id593 {}
+      Principal Recovery Amount: &id603 {}
+      Reversed Credit Event Amount: &id669 {}
+      Scheduled Principal: &id686 {}
+      Unscheduled Principal: &id744 {}
+    Retained Interest:
+      Risk Retention Letter: &id681 {}
+    Reversed Credit Event Amount:
+      Payment Date Statement: &id549 {}
+    Risk Factors:
+      EEA Risk Retention: &id162 {}
+      Layering: &id384 {}
+    Risk Retention Letter:
+      Payment Date Statement: &id550 {}
+      Retained Interest: &id660 {}
+    Scheduled Principal:
+      Payment Date Statement: &id551 {}
+      Senior Reduction Amount: &id704 {}
+      Subordinate Reduction Amount: &id713 {}
+    Securities Act:
+      Canadian Purchaser: &id045 {}
+      NI 31-103: &id467 {}
+      NI 45-106: &id478 {}
+      Qualified Institutional Buyer: &id609 {}
+      Securities Laws: &id697 {}
+    Securities Laws:
+      Canadian Purchaser: &id046 {}
+      NI 31-103: &id468 {}
+      NI 45-106: &id479 {}
+    Selling Guide:
+      Eligibility Criteria: &id178 {}
+      Lender Contract: &id385 {}
+      Material Finding: &id416 {}
+      Permitted Variances: &id565 {}
+      RDC Guide: &id619 {}
+      Servicing Guide: &id707 {}
+    Senior Reduction Amount:
+      Class Notional Amount: &id060 {}
+      Payment Date Statement: &id552 {}
+      Subordinate Reduction Amount: &id714 {}
+    Servicing Guide:
+      Eligibility Criteria: &id179 {}
+      Lender Contract: &id386 {}
+      Selling Guide: &id699 {}
+    Special Note: {}
+    Strip RCR Note: {}
+    Subordinate Reduction Amount:
+      Class Notional Amount: &id061 {}
+      Payment Date Statement: &id553 {}
+    Tranche Write-down Amount:
+      Class Notional Amount: &id062 {}
+      Class Principal Balance: &id069 {}
+      Group 1 Termination Date: &id256 {}
+      Group 2 Termination Date: &id310 {}
+      Liquidation Recovery Amount: &id401 {}
+      Overcollateralization Amount: &id517 {}
+      Payment Date Statement: &id554 {}
+      Preliminary Class Notional Amount: &id573 {}
+      Preliminary Principal Loss Amount: &id582 {}
+      Recovery Principal: &id631 {}
+      Write-up Excess: &id762 {}
+    Tranche Write-up Amount:
+      Class Notional Amount: &id063 {}
+      Class Principal Balance: &id070 {}
+      Group 1 Termination Date: &id257 {}
+      Group 2 Termination Date: &id311 {}
+      Liquidation Recovery Amount: &id402 {}
+      Payment Date Statement: &id555 {}
+      Preliminary Class Notional Amount: &id574 {}
+      Preliminary Principal Loss Amount: &id583 {}
+      Recovery Principal: &id632 {}
+      Write-up Excess: &id763 {}
+    Transaction:
+      EEA Risk Retention Regulation: &id164 {}
+      Group 1 Reference Tranche: &id236 {}
+      Group 2 Reference Tranche: &id290 {}
+      Guaranty Obligations: &id317 {}
+      Prohibited Transactions: &id605 {}
+      Retained Interest: &id661 {}
+      Risk Retention Letter: &id682 {}
+      Transaction Summary: &id732 {}
+      Transaction Termination Date: &id735 {}
+    Transaction Summary:
+      Group 1 Reference Tranche: &id237 {}
+      Group 2 Reference Tranche: &id291 {}
+    Transaction Termination Date: {}
+    Treasury:
+      CLASS B NOTES: &id033 {}
+      CPDI Regulations: &id035 {}
+      Qualified Stated Interest: &id611 {}
+      US Person: &id736 {}
+      Warrant: &id745 {}
+    US Person:
+      Class M Debt Notes: &id058 {}
+      On-Market Swap Rate: &id508 {}
+      Withholding Agent: &id759 {}
+    Unscheduled Principal:
+      Payment Date Statement: &id556 {}
+      Senior Reduction Amount: &id705 {}
+      Subordinate Reduction Amount: &id715 {}
+    Warrant:
+      Eligibility Criteria: &id180 {}
+      Modeling Assumptions: &id447 {}
+      Payment Date Statement: &id557 {}
+      Principal Recovery Amount: &id604 {}
+    Wells Fargo:
+      Barclays: &id018 {}
+      BofA Merrill: &id027 {}
+      Citigroup: &id054 {}
+      Complaint: &id085 {}
+      Credit Suisse: &id124 {}
+      Dealer Agreement: &id140 {}
+      Dealers: &id147 {}
+      Exchange Administrator: &id191 {}
+      Global Agency Agreement: &id201 {}
+      Global Agent: &id204 {}
+      JP Morgan: &id371 {}
+      Payment Errors: &id560 {}
+      Period: &id562 {}
+      Reporting Errors: &id647 {}
+      Wells Fargo Bank: &id756 {}
+    Wells Fargo Bank:
+      Complaint: &id086 {}
+      Exchange Administrator: &id192 {}
+      Global Agency Agreement: &id202 {}
+      Global Agent: &id205 {}
+      Payment Errors: &id561 {}
+      Period: &id563 {}
+      Reporting Errors: &id648 {}
+    Withholding Agent: {}
+    Write-up Excess:
+      Overcollateralization Amount: &id518 {}
+  adjlist_dict_factory: &id002 !!python/name:builtins.dict ''
+  edge: *id001
+  edge_attr_dict_factory: *id002
+  graph: {}
+  node:
+    Accrual Period: {}
+    Annual Interest Amount: {}
+    Applicable Investor: {}
+    Available Loans: {}
+    Barclays: {}
+    Benefit Plan Investor: {}
+    BofA Merrill: {}
+    Book-Entry Notes: {}
+    Business Day: {}
+    CLASS B NOTES: {}
+    CPDI Regulations: {}
+    Canadian Purchaser: {}
+    Citigroup: {}
+    Class B Notes: {}
+    Class Coupon: {}
+    Class M Debt Notes: {}
+    Class Notional Amount: {}
+    Class Principal Balance: {}
+    Clearstream: {}
+    Clearstream International: {}
+    Clearstream Participants: {}
+    Closing Date: {}
+    Combination RCR Note: {}
+    Combinations: {}
+    Common Depositary: {}
+    Complaint: {}
+    Credit Event: {}
+    Credit Event Amount: {}
+    Credit Event Net Gain: {}
+    Credit Event Net Loss: {}
+    Credit Event Reference Obligation: {}
+    Credit Event UPB: {}
+    Credit Suisse: {}
+    Current Accrual Rate: {}
+    Cut-off Date: {}
+    Dealer: {}
+    Dealer Agreement: {}
+    Dealers: {}
+    Debt Agreement: {}
+    Definitive Notes: {}
+    Delinquency Test: {}
+    Designated Page: {}
+    Diligence Provider: {}
+    Diligence Sample: {}
+    Distressed Principal Balance: {}
+    EEA RISK RETENTION: {}
+    EEA Risk Retention: {}
+    EEA Risk Retention Regulation: {}
+    EXEMPT PERSONS: {}
+    Early Redemption Option: {}
+    Eligibility Criteria: {}
+    Eligibility Defect: {}
+    Eligibility Defect Rate: {}
+    Euroclear: {}
+    Euroclear Operator: {}
+    Euroclear Participants: {}
+    Exchange Act: {}
+    Exchange Administrator: {}
+    Exchangeable Notes: {}
+    Fannie Mae QC Review: {}
+    Global Agency Agreement: {}
+    Global Agent: {}
+    Group 1 Class: {}
+    Group 1 Classes: {}
+    Group 1 Exchangeable Notes: {}
+    Group 1 Liquidation Date: {}
+    Group 1 Liquidation Period: {}
+    Group 1 Notes: {}
+    Group 1 Offered Notes: {}
+    Group 1 RCR Notes: {}
+    Group 1 Reference Tranche: {}
+    Group 1 Senior Percentage: {}
+    Group 1 Subordinate Percentage: {}
+    Group 1 Termination Date: {}
+    Group 2 Class: {}
+    Group 2 Classes: {}
+    Group 2 Exchangeable Notes: {}
+    Group 2 Liquidation Date: {}
+    Group 2 Liquidation Period: {}
+    Group 2 Notes: {}
+    Group 2 Offered Notes: {}
+    Group 2 RCR Notes: {}
+    Group 2 Reference Tranche: {}
+    Group 2 Senior Percentage: {}
+    Group 2 Subordinate Percentage: {}
+    Group 2 Termination Date: {}
+    Group Termination Date: {}
+    Guaranty Obligations: {}
+    Holder: {}
+    Holders: {}
+    ICE Method: {}
+    Indirect Participants: {}
+    Initial Cohort Pool: {}
+    Interest Accrual Amount: {}
+    Interest Only RCR Notes: {}
+    Interest Payment Amount: {}
+    Interest Settlement Rate: {}
+    Investment Company Act: {}
+    Issuer: {}
+    JP Morgan: {}
+    January-February 2015 Acquisitions: {}
+    LIBOR Adjustment Date: {}
+    LIBOR Business Day: {}
+    Layering: {}
+    Lender Contract: {}
+    Liquidation Date: {}
+    Liquidation Period: {}
+    Liquidation Proceeds: {}
+    Liquidation Recovery Amount: {}
+    Liquidation Recovery Mortgage Loans: {}
+    Loan Acquisition Practices: {}
+    Loan Group 1: {}
+    Loan Group 2: {}
+    Loan Groups: {}
+    Material Finding: {}
+    Maturity Date: {}
+    Minimum Credit Enhancement Test: {}
+    Modeling Assumptions: {}
+    Modification Event: {}
+    Modification Loss Amount: {}
+    Mortgage Insurance Credit Amount: {}
+    NI 31-103: {}
+    NI 45-106: {}
+    Net Liquidation Proceeds: {}
+    Note Owners: {}
+    Noteholder: {}
+    Noteholders: {}
+    Offered Notes: {}
+    On-Market Swap Rate: {}
+    One-Month LIBOR: {}
+    Original Accrual Rate: {}
+    Overcollateralization Amount: {}
+    PAC Method: {}
+    PROSPECTUS DIRECTIVE: {}
+    Participants: {}
+    Payment Date: {}
+    Payment Date Statement: {}
+    Payment Errors: {}
+    Period: {}
+    Permitted Variances: {}
+    Plan Asset Regulation: {}
+    Preliminary Class Notional Amount: {}
+    Preliminary Principal Loss Amount: {}
+    Principal Loss Amount: {}
+    Principal Recovery Amount: {}
+    Prohibited Transactions: {}
+    Projected Recovery Amount: {}
+    Prospectus Directive: {}
+    Qualified Institutional Buyer: {}
+    Qualified Institutional Buyers: {}
+    Qualified Stated Interest: {}
+    RCR NOTES: {}
+    RCR Notes: {}
+    RDC Guide: {}
+    RELEVANT MEMBER STATE: {}
+    RELEVANT PERSONS: {}
+    Rated Notes: {}
+    Record Date: {}
+    Recovery Election Date: {}
+    Recovery Principal: {}
+    Reference Obligations: {}
+    Reference Pool: {}
+    Reference Pool Removals: {}
+    Relevant Implementation Date: {}
+    Reporting Errors: {}
+    Reporting Period: {}
+    Retained Interest: {}
+    Reversed Credit Event Amount: {}
+    Risk Factors: {}
+    Risk Retention Letter: {}
+    Scheduled Principal: {}
+    Securities Act: {}
+    Securities Laws: {}
+    Selling Guide: {}
+    Senior Reduction Amount: {}
+    Servicing Guide: {}
+    Special Note: {}
+    Strip RCR Note: {}
+    Subordinate Reduction Amount: {}
+    Tranche Write-down Amount: {}
+    Tranche Write-up Amount: {}
+    Transaction: {}
+    Transaction Summary: {}
+    Transaction Termination Date: {}
+    Treasury: {}
+    US Person: {}
+    Unscheduled Principal: {}
+    Warrant: {}
+    Wells Fargo: {}
+    Wells Fargo Bank: {}
+    Withholding Agent: {}
+    Write-up Excess: {}
+  node_dict_factory: *id002
+  pred:
+    Accrual Period:
+      Closing Date: *id003
+      Payment Date: *id004
+      Period: *id005
+    Annual Interest Amount:
+      Class Coupon: *id006
+      Class Notional Amount: *id007
+      Class Principal Balance: *id008
+    Applicable Investor: {}
+    Available Loans:
+      January-February 2015 Acquisitions: *id009
+      Reference Pool: *id010
+    Barclays:
+      BofA Merrill: *id011
+      Citigroup: *id012
+      Credit Suisse: *id013
+      Dealer: *id014
+      Dealer Agreement: *id015
+      Dealers: *id016
+      JP Morgan: *id017
+      Wells Fargo: *id018
+    Benefit Plan Investor:
+      Plan Asset Regulation: *id019
+    BofA Merrill:
+      Barclays: *id020
+      Citigroup: *id021
+      Credit Suisse: *id022
+      Dealer: *id023
+      Dealer Agreement: *id024
+      Dealers: *id025
+      JP Morgan: *id026
+      Wells Fargo: *id027
+    Book-Entry Notes:
+      Clearstream: *id028
+      Closing Date: *id029
+      Euroclear: *id030
+      Note Owners: *id031
+    Business Day:
+      Global Agent: *id032
+    CLASS B NOTES:
+      Treasury: *id033
+    CPDI Regulations:
+      Class M Debt Notes: *id034
+      Treasury: *id035
+    Canadian Purchaser:
+      Cut-off Date: *id036
+      Dealer: *id037
+      Diligence Provider: *id038
+      Loan Group 1: *id039
+      Loan Group 2: *id040
+      NI 31-103: *id041
+      NI 45-106: *id042
+      Payment Date: *id043
+      Reference Obligations: *id044
+      Securities Act: *id045
+      Securities Laws: *id046
+    Citigroup:
+      Barclays: *id047
+      BofA Merrill: *id048
+      Credit Suisse: *id049
+      Dealer: *id050
+      Dealer Agreement: *id051
+      Dealers: *id052
+      JP Morgan: *id053
+      Wells Fargo: *id054
+    Class B Notes: {}
+    Class Coupon: {}
+    Class M Debt Notes:
+      Class B Notes: *id055
+      Closing Date: *id056
+      RCR Notes: *id057
+      US Person: *id058
+    Class Notional Amount:
+      Payment Date: *id059
+      Senior Reduction Amount: *id060
+      Subordinate Reduction Amount: *id061
+      Tranche Write-down Amount: *id062
+      Tranche Write-up Amount: *id063
+    Class Principal Balance:
+      Exchangeable Notes: *id064
+      Holder: *id065
+      Holders: *id066
+      Payment Date: *id067
+      RCR Notes: *id068
+      Tranche Write-down Amount: *id069
+      Tranche Write-up Amount: *id070
+    Clearstream:
+      Clearstream International: *id071
+    Clearstream International:
+      Clearstream: *id072
+    Clearstream Participants:
+      Clearstream: *id073
+      Participants: *id074
+    Closing Date: {}
+    Combination RCR Note:
+      Exchangeable Notes: *id075
+    Combinations:
+      Exchangeable Notes: *id076
+      RCR Notes: *id077
+    Common Depositary:
+      Book-Entry Notes: *id078
+      Clearstream: *id079
+      Euroclear: *id080
+      Global Agent: *id081
+      Indirect Participants: *id082
+      Note Owners: *id083
+      Participants: *id084
+    Complaint:
+      Wells Fargo: *id085
+      Wells Fargo Bank: *id086
+    Credit Event:
+      Group Termination Date: *id087
+      Payment Date: *id088
+      Period: *id089
+      Reporting Period: *id090
+    Credit Event Amount:
+      Credit Event: *id091
+      Credit Event Reference Obligation: *id092
+      Credit Event UPB: *id093
+      Payment Date: *id094
+      Period: *id095
+      Reference Obligations: *id096
+      Reporting Period: *id097
+    Credit Event Net Gain:
+      Credit Event: *id098
+      Credit Event Reference Obligation: *id099
+      Credit Event UPB: *id100
+      Current Accrual Rate: *id101
+      Liquidation Proceeds: *id102
+      Net Liquidation Proceeds: *id103
+    Credit Event Net Loss:
+      Credit Event: *id104
+      Credit Event Reference Obligation: *id105
+      Credit Event UPB: *id106
+      Current Accrual Rate: *id107
+      Liquidation Proceeds: *id108
+      Net Liquidation Proceeds: *id109
+    Credit Event Reference Obligation:
+      Credit Event: *id110
+      Payment Date: *id111
+    Credit Event UPB:
+      Credit Event: *id112
+      Credit Event Reference Obligation: *id113
+      Payment Date: *id114
+      Period: *id115
+      Reporting Period: *id116
+    Credit Suisse:
+      Barclays: *id117
+      BofA Merrill: *id118
+      Citigroup: *id119
+      Dealer: *id120
+      Dealer Agreement: *id121
+      Dealers: *id122
+      JP Morgan: *id123
+      Wells Fargo: *id124
+    Current Accrual Rate:
+      Modification Event: *id125
+      Payment Date: *id126
+    Cut-off Date:
+      Reference Obligations: *id127
+      Reference Pool: *id128
+    Dealer:
+      Class Coupon: *id129
+      Closing Date: *id130
+      Maturity Date: *id131
+      Offered Notes: *id132
+    Dealer Agreement:
+      Barclays: *id133
+      BofA Merrill: *id134
+      Citigroup: *id135
+      Credit Suisse: *id136
+      Dealer: *id137
+      Dealers: *id138
+      JP Morgan: *id139
+      Wells Fargo: *id140
+    Dealers:
+      Barclays: *id141
+      BofA Merrill: *id142
+      Citigroup: *id143
+      Credit Suisse: *id144
+      Dealer: *id145
+      JP Morgan: *id146
+      Wells Fargo: *id147
+    Debt Agreement:
+      Closing Date: *id148
+      Holder: *id149
+      Holders: *id150
+    Definitive Notes:
+      Book-Entry Notes: *id151
+    Delinquency Test:
+      Distressed Principal Balance: *id152
+      Payment Date: *id153
+      Principal Loss Amount: *id154
+      Reference Obligations: *id155
+    Designated Page:
+      Interest Settlement Rate: *id156
+    Diligence Provider:
+      Initial Cohort Pool: *id157
+    Diligence Sample:
+      Diligence Provider: *id158
+    Distressed Principal Balance:
+      Payment Date: *id159
+      Reference Obligations: *id160
+    EEA RISK RETENTION:
+      EXEMPT PERSONS: *id161
+    EEA Risk Retention:
+      Risk Factors: *id162
+    EEA Risk Retention Regulation:
+      EEA Risk Retention: *id163
+      Transaction: *id164
+    EXEMPT PERSONS:
+      EEA RISK RETENTION: *id165
+    Early Redemption Option:
+      Group 2 Liquidation Date: *id166
+      Group 2 Notes: *id167
+      Holder: *id168
+      Holders: *id169
+      Liquidation Date: *id170
+      Liquidation Recovery Amount: *id171
+      Projected Recovery Amount: *id172
+    Eligibility Criteria:
+      Cut-off Date: *id173
+      Loan Group 1: *id174
+      Loan Group 2: *id175
+      Reference Obligations: *id176
+      Reference Pool: *id177
+      Selling Guide: *id178
+      Servicing Guide: *id179
+      Warrant: *id180
+    Eligibility Defect:
+      Eligibility Defect Rate: *id181
+    Eligibility Defect Rate:
+      Eligibility Defect: *id182
+    Euroclear:
+      Euroclear Participants: *id183
+      Participants: *id184
+    Euroclear Operator:
+      Euroclear: *id185
+    Euroclear Participants:
+      Euroclear: *id186
+      Participants: *id187
+    Exchange Act:
+      Rated Notes: *id188
+    Exchange Administrator:
+      Exchangeable Notes: *id189
+      RCR Notes: *id190
+      Wells Fargo: *id191
+      Wells Fargo Bank: *id192
+    Exchangeable Notes:
+      Group 1 Exchangeable Notes: *id193
+      Group 2 Exchangeable Notes: *id194
+      Holder: *id195
+      Holders: *id196
+      RCR Notes: *id197
+    Fannie Mae QC Review:
+      Diligence Provider: *id198
+    Global Agency Agreement:
+      Closing Date: *id199
+      Global Agent: *id200
+      Wells Fargo: *id201
+      Wells Fargo Bank: *id202
+    Global Agent:
+      Global Agency Agreement: *id203
+      Wells Fargo: *id204
+      Wells Fargo Bank: *id205
+    Group 1 Class:
+      Group 1 Classes: *id206
+    Group 1 Classes:
+      Group 1 Class: *id207
+    Group 1 Exchangeable Notes:
+      Exchangeable Notes: *id208
+      Group 1 RCR Notes: *id209
+      Holder: *id210
+      Holders: *id211
+      RCR Notes: *id212
+    Group 1 Liquidation Date:
+      Group 1 Liquidation Period: *id213
+      Liquidation Date: *id214
+      Liquidation Period: *id215
+      Period: *id216
+    Group 1 Liquidation Period:
+      Liquidation Period: *id217
+      Period: *id218
+      Recovery Election Date: *id219
+    Group 1 Notes:
+      Exchangeable Notes: *id220
+      Group 1 Offered Notes: *id221
+      Offered Notes: *id222
+      RCR Notes: *id223
+    Group 1 Offered Notes:
+      Closing Date: *id224
+      Group 2 Offered Notes: *id225
+      Offered Notes: *id226
+    Group 1 RCR Notes:
+      Exchangeable Notes: *id227
+      Group 1 Exchangeable Notes: *id228
+      RCR Notes: *id229
+    Group 1 Reference Tranche:
+      Credit Event: *id230
+      Group 1 Notes: *id231
+      Loan Group 1: *id232
+      Modification Event: *id233
+      Payment Date: *id234
+      Reference Obligations: *id235
+      Transaction: *id236
+      Transaction Summary: *id237
+    Group 1 Senior Percentage:
+      Class Notional Amount: *id238
+      Group 1 Notes: *id239
+      Loan Group 1: *id240
+      Payment Date: *id241
+      Period: *id242
+      Reference Obligations: *id243
+      Reporting Period: *id244
+    Group 1 Subordinate Percentage:
+      Group 1 Notes: *id245
+      Group 1 Senior Percentage: *id246
+      Payment Date: *id247
+    Group 1 Termination Date:
+      Class Principal Balance: *id248
+      Early Redemption Option: *id249
+      Global Agent: *id250
+      Group 1 Class: *id251
+      Group 1 Classes: *id252
+      Group 1 Notes: *id253
+      Maturity Date: *id254
+      Payment Date: *id255
+      Tranche Write-down Amount: *id256
+      Tranche Write-up Amount: *id257
+    Group 2 Class:
+      Group 2 Classes: *id258
+    Group 2 Classes:
+      Group 2 Class: *id259
+    Group 2 Exchangeable Notes:
+      Exchangeable Notes: *id260
+      Group 1 Exchangeable Notes: *id261
+      Group 2 RCR Notes: *id262
+      Holder: *id263
+      Holders: *id264
+      RCR Notes: *id265
+    Group 2 Liquidation Date:
+      Group 2 Liquidation Period: *id266
+      Liquidation Date: *id267
+      Liquidation Period: *id268
+      Period: *id269
+    Group 2 Liquidation Period:
+      Liquidation Period: *id270
+      Period: *id271
+      Recovery Election Date: *id272
+    Group 2 Notes:
+      Exchangeable Notes: *id273
+      Group 2 Offered Notes: *id274
+      Offered Notes: *id275
+      RCR Notes: *id276
+    Group 2 Offered Notes:
+      Closing Date: *id277
+      Group 1 Offered Notes: *id278
+      Offered Notes: *id279
+    Group 2 RCR Notes:
+      Exchangeable Notes: *id280
+      Group 1 RCR Notes: *id281
+      Group 2 Exchangeable Notes: *id282
+      RCR Notes: *id283
+    Group 2 Reference Tranche:
+      Credit Event: *id284
+      Group 2 Notes: *id285
+      Loan Group 2: *id286
+      Modification Event: *id287
+      Payment Date: *id288
+      Reference Obligations: *id289
+      Transaction: *id290
+      Transaction Summary: *id291
+    Group 2 Senior Percentage:
+      Class Notional Amount: *id292
+      Group 2 Notes: *id293
+      Loan Group 2: *id294
+      Payment Date: *id295
+      Period: *id296
+      Reference Obligations: *id297
+      Reporting Period: *id298
+    Group 2 Subordinate Percentage:
+      Group 2 Notes: *id299
+      Group 2 Senior Percentage: *id300
+      Payment Date: *id301
+    Group 2 Termination Date:
+      Class Principal Balance: *id302
+      Early Redemption Option: *id303
+      Global Agent: *id304
+      Group 2 Class: *id305
+      Group 2 Classes: *id306
+      Group 2 Notes: *id307
+      Maturity Date: *id308
+      Payment Date: *id309
+      Tranche Write-down Amount: *id310
+      Tranche Write-up Amount: *id311
+    Group Termination Date:
+      Group 1 Notes: *id312
+      Group 1 Termination Date: *id313
+      Group 2 Termination Date: *id314
+      Projected Recovery Amount: *id315
+    Guaranty Obligations:
+      Reference Obligations: *id316
+      Transaction: *id317
+    Holder:
+      Group 1 Notes: *id318
+      Group 2 Notes: *id319
+      Holders: *id320
+      Loan Groups: *id321
+      Noteholder: *id322
+      Noteholders: *id323
+      Reference Obligations: *id324
+    Holders:
+      Group 1 Notes: *id325
+      Group 2 Notes: *id326
+      Holder: *id327
+      Loan Groups: *id328
+      Noteholder: *id329
+      Noteholders: *id330
+      Reference Obligations: *id331
+    ICE Method:
+      Business Day: *id332
+      Global Agent: *id333
+      Interest Settlement Rate: *id334
+      LIBOR Adjustment Date: *id335
+      LIBOR Business Day: *id336
+      One-Month LIBOR: *id337
+    Indirect Participants:
+      Book-Entry Notes: *id338
+      Clearstream: *id339
+      Euroclear: *id340
+      Note Owners: *id341
+      Participants: *id342
+    Initial Cohort Pool:
+      Available Loans: *id343
+      Eligibility Criteria: *id344
+    Interest Accrual Amount:
+      Class Coupon: *id345
+      Class Notional Amount: *id346
+      Class Principal Balance: *id347
+      Payment Date: *id348
+    Interest Only RCR Notes:
+      Payment Date: *id349
+      RCR Notes: *id350
+    Interest Payment Amount:
+      Holder: *id351
+      Holders: *id352
+      Interest Accrual Amount: *id353
+      Modification Loss Amount: *id354
+      Payment Date: *id355
+    Interest Settlement Rate:
+      Business Day: *id356
+      Global Agent: *id357
+      ICE Method: *id358
+      LIBOR Adjustment Date: *id359
+      LIBOR Business Day: *id360
+      One-Month LIBOR: *id361
+    Investment Company Act:
+      Benefit Plan Investor: *id362
+      Plan Asset Regulation: *id363
+    Issuer: {}
+    JP Morgan:
+      Barclays: *id364
+      BofA Merrill: *id365
+      Citigroup: *id366
+      Credit Suisse: *id367
+      Dealer: *id368
+      Dealer Agreement: *id369
+      Dealers: *id370
+      Wells Fargo: *id371
+    January-February 2015 Acquisitions: {}
+    LIBOR Adjustment Date:
+      Accrual Period: *id372
+      Business Day: *id373
+      Class Coupon: *id374
+      Global Agent: *id375
+      LIBOR Business Day: *id376
+      Period: *id377
+    LIBOR Business Day:
+      Business Day: *id378
+      Global Agent: *id379
+      ICE Method: *id380
+      Interest Settlement Rate: *id381
+      LIBOR Adjustment Date: *id382
+      One-Month LIBOR: *id383
+    Layering:
+      Risk Factors: *id384
+    Lender Contract:
+      Selling Guide: *id385
+      Servicing Guide: *id386
+    Liquidation Date:
+      Group 1 Liquidation Date: *id387
+      Group 2 Liquidation Date: *id388
+    Liquidation Period:
+      Group 1 Liquidation Period: *id389
+      Group 2 Liquidation Period: *id390
+      Period: *id391
+    Liquidation Proceeds:
+      Credit Event: *id392
+      Credit Event Reference Obligation: *id393
+    Liquidation Recovery Amount:
+      Holder: *id394
+      Holders: *id395
+      Liquidation Date: *id396
+      Liquidation Period: *id397
+      Liquidation Recovery Mortgage Loans: *id398
+      Period: *id399
+      Recovery Election Date: *id400
+      Tranche Write-down Amount: *id401
+      Tranche Write-up Amount: *id402
+    Liquidation Recovery Mortgage Loans:
+      Credit Event: *id403
+      Credit Event Reference Obligation: *id404
+      Recovery Election Date: *id405
+    Loan Acquisition Practices:
+      Reference Obligations: *id406
+    Loan Group 1:
+      Cut-off Date: *id407
+      Group 1 Notes: *id408
+      Reference Obligations: *id409
+    Loan Group 2:
+      Cut-off Date: *id410
+      Group 2 Notes: *id411
+      Reference Obligations: *id412
+    Loan Groups:
+      Reference Pool: *id413
+    Material Finding:
+      Diligence Provider: *id414
+      Diligence Sample: *id415
+      Selling Guide: *id416
+    Maturity Date:
+      Payment Date: *id417
+    Minimum Credit Enhancement Test:
+      Group 1 Subordinate Percentage: *id418
+      Group 2 Subordinate Percentage: *id419
+      Loan Group 1: *id420
+      Loan Group 2: *id421
+      Payment Date: *id422
+    Modeling Assumptions:
+      Class Coupon: *id423
+      Class Notional Amount: *id424
+      Class Principal Balance: *id425
+      Closing Date: *id426
+      Credit Event: *id427
+      Credit Event Amount: *id428
+      Credit Event Reference Obligation: *id429
+      Delinquency Test: *id430
+      Early Redemption Option: *id431
+      Exchangeable Notes: *id432
+      Liquidation Recovery Amount: *id433
+      Loan Group 1: *id434
+      Loan Group 2: *id435
+      Maturity Date: *id436
+      Modification Event: *id437
+      Offered Notes: *id438
+      One-Month LIBOR: *id439
+      Payment Date: *id440
+      Principal Loss Amount: *id441
+      Projected Recovery Amount: *id442
+      RCR Notes: *id443
+      Recovery Principal: *id444
+      Reference Obligations: *id445
+      Reference Pool: *id446
+      Warrant: *id447
+    Modification Event:
+      Current Accrual Rate: *id448
+      Modification Loss Amount: *id449
+      Original Accrual Rate: *id450
+      Payment Date: *id451
+    Modification Loss Amount:
+      Current Accrual Rate: *id452
+      Modification Event: *id453
+      Original Accrual Rate: *id454
+      Payment Date: *id455
+    Mortgage Insurance Credit Amount:
+      Credit Event: *id456
+      Credit Event Reference Obligation: *id457
+    NI 31-103:
+      Canadian Purchaser: *id458
+      Cut-off Date: *id459
+      Dealer: *id460
+      Diligence Provider: *id461
+      Loan Group 1: *id462
+      Loan Group 2: *id463
+      NI 45-106: *id464
+      Payment Date: *id465
+      Reference Obligations: *id466
+      Securities Act: *id467
+      Securities Laws: *id468
+    NI 45-106:
+      Canadian Purchaser: *id469
+      Cut-off Date: *id470
+      Dealer: *id471
+      Diligence Provider: *id472
+      Loan Group 1: *id473
+      Loan Group 2: *id474
+      NI 31-103: *id475
+      Payment Date: *id476
+      Reference Obligations: *id477
+      Securities Act: *id478
+      Securities Laws: *id479
+    Net Liquidation Proceeds:
+      Credit Event: *id480
+      Credit Event Reference Obligation: *id481
+      Liquidation Proceeds: *id482
+      Mortgage Insurance Credit Amount: *id483
+    Note Owners:
+      Book-Entry Notes: *id484
+      Clearstream: *id485
+      Euroclear: *id486
+      Indirect Participants: *id487
+      Participants: *id488
+    Noteholder:
+      Group 1 Notes: *id489
+      Group 2 Notes: *id490
+      Holder: *id491
+      Holders: *id492
+      Loan Groups: *id493
+      Noteholders: *id494
+      Reference Obligations: *id495
+    Noteholders:
+      Group 1 Notes: *id496
+      Group 2 Notes: *id497
+      Holder: *id498
+      Holders: *id499
+      Loan Groups: *id500
+      Noteholder: *id501
+      Reference Obligations: *id502
+    Offered Notes:
+      Closing Date: *id503
+      Group 1 Offered Notes: *id504
+      Group 2 Offered Notes: *id505
+    On-Market Swap Rate:
+      Class B Notes: *id506
+      Class Coupon: *id507
+      US Person: *id508
+    One-Month LIBOR:
+      Business Day: *id509
+      Global Agent: *id510
+      ICE Method: *id511
+      Interest Settlement Rate: *id512
+      LIBOR Adjustment Date: *id513
+      LIBOR Business Day: *id514
+    Original Accrual Rate:
+      Cut-off Date: *id515
+    Overcollateralization Amount:
+      Payment Date: *id516
+      Tranche Write-down Amount: *id517
+      Write-up Excess: *id518
+    PAC Method:
+      Class M Debt Notes: *id519
+    PROSPECTUS DIRECTIVE:
+      RELEVANT MEMBER STATE: *id520
+    Participants:
+      Book-Entry Notes: *id521
+      Clearstream: *id522
+      Euroclear: *id523
+      Indirect Participants: *id524
+      Note Owners: *id525
+    Payment Date:
+      Book-Entry Notes: *id526
+      Business Day: *id527
+      Definitive Notes: *id528
+      Global Agent: *id529
+      Record Date: *id530
+    Payment Date Statement:
+      Accrual Period: *id531
+      Class Principal Balance: *id532
+      Credit Event: *id533
+      Credit Event Amount: *id534
+      Credit Event Reference Obligation: *id535
+      Cut-off Date: *id536
+      Global Agent: *id537
+      Interest Payment Amount: *id538
+      Loan Groups: *id539
+      Modification Event: *id540
+      Modification Loss Amount: *id541
+      One-Month LIBOR: *id542
+      Payment Date: *id543
+      Period: *id544
+      Recovery Principal: *id545
+      Reference Obligations: *id546
+      Reference Pool: *id547
+      Reporting Period: *id548
+      Reversed Credit Event Amount: *id549
+      Risk Retention Letter: *id550
+      Scheduled Principal: *id551
+      Senior Reduction Amount: *id552
+      Subordinate Reduction Amount: *id553
+      Tranche Write-down Amount: *id554
+      Tranche Write-up Amount: *id555
+      Unscheduled Principal: *id556
+      Warrant: *id557
+    Payment Errors:
+      Period: *id558
+      Reporting Errors: *id559
+      Wells Fargo: *id560
+      Wells Fargo Bank: *id561
+    Period:
+      Wells Fargo: *id562
+      Wells Fargo Bank: *id563
+    Permitted Variances:
+      Loan Acquisition Practices: *id564
+      Selling Guide: *id565
+    Plan Asset Regulation: {}
+    Preliminary Class Notional Amount:
+      Class Notional Amount: *id566
+      Group 1 Termination Date: *id567
+      Loan Group 1: *id568
+      Modification Loss Amount: *id569
+      Payment Date: *id570
+      Preliminary Principal Loss Amount: *id571
+      Principal Loss Amount: *id572
+      Tranche Write-down Amount: *id573
+      Tranche Write-up Amount: *id574
+    Preliminary Principal Loss Amount:
+      Class Notional Amount: *id575
+      Group 1 Termination Date: *id576
+      Loan Group 1: *id577
+      Modification Loss Amount: *id578
+      Payment Date: *id579
+      Preliminary Class Notional Amount: *id580
+      Principal Loss Amount: *id581
+      Tranche Write-down Amount: *id582
+      Tranche Write-up Amount: *id583
+    Principal Loss Amount:
+      Credit Event: *id584
+      Credit Event Net Loss: *id585
+      Credit Event Reference Obligation: *id586
+      Liquidation Proceeds: *id587
+      Modification Loss Amount: *id588
+      Net Liquidation Proceeds: *id589
+      Payment Date: *id590
+      Period: *id591
+      Reference Obligations: *id592
+      Reporting Period: *id593
+    Principal Recovery Amount:
+      Credit Event: *id594
+      Credit Event Net Gain: *id595
+      Credit Event Net Loss: *id596
+      Credit Event Reference Obligation: *id597
+      Liquidation Proceeds: *id598
+      Net Liquidation Proceeds: *id599
+      Payment Date: *id600
+      Period: *id601
+      Reference Obligations: *id602
+      Reporting Period: *id603
+      Warrant: *id604
+    Prohibited Transactions:
+      Transaction: *id605
+    Projected Recovery Amount:
+      Recovery Election Date: *id606
+    Prospectus Directive: {}
+    Qualified Institutional Buyer:
+      Investment Company Act: *id607
+      Qualified Institutional Buyers: *id608
+      Securities Act: *id609
+    Qualified Institutional Buyers:
+      Qualified Institutional Buyer: *id610
+    Qualified Stated Interest:
+      Treasury: *id611
+    RCR NOTES:
+      Exchangeable Notes: *id612
+      Holder: *id613
+    RCR Notes:
+      Exchangeable Notes: *id614
+      Group 1 RCR Notes: *id615
+      Group 2 RCR Notes: *id616
+      Holder: *id617
+      Holders: *id618
+    RDC Guide:
+      Selling Guide: *id619
+    RELEVANT MEMBER STATE:
+      PROSPECTUS DIRECTIVE: *id620
+    RELEVANT PERSONS:
+      EXEMPT PERSONS: *id621
+    Rated Notes:
+      Exchange Act: *id622
+    Record Date:
+      Book-Entry Notes: *id623
+      Business Day: *id624
+      Definitive Notes: *id625
+      Global Agent: *id626
+      Payment Date: *id627
+    Recovery Election Date: {}
+    Recovery Principal:
+      Credit Event: *id628
+      Credit Event Amount: *id629
+      Payment Date: *id630
+      Tranche Write-down Amount: *id631
+      Tranche Write-up Amount: *id632
+    Reference Obligations:
+      Cut-off Date: *id633
+      Reference Pool: *id634
+    Reference Pool:
+      Cut-off Date: *id635
+      Reference Obligations: *id636
+    Reference Pool Removals:
+      Credit Event: *id637
+      Debt Agreement: *id638
+      Holder: *id639
+      Reference Obligations: *id640
+      Reference Pool: *id641
+    Relevant Implementation Date:
+      Dealer: *id642
+      Issuer: *id643
+      Prospectus Directive: *id644
+    Reporting Errors:
+      Payment Errors: *id645
+      Period: *id646
+      Wells Fargo: *id647
+      Wells Fargo Bank: *id648
+    Reporting Period:
+      Payment Date: *id649
+      Period: *id650
+    Retained Interest:
+      Applicable Investor: *id651
+      Closing Date: *id652
+      Debt Agreement: *id653
+      Global Agency Agreement: *id654
+      Global Agent: *id655
+      Holder: *id656
+      Holders: *id657
+      Issuer: *id658
+      Reference Obligations: *id659
+      Risk Retention Letter: *id660
+      Transaction: *id661
+    Reversed Credit Event Amount:
+      Credit Event: *id662
+      Credit Event Amount: *id663
+      Credit Event Reference Obligation: *id664
+      Credit Event UPB: *id665
+      Payment Date: *id666
+      Period: *id667
+      Reference Obligations: *id668
+      Reporting Period: *id669
+    Risk Factors:
+      Holder: *id670
+      Holders: *id671
+    Risk Retention Letter:
+      Applicable Investor: *id672
+      Closing Date: *id673
+      Debt Agreement: *id674
+      Global Agency Agreement: *id675
+      Global Agent: *id676
+      Holder: *id677
+      Holders: *id678
+      Issuer: *id679
+      Reference Obligations: *id680
+      Retained Interest: *id681
+      Transaction: *id682
+    Scheduled Principal:
+      Payment Date: *id683
+      Period: *id684
+      Reference Obligations: *id685
+      Reporting Period: *id686
+    Securities Act: {}
+    Securities Laws:
+      Canadian Purchaser: *id687
+      Cut-off Date: *id688
+      Dealer: *id689
+      Diligence Provider: *id690
+      Loan Group 1: *id691
+      Loan Group 2: *id692
+      NI 31-103: *id693
+      NI 45-106: *id694
+      Payment Date: *id695
+      Reference Obligations: *id696
+      Securities Act: *id697
+    Selling Guide:
+      Lender Contract: *id698
+      Servicing Guide: *id699
+    Senior Reduction Amount:
+      Delinquency Test: *id700
+      Minimum Credit Enhancement Test: *id701
+      Payment Date: *id702
+      Recovery Principal: *id703
+      Scheduled Principal: *id704
+      Unscheduled Principal: *id705
+    Servicing Guide:
+      Lender Contract: *id706
+      Selling Guide: *id707
+    Special Note:
+      Loan Group 2: *id708
+      Overcollateralization Amount: *id709
+    Strip RCR Note:
+      Exchangeable Notes: *id710
+    Subordinate Reduction Amount:
+      Payment Date: *id711
+      Recovery Principal: *id712
+      Scheduled Principal: *id713
+      Senior Reduction Amount: *id714
+      Unscheduled Principal: *id715
+    Tranche Write-down Amount:
+      Payment Date: *id716
+      Principal Loss Amount: *id717
+      Principal Recovery Amount: *id718
+    Tranche Write-up Amount:
+      Payment Date: *id719
+      Principal Loss Amount: *id720
+      Principal Recovery Amount: *id721
+    Transaction:
+      EEA Risk Retention: *id722
+      EEA Risk Retention Regulation: *id723
+    Transaction Summary:
+      Credit Event: *id724
+      Group 1 Reference Tranche: *id725
+      Group 2 Reference Tranche: *id726
+      Loan Group 1: *id727
+      Loan Group 2: *id728
+      Modification Event: *id729
+      Payment Date: *id730
+      Reference Obligations: *id731
+      Transaction: *id732
+    Transaction Termination Date:
+      Group 1 Termination Date: *id733
+      Group 2 Termination Date: *id734
+      Transaction: *id735
+    Treasury: {}
+    US Person:
+      Treasury: *id736
+    Unscheduled Principal:
+      Credit Event: *id737
+      Credit Event Reference Obligation: *id738
+      Payment Date: *id739
+      Period: *id740
+      Reference Obligations: *id741
+      Reference Pool: *id742
+      Reference Pool Removals: *id743
+      Reporting Period: *id744
+    Warrant:
+      Treasury: *id745
+    Wells Fargo:
+      Barclays: *id746
+      BofA Merrill: *id747
+      Citigroup: *id748
+      Credit Suisse: *id749
+      Dealer: *id750
+      Dealer Agreement: *id751
+      Dealers: *id752
+      JP Morgan: *id753
+    Wells Fargo Bank:
+      Global Agency Agreement: *id754
+      Global Agent: *id755
+      Wells Fargo: *id756
+    Withholding Agent:
+      Class M Debt Notes: *id757
+      RCR Notes: *id758
+      US Person: *id759
+    Write-up Excess:
+      Class Notional Amount: *id760
+      Payment Date: *id761
+      Tranche Write-down Amount: *id762
+      Tranche Write-up Amount: *id763
+  succ: *id001
+term_dictionary: !!python/object/apply:collections.defaultdict
+  args:
+  - !!python/name:builtins.list ''
+  dictitems:
+    Accrual Method Election:
+    - !!python/tuple
+      - 3388
+      - Accrual Method Election You may elect to include in gross income your entire
+        return on a Class M Debt Note (i.e., the excess of all remaining payments
+        to be received on the Note over the amount you paid for the Note) based on
+        the compounding of interest at a constant rate (the "Accrual Method Election").
+    Accrual Period:
+    - !!python/tuple
+      - 676
+      - The "Accrual Period" with respect to each Payment Date is the period beginning
+        on and including the prior Payment Date (or, in the case of the first Payment
+        Date, the Closing Date) and ending on and including the day preceding such
+        Payment Date.
+    Additional Information:
+    - !!python/tuple
+      - 13
+      - See "Additional Information" herein.
+    Additional Supplements:
+    - !!python/tuple
+      - 159
+      - In addition, loan sellers sometimes provide information about certain mortgage
+        loans that they sell to us in separate additional supplements ("Additional
+        Supplements").
+    Agreements:
+    - !!python/tuple
+      - 1594
+      - See "The Agreements" in this Prospectus.
+    Annual Interest Amount:
+    - !!python/tuple
+      - 3985
+      - "S-1 \u2022 The aggregate \"Annual Interest Amount\" (rounded to whole dollars)\
+        \ of the Notes received in the exchange must equal that of the Notes surrendered\
+        \ for exchange."
+    - !!python/tuple
+      - 3986
+      - The "Annual Interest Amount" for any Note equals its outstanding Class Principal
+        Balance or Class Notional Amount multiplied by its Class Coupon.
+    Applicable Investor:
+    - !!python/tuple
+      - 3587
+      - '"Applicable Investor" means each holder of a beneficial interest in any Notes
+        that is (i) an EEA credit institution or investment firm, (ii) an EEA insurer
+        or reinsurer, (iii) an EEA undertaking for collective investment in transferable
+        securities (UCITS) or (iv) an alternative investment fund to which Directive
+        2011/61/EU applies.'
+    Appraisal Sample:
+    - !!python/tuple
+      - 2627
+      - The 1,312 desk review valuations that were completed (representing approximately
+        98.5% of the total desk review property valuations by loan count) are referred
+        to collectively as the "Appraisal Sample".
+    Article 9:
+    - !!python/tuple
+      - 3186
+      - In some states, foreclosure on the co-operative shares is accomplished by
+        a sale in accordance with the provisions of Article 9 of the Uniform Commercial
+        Code ("Article 9") and the security instrument relating to those shares.
+    Automatic Termination:
+    - !!python/tuple
+      - 66
+      - If a material change does occur with respect to a Class of Notes being purchased,
+        then that change will cause the termination of the contract, by its terms,
+        with a prospective investor to purchase the related Notes without any further
+        obligation or liability between the prospective investor and Fannie Mae (an
+        "Automatic Termination").
+    Available Loans:
+    - !!python/tuple
+      - 2543
+      - The loans included in the first segment (representing a weighted average of
+        approximately 79.99% of the January-February 2015 Acquisitions) were made
+        available for potential selection for the Reference Pool (such loans, the
+        "Available Loans").
+    Barclays:
+    - &id764 !!python/tuple
+      - 3632
+      - 195 DISTRIBUTION ARRANGEMENTS We will offer the Notes to or through the Dealers
+        under the terms and conditions set forth in the dealer agreement, dated as
+        of February 10, 2016 (as amended, supplemented or replaced from time to time,
+        the "Dealer Agreement"), between us, and JP Morgan Securities LLC ("JP Morgan")
+        and Citigroup Global Markets Inc. ("Citigroup"), under which JP Morgan is
+        acting for itself and as representative of Barclays Capital Inc. ("Barclays"),
+        Merrill Lynch, Pierce, Fenner & Smith Incorporated ("BofA Merrill"), Credit
+        Suisse Securities(USA) LLC ("Credit Suisse") and Wells Fargo Securities, LLC
+        ("Wells Fargo"), each in its capacity as dealer, and CastleOak Securities,
+        LP and Loop Capital Markets LLC, each in its capacity as a selling group member.
+    Benefit Plan Investor:
+    - !!python/tuple
+      - 3614
+      - The term "Benefit Plan Investor" as defined in the Plan Asset Regulation includes
+        (i) any employee benefit plan as defined in Section 3(3) of ERISA that is
+        subject to Title I of ERISA, (ii) any plan described in and subject to Section
+        4975(e)(1) of the Code and (iii) any entity whose underlying assets are deemed
+        to include assets of an employee benefit plan or plan by reason of the ownership
+        of equity interests in such entity by one or more employee benefit plans or
+        a plans.
+    BofA Merrill:
+    - *id764
+    Book-Entry Notes:
+    - !!python/tuple
+      - 593
+      - The Notes will be issued on the Closing Date as bookentry Notes (the "Book-Entry
+        Notes") and will be held through the book-entry system of the DC and, as applicable,
+        Euroclear and Clearstream.
+    - !!python/tuple
+      - 1490
+      - Rights of Note Owners May Be Limited by Book-Entry System The Notes will be
+        issued as book-entry Notes (the "Book-Entry Notes") and will be held through
+        the book-entry system of the DC and, as applicable, Euroclear and Clearstream.
+    Business Day:
+    - !!python/tuple
+      - 1714
+      - "A \"Business Day\" means a day other than: \u2022 A Saturday or Sunday. \u2022\
+        \ A day on which the corporate trust offices of the Global Agent (currently\
+        \ located at 9062 Old Annapolis Road, Columbia, Maryland 21045, Attention:\
+        \ FNMA 2016-C01), the offices of DC the Federal Reserve Bank of New York or\
+        \ banking institutions in the City of New York are authorized or obligated\
+        \ by law or executive order to be closed."
+    CLASS B NOTES:
+    - !!python/tuple
+      - 129
+      - "In that case, the holders of the affected Notes may file a claim for relief\
+        \ in the US Court of Federal Claims, requiring Treasury to fund up to the\
+        \ lesser of: \u2022 the amount necessary to cure the payment default; or \u2022\
+        the \"available amount\" under the agreement as of the last day of the immediately\
+        \ preceding fiscal quarter. vii NOTICE TO INVESTORS IN CLASS B NOTES BECAUSE\
+        \ THE US FEDERAL INCOME TAX CHARACTERIZATION OF THE CLASS 1B ANDCASS 2B NOTES\
+        \ (TOGETHER, THE \"CLASS B NOTES\") NOTES IS UNCLEAR, THE CHARACTERIZATION\
+        \ OF PAYMENTS ON THE CLASS B NOTES FOR US WITHHOLDING TAX PURPOSES IS ALSO\
+        \ UNCLEAR."
+    CONSERVATOR:
+    - !!python/tuple
+      - 48
+      - THIS PROSPECTUS HAS BEEN PREPARED BY FANNIE MAE SOLELY FOR USE IN CONNECTION
+        WITH THE SALE OF THE NOTES. ii FANNIE MAE IS IN CONSERVATORSHIP; POTENTIAL
+        RECEIVERSHIP WE CONTINUE TO OPERATE UNDER THE CONSERVATORSHIP THAT COMMENCED
+        ON SEPTEMBER 6, 2008, CONDCING OUR BUSINESS UNDER THE DIRECTION OF THE FEDERAL
+        HOUSING FINANCE AGENCY ("FHFA") AS OUR CONSERVATOR (THE "CONSERVATOR").
+    CPDI Regulations:
+    - !!python/tuple
+      - 3295
+      - The Class M Debt Notes may be issued with original issue discount ("OID")
+        for US federal income tax purposes depending on the "issue price." Treasury
+        Regulations governing contingent payment debt instruments (the "CPDI Regulations")
+        do not adequately address certain issues relevant to, and in some instances
+        provide that they are not applicable to, securities similar to the Class M
+        Debt Notes.
+    Canadian Purchaser:
+    - &id780 !!python/tuple
+      - 4034
+      - 'A-25 Appendix B Diligence Provider''s Data Integrity Review Discrepancies
+        Record Type Loan File Data Diligence Provider Data Loan Group DTI (Back) 37
+        43 1 DTI (Back) 27 43 excluded DTI (Back) 18 40 2 DTI (Back) 25 34 2 DTI (Back)
+        42 47 excluded DTI (Back) 28 31 1 DTI (Back) 42 47 1 DTI (Back) 36 63 2 DTI
+        (Back) 35 45 1 DTI (Back) 33 42 2 DTI (Back) 19 24 excluded DTI (Back) 29
+        63 1 DTI (Back) 24 21 excluded DTI (Back) 42 46 excluded DTI (Back) 12 19
+        1 DTI (Back) 39 42 2 DTI (Back) 39 42 1 DTI (Back) 40 33 1 DTI (Back) 32 28
+        excluded DTI (Back) 35 24 2 DTI (Back) 39 42 1 DTI (Back) 30 34 excluded Number
+        of Borrowers 3 2 1 Number of Borrowers 1 2 excluded Representative Credit
+        Score 797 800 1 First Payment Date 3/1/2015 3/1/2015 excluded First Time Homebuyer
+        Status No Yes excluded First Time Homebuyer Status No Yes 1 First Time Homebuyer
+        Status No Yes 2 First Time Homebuyer Status No Yes excluded First Time Homebuyer
+        Status No Yes 1 First Time Homebuyer Status No Yes excluded First Time Homebuyer
+        Status Yes No excluded First Time Homebuyer Status Yes No 1 First Time Homebuyer
+        Status Yes No excluded First Time Homebuyer Status Yes No 2 Property Type
+        Detached PUDCndominium excluded Property Type Single Family Detached PUD excluded
+        Five Digit Zip 808XX 805XX excluded Original Loan to Value 70 72 1 Original
+        Combined Loan to Value 87 88 1 Original Combined Loan to Value 80 84 excluded
+        Original Combined Loan to Value 93 94 excluded Loan Purpose Blank Refinance
+        excluded Loan Purpose Blank Refinance 1 Number of Units 2 3 excluded B-1 Appendix
+        C Assumed Characteristics of the Reference Obligations (as of the Cut-off
+        Date) Loan Group 1 Assumed Reference Remaining Term Original Term to Obligation
+        Group Outstanding Principal to Maturity Maturity Current Mortgage Number Balance
+        (\n\n) (in months) (in months) Rate (%) 1 515,717.86 351 360 3.125 2 2,916,926.77
+        350 360 3.250 3 15,443,893.27 350 360 3.373 4 93,550,194.48 350 360 3.499
+        5 371,042,136.25 350 360 3.624 6 1,364,661,619.51 350 360 3.748 7 2,487,508,029.52
+        350 360 3.874 8 2,789,053,008.46 349 360 3.996 9 3,093,948,926.90 349 360
+        4.123 10 3,286,179,530.55 349 360 4.248 11 1,842,046,545.24 349 360 4.374
+        12 1,152,890,256.83 349 360 4.499 13 1,041,899,610.55 349 360 4.616 14 716,638,811.09
+        349 360 4.749 15 396,525,764.84 349 360 4.875 16 171,195,661.55 349 360 4.996
+        17 85,175,183.15 349 360 5.124 18 58,231,526.55 349 360 5.248 19 23,698,904.04
+        348 360 5.373 20 5,285,081.37 348 360 5.500 21 630,904.34 348 360 5.611 22
+        364,444.66 347 360 5.750 23 281,763.08 347 360 5.875 C-1 Loan Group 2 Assumed
+        Reference Remaining Term Original Term to Obligation Group Outstanding Principal
+        to Maturity Maturity Current Mortgage Number Balance (\n\n) (in months) (in
+        months) Rate (%) 1 1,815,758.37 348 360 2.971 2 1,344,650.11 349 360 3.125
+        3 2,840,282.74 349 360 3.250 4 3,972,901.40 350 360 3.372 5 18,577,062.11
+        350 360 3.500 6 103,396,046.13 350 360 3.624 7 429,624,110.34 350 360 3.749
+        8 949,430,249.23 350 360 3.874 9 1,280,771,463.40 349 360 3.997 10 1,863,013,796.04
+        349 360 4.124 11 2,205,196,056.37 349 360 4.248 12 1,307,714,220.78 349 360
+        4.374 13 835,376,062.16 349 360 4.499 14 862,182,770.57 348 359 4.612 15 517,946,291.21
+        349 360 4.750 16 239,877,864.21 349 360 4.874 17 115,245,776.01 349 360 4.996
+        18 45,289,492.34 349 360 5.125 19 30,777,956.82 349 360 5.247 20 10,506,610.57
+        349 360 5.375 21 1,503,135.40 349 360 5.500 22 763,936.71 348 360 5.625 23
+        148,886.05 350 360 5.750 24 394,852.85 350 360 5.890 C-2 Appendix D Seller
+        Restrictions Canada Each Dealer has represented, warranted and agreed that:
+        (a) the sale and delivery of any Notes to any purchaser who is located or
+        resident in Canada or who is purchasing on a non-discretionary basis for a
+        principal who is located or resident in Canada (each such purchaser or principal,
+        a "Canadian Purchaser") by such Dealer shall be made so as to be exempt from
+        the prospectus filing requirements and exempt from, or in compliance with,
+        the dealer registration requirements of all applicable securities laws, regulations,
+        rules, instruments, rulings and orders, including those applicable in each
+        of the provinces and territories of Canada where any Canadian purchaser is
+        located or resident (as defined in this section, the "Securities Laws"); (b)
+        (i) the Dealer is an investment dealer as defined in section 1.1 of National
+        Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant
+        Obligations ("NI 31-103"); or (ii) any sale and delivery of any Notes to a
+        Canadian Purchaser will be made through (A) an affiliate of the relevant Dealer
+        that is a registered investment dealer, exempt market dealer or restricted
+        dealer; or (B) in compliance with the international dealer exemption from
+        the dealer registration requirements, and otherwise in compliance with the
+        representations, warranties, and agreements set out herein; (c) each Canadian
+        Purchaser is entitled under the Securities Laws to acquire the Notes without
+        a prospectus qualified under the Securities Laws, and such purchaser, (A)
+        is a "permitted client" as defined in section 1.1 of NI 31-103 and an "accredited
+        investor" as defined in Section 73.3 of the Securities Act (Ontario) or National
+        Instrument 45-106 Prospectus Exemptions ("NI 45-106"), is not an individual
+        unless relying on subparagraph (j.1) of the definition of "accredited investor"
+        in NI 45-106, and if relying on subparagraph (m) of the definition of "accredited
+        investor" in NI 45-106. was not formed and is not being used solely to acquire
+        the Notes as an accredited investor; (d) it has not provided and will not
+        provide to any Canadian Purchaser any document or other material that would
+        constitute an offering memorandum (other than this Prospectus with respect
+        to the private placement of the Notes in Canada) within the meaning of the
+        Securities Laws; (e) it has not made and will not make any offers or sales
+        of any Notes to any Canadian Purchaser that is located or resident in any
+        province or territory of Canada other than the provinces of Alberta, British
+        Columbia, Ontario and Quebec; (f) it has not provided and will not provide
+        any document or any other material that would constitute an offering memorandum
+        within the meaning of the Securities Laws to a Canadian Purchaser outside
+        the provinces of Alberta, British Columbia, Ontario and Quebec; (g) it has
+        not made and it will not make any written or oral representations to any Canadian
+        Purchaser: (i) that any person will resell or repurchase the Notes purchased
+        by such Canadian Purchaser; (ii) that the Notes will be freely tradable by
+        the Canadian Purchaser without any restrictions or hold periods; (iii) that
+        any person will refund the purchase price of the Notes; or (iv)as to the future
+        price or value of the Notes; and Each Canadian Purchaser acquiring Notes is
+        hereby notified that: D-1 (a) The Notes may be sold only to purchasers purchasing,
+        or deemed to be purchasing, as principal that are accredited investors, as
+        defined in subsection 73.3(1) of the Securities Act (Ontario) or NI 45-106,
+        and are permitted clients, as defined in NI 31-103.'
+    Certain ERISA Considerations:
+    - !!python/tuple
+      - 831
+      - Subject to the considerations and conditions described under "Certain ERISA
+        Considerations" in this Prospectus, it is expected that the Notes may be acquired
+        by Plans or persons acting on behalf of, using the assets of or deemed to
+        hold the assets of a Plan.
+    - !!python/tuple
+      - 832
+      - See "Certain ERISA Considerations" in this Prospectus.
+    - !!python/tuple
+      - 1432
+      - See "Certain ERISA Considerations" in this Prospectus.
+    - !!python/tuple
+      - 1523
+      - See "Certain ERISA Considerations" in this Prospectus.
+    Charter Act:
+    - !!python/tuple
+      - 85
+      - The Federal National Mortgage Association Charter Act (the "Charter Act")
+        does not permit us to originate loans or lend money directly to consumers
+        in the primary mortgage market.
+    Citigroup:
+    - *id764
+    Class B Notes:
+    - !!python/tuple
+      - 1501
+      - The Class 1B and Class 2B Notes (together, the "Class B Notes") could be characterized
+        as either derivatives or equity instruments for US federal income tax purposes.
+    Class Coupon:
+    - !!python/tuple
+      - 656
+      - Interest The Notes bear interest at the applicable per annum interest rate
+        (each, a "Class Coupon") shown in the following table (subject to the minimum
+        rate shown).
+    Class M Debt Notes:
+    - !!python/tuple
+      - 3287
+      - "The remainder of this discussion, other than the sections entitled \"\u2014\
+        \ Treatment if the Class M Debt Notes Are Not Respected as Indebtedness or\
+        \ if the Class B Notes 175 Are Not Treated as NPCs \" and \"\u2014Non-US Persons\u2014\
+        Class M Debt Notes and RCR Notes\u2014Treatment if Certain Notes Are Not Respected\
+        \ as Indebtedness,\" is based on the characterization of the Class 1M-1, Class\
+        \ 1M-2A, Class 1M-2B, Class 2M-1, Class 2M-2A and Class 2M-2B Notes sold on\
+        \ the Closing Date to persons unrelated to Fannie Mae (the \"Class M Debt\
+        \ Notes\") as debt obligations of Fannie Mae for US federal income tax purposes."
+    Class Notional Amount:
+    - !!python/tuple
+      - 712
+      - Class Notional Amount of Reference Tranches The "Class Notional Amount" of
+        each Reference Tranche as of any Payment Date is a notional amount equal to
+        the initial Class Notional Amount of such Reference Tranche, minus the aggregate
+        amount of Senior Reduction Amounts and/or Subordinate Reduction Amounts allocated
+        to such Reference Tranche on such Payment Date and all prior Payment Dates,
+        minus the aggregate amount of Tranche Write-down Amounts allocated to reduce
+        the Class Notional Amount of such Reference Tranche on such Payment Date and
+        on all prior Payment Dates, and plus the aggregate amount of Tranche Write-up
+        Amounts allocated to increase the Class Notional Amount of such Reference
+        Tranche on such Payment Date and on all prior Payment Dates.
+    Class Principal Balance:
+    - !!python/tuple
+      - 546
+      - The "Class Principal Balance" of each Class of Notes as of any Payment Date
+        is the maximum dollar amount of principal to which the Holders of the related
+        Class of Notes are then entitled, with such amount being equal to the initial
+        Class Principal Balance of the related Class of Notes, minus the aggregate
+        amount of principal paid by Fannie Mae on the related Class of Notes on such
+        Payment Date and all prior Payment Dates, minus the aggregate amount of Tranche
+        Write-down Amounts allocated to reduce the Class Principal Balance of the
+        related Class of Notes on such Payment Date and on all prior Payment Dates,
+        and plus the aggregate amount of Tranche Write-up Amounts allocated to increase
+        the Class Principal Balance of the related Class of Notes on such Payment
+        Date and on all prior Payment Dates (in each case without regard to any exchanges
+        of 9 Exchangeable Notes for RCR Notes).
+    Clearstream:
+    - &id765 !!python/tuple
+      - 1664
+      - "Clearstream Banking soci\xE9t\xE9 anonyme, 42 Avenue JF Kennedy, L-1855,\
+        \ Luxembourg (\"Clearstream\"), is a subsidiary of Clearstream International\
+        \ (\"Clearstream International\"), a Luxembourg limited liability company\
+        \ formed in January 2000 through the merger of Cedel International and Deutsche\
+        \ Boerse Clearing, a subsidiary of Deutsche Boerse AG."
+    Clearstream International:
+    - *id765
+    Clearstream Participants:
+    - !!python/tuple
+      - 1667
+      - Clearstream holds securities for its customers ("Clearstream Participants")
+        and facilitates the clearance and settlement of securities transactions by
+        electronic book-entry transfers between their accounts.
+    Closing Date:
+    - !!python/tuple
+      - 557
+      - On or about February 18, 2016 (the "Closing Date").
+    Combination RCR Note:
+    - !!python/tuple
+      - 3462
+      - The Class 1-M2 and Class 2-M2 Notes will represent beneficial ownership of
+        undivided interests in two Exchangeable Notes of the related combination (a
+        "Combination RCR Note").
+    Combinations:
+    - !!python/tuple
+      - 509
+      - Schedule Iattached hereto sets forth the available combinations (the "Combinations")
+        and characteristics of the Exchangeable Notes and RCR Notes and the exchange
+        procedures and fees.
+    - !!python/tuple
+      - 538
+      - Schedule I attached hereto sets forth the available combinations (the "Combinations")
+        and characteristics of the RCR Notes and the exchange procedures and fees.
+    Common Depositary:
+    - !!python/tuple
+      - 1639
+      - Note Owners are only permitted to exercise their rights indirectly through
+        Participants, Indirect Participants, Clearstream, Euroclear and DC The Global
+        Agent or another designated institution will act as the custodian for Book-Entry
+        Notes on DCand as the "Common Depositary" for Book-Entry Notes which clear
+        and settle through Euroclear and Clearstream.
+    Complaint:
+    - !!python/tuple
+      - 1967
+      - That same day, a group of institutional investors filed a civil complaint
+        in the United States District Court for the Southern District of New York
+        against Wells Fargo Bank alleging claims against the bank in its capacity
+        as trustee for 274 RMBS trusts (the "Complaint").
+    Credit Event:
+    - !!python/tuple
+      - 1847
+      - 'Related Definitions A "Credit Event" with respect to any Payment Date on
+        or before the related Group Termination Date and any Reference Obligation
+        is the first to occur of any of the following events during the related Reporting
+        Period, as reported by the servicer to Fannie Mae, if applicable: (i) a short
+        sale is settled, (ii) the related mortgaged property is sold to a third party
+        during the foreclosure process, (iii) an REO disposition occurs, (iv) a mortgage
+        note sale is executed on a seriously delinquent loan prior to foreclosure
+        or (v) the related mortgage note is charged off.'
+    Credit Event Amount:
+    - !!python/tuple
+      - 1850
+      - The "Credit Event Amount" with respect to any Payment Date and Loan Group
+        is the aggregate amount of the Credit Event UPBs of all Credit Event Reference
+        Obligations in that Loan Group for the related Reporting Period.
+    Credit Event Net Gain:
+    - !!python/tuple
+      - 1851
+      - 'The "Credit Event Net Gain" with respect to any Credit Event Reference Obligation
+        is an amount equal to the excess, if any, of: (a) the related Net Liquidation
+        Proceeds over (b) the sum of: (i) the related Credit Event UPB; (ii) the total
+        amount of prior principal forgiveness modifications, if any, on the related
+        Credit Event Reference Obligation; and (iii) delinquent accrued interest thereon,
+        calculated at the related Current Accrual Rate from the related last paid
+        interest date through the date such Reference Obligation has been reported
+        as a Credit Event Reference Obligation.'
+    Credit Event Net Loss:
+    - !!python/tuple
+      - 1852
+      - 'The "Credit Event Net Loss" with respect to any Credit Event Reference Obligation
+        is an amount equal to the excess, if any, of: (a) the sum of: (i) the related
+        Credit Event UPB; (ii) the total amount of prior principal forgiveness modifications,
+        if any, on the related Credit Event Reference Obligation; and (iii) delinquent
+        accrued interest thereon, calculated at the related Current Accrual Rate from
+        the related last paid interest date through the date such Reference Obligation
+        has been reported as a Credit Event Reference Obligation, over 93 (b) the
+        related Net Liquidation Proceeds.'
+    Credit Event Reference Obligation:
+    - !!python/tuple
+      - 1853
+      - A "Credit Event Reference Obligation" with respect to any Payment Date is
+        any Reference Obligation with respect to which a Credit Event has occurred.
+    Credit Event UPB:
+    - !!python/tuple
+      - 1854
+      - The "Credit Event UPB" with respect to any Credit Event Reference Obligation
+        is the unpaid principal balance thereof as of the end of the Reporting Period
+        related to the Payment Date that it became a Credit Event Reference Obligation.
+    Credit Scores:
+    - !!python/tuple
+      - 1031
+      - '"Credit Scores" are generated by models developed by third party credit reporting
+        organizations that analyze data on consumers in order to establish patterns
+        which are believed to be indicative of a borrower''s probability of default.'
+    Credit Suisse:
+    - *id764
+    Current Accrual Rate:
+    - !!python/tuple
+      - 1855
+      - The "Current Accrual Rate" with respect to any Payment Date and Reference
+        Obligation is the current mortgage rate (as adjusted for any Modification
+        Event), less the greater of (x) the related servicing fee rate and (y) 35
+        basis points.
+    Cut-off Date:
+    - &id787 !!python/tuple
+      - 416
+      - As further described below, the Notes will be subject to the credit and principal
+        prepayment risk of the related portion of a certain pool (the "Reference Pool")
+        of residential mortgage loans (the "Reference Obligations"), with an initial
+        aggregate unpaid principal balance as of December 31, 2015 (the "Cut-off Date")
+        of approximately \n\n29,827,394,673 (the "Reference Pool Cut-off Date Balance").
+    - !!python/tuple
+      - 746
+      - 27 Characteristics of the Reference Obligations We expect the Reference Obligations
+        to have the approximate characteristics set forth below as of December 31,
+        2015 (the "Cut-off Date").
+    Dealer:
+    - !!python/tuple
+      - 4
+      - 'Offering Terms: The dealers (each, a "Dealer") named below are offering the
+        Offered Notes Closing Date: On or about February 18, 2016 Note Classes Group
+        Original Principal Balance Class Coupon CUSIP Number Maturity Date Expected
+        Ratings (Moody''s/Kroll) Price to Investors Dealer Discounts Proceeds to Seller
+        1M-1 ......'
+    Dealer Agreement:
+    - *id764
+    Dealers:
+    - !!python/tuple
+      - 3633
+      - JP Morgan, Citigroup, Barclays, BofA Merrill, Credit Suisse and Wells Fargo
+        are collectively referred to as the "Dealers".
+    Debt Agreement:
+    - !!python/tuple
+      - 1302
+      - If the receiver were to transfer our obligations under the Debt Agreement,
+        to be dated as of the Closing Date among Fannie Mae and the Holders of the
+        Notes (the "Debt Agreement"), to another party, Holders of the Notes would
+        be exposed to the credit risk of that party.
+    - !!python/tuple
+      - 1592
+      - All the Notes will be issued pursuant to a Debt Agreement (the "Debt Agreement")
+        to be dated as of the Closing Date.
+    Definitive Notes:
+    - !!python/tuple
+      - 594
+      - "The Notes will be available in fully-registered form (\"Definitive Notes\"\
+        ) only in the limited circumstances disclosed under \"Description of the Notes\
+        \ \u2014 Form, Registration and Transfer of the Notes\"."
+    - !!python/tuple
+      - 1613
+      - 75 Form, Registration and Transfer of the Notes The Notes will be represented
+        by Book-Entry Notes and will be available in fully-registered form (such form,
+        the "Definitive Notes") only in limited circumstances described below.
+    Delinquency Test:
+    - !!python/tuple
+      - 1837
+      - 'The "Delinquency Test" for any Payment Date and Loan Group is a test that
+        will be satisfied if: (a) the sum of the Distressed Principal Balance for
+        such Loan Group for the current Payment Date and each of the preceding five
+        Payment Dates, divided by six, is less than (b) 40% of the excess of (i) the
+        product of (x) the Subordinate Percentage and (y) the aggregate UPB of the
+        Reference Obligations in such Loan Group as of the preceding Payment Date
+        over (ii) the Principal Loss Amount for such Loan Group for the current Payment
+        Date.'
+    Designated Page:
+    - !!python/tuple
+      - 1773
+      - That page, or any other page that may replace the ICE Secure File Transfer
+        Protocol service or the Reuters Screen LIBOR01 Page on that service or any
+        other service ICE nominates as the information vendor to display ICE's Interest
+        Settlement Rates for deposits in US dollars, is a "Designated Page".
+    Diligence Provider:
+    - !!python/tuple
+      - 2601
+      - 141 Due Diligence Review General In connection with the issuance of the Notes,
+        we engaged Adfitech Inc. (the "Diligence Provider") to conduct a review of
+        certain aspects of the mortgage loans in the Initial Cohort Pool.
+    Diligence Sample:
+    - !!python/tuple
+      - 2606
+      - From the broader selected sample of 5,134 loans, the Diligence Provider selected
+        1,332 mortgage loans (the "Diligence Sample"), representing 25.9% by loan
+        count of the 5,134 loans.
+    Distressed Principal Balance:
+    - !!python/tuple
+      - 1838
+      - The "Distressed Principal Balance" for any Payment Date and Loan Group is
+        the aggregate UPB of the Reference Obligations in that Loan Group that are
+        90 days or more delinquent or are otherwise in foreclosure, bankruptcy or
+        REO status as of that Payment Date.
+    EEA RISK RETENTION:
+    - &id766 !!python/tuple
+      - 139
+      - "SEE \"EEA RISK RETENTION\" AND \"RISK FACTORS \u2014 GOVERNANCE AND REGULATION\
+        \ \u2014 LEGISLATIVE OR REGULATORY ACTIONS COULD ADVERSELY AFFECT THE MARKET\
+        \ VALUE OF THE NOTES \". viii NOTICE TO UNITED KINGDOM INVESTORS WITHIN THE\
+        \ UNITED KINGDOM, THIS PROSPECTUS IS DIRECTED ONLY AT PERSONS WHO HAVE PROFESSIONAL\
+        \ EXPERIENCE IN MATTERS RELATING TO INVESTMENTS AND WHO QUALIFY EITHER (A)\
+        \ AS INVESTMENT PROFESSIONALS IN ACCORDANCE WITH ARTICLE 19(5) OF THE FINANCIAL\
+        \ SERVICES AND MARKETS ACT 2000 (FINANCIALPOMOTION) ORDER 2005 OR ARTICLE\
+        \ 14(5) OF THE FINANCIAL SERVICES AND MARKETS ACT 2000 (PROMOTION OF COLLECTIVE\
+        \ INVESTMENT SCHEMES)(EXEMPTIONS) ORDER 2001, OR (B) AS HIGH NET WORTH COMPANIES,\
+        \ UNINCORPORATED ASSOCIATIONS, PARTNERSHIPS OR TRUSTEES IN ACCORDANCE WITH\
+        \ ARTICLE 49(2) OF THE FINANCIAL SERVICES AND MARKETS ACT 2000 (FINANCIALPOMOTION)\
+        \ ORDER 2005 OR ARTICLE 22(2) OF THE FINANCIAL SERVICES AND MARKETS ACT 2000\
+        \ (PROMOTION OF COLLECTIVE INVESTMENT SCHEMES)(EXEMPTIONS) ORDER 2001 (TOGETHER,\
+        \ \"EXEMPT PERSONS\")."
+    EEA Risk Retention:
+    - !!python/tuple
+      - 472
+      - "See 4 \"EEA Risk Retention\" and \"Risk Factors \u2014 Legislative or Regulatory\
+        \ Actions Could Adversely Affect the Market Value of the Notes\"."
+    - !!python/tuple
+      - 505
+      - "See 6 \"EEA Risk Retention \" and \"Risk Factors \u2014 Legislative or Regulatory\
+        \ Actions Could Adversely Affect the Market Value of the Notes\"."
+    - !!python/tuple
+      - 852
+      - "See \"Risk Factors\u2014Investment Factors and Risks Related to the Notes\u2014\
+        Legislative or Regulatory Actions Could Adversely Affect the Market Value\
+        \ of the Notes\" and \"EEA Risk Retention\" in this Prospectus."
+    - !!python/tuple
+      - 1424
+      - See "EEA Risk Retention" in this Prospectus.
+    EEA Risk Retention Regulation:
+    - &id791 !!python/tuple
+      - 3578
+      - The application of Articles 404-410 of the European Union Capital Requirements
+        Regulation 575/2013 (the "EEA Risk Retention Regulation") to the Notes transaction
+        (the "Transaction") is unclear.
+    EMPLOYEE BENEFIT PLAN:
+    - !!python/tuple
+      - 3631
+      - 'BY ITS PURCHASE OF A NOTE (OR A BENEFICIAL INTEREST THEREIN), THE PURCHASER
+        THEREOF WILL REPRESENT OR WILL BE DEEMED TO REPRESENT AND WARRANT EITHER THAT
+        (A) IT IS NOT AND IS NOT ACTING ON BEHALF OF: (I) AN "EMPLOYEE BENEFIT PLAN"
+        AS DEFINED IN SECTION 3(3) OF ERISA THAT IS SUBJECT TO TITLE I OF ERISA, (II)
+        A PLAN DESCRIBED IN SECTION 4975(e)(1) OF THE CODE THAT IS SUBJECT TO SECTION
+        4975 OF THE CODE, (III) AN ENTITY WHICH IS DEEMED TO HOLD THE ASSETS OF ANY
+        SUCH PLAN PUSANT TO 29 CFR SECTION 2510.3-101, AS MODIFIED BY SECTION 3(42)
+        OF ERISA, WHICH EMPLOYEE BENEFIT PLAN, PLAN OR ENTITY IS SUBJECT TO TITLE
+        I OF ERISA OR SECTION 4975 OF THE CODE, OR (IV) A GOVERNMENTAL, CHURCH OR
+        FOREIGN PLAN WHICH IS SUBJECT TO SIMILAR LAW OR (B) ITS PURCHASE, OWNERSHIP
+        OR DISPOSITION OF SUCH NOTE WILL NOT CONSTITUTE OR RESULT IN A NON-EXEMPT
+        PROHIBITED TRANSACTION UNDER SECTION 406 OF ERISA OR SECTION 4975 OF THE CODE
+        (OR, IN THE CASE OF A GOVERNMENTAL OR CHURCH PLAN, OR FOREIGN PLAN, ANY VIOLATION
+        OF SIMILAR LAW).'
+    EXEMPT PERSONS:
+    - *id766
+    Early Redemption Option:
+    - !!python/tuple
+      - 568
+      - In addition, Holders of the Group 2 Notes (other than the Class 2M-2I Notes)
+        may be entitled to receive their proportionate shares of the Group 2 Projected
+        Recovery Amount, if any, on that date or the Group 2 Liquidation Amount, if
+        any, on the Group 2 Liquidation Date, as described under "Projected Recovery
+        Amount and Liquidation Recovery Amount." Each of the Group 1 Early Redemption
+        Option and the Group 2 Early Redemption Option may be referred to in this
+        Prospectus as an "Early Redemption Option".
+    - !!python/tuple
+      - 1727
+      - Each of the Group 1 Early Redemption Option and the Group 2 Early Redemption
+        Option may be referred to as an "Early Redemption Option".
+    Eligibility Criteria:
+    - !!python/tuple
+      - 745
+      - 'The "Eligibility Criteria" to be satisfied with respect to each mortgage
+        loan included as a Reference Obligation in the Reference Pool are as follows:
+        (a) is a fully amortizing, fixed rate, first-lien mortgage loan secured by
+        a one- to four-family dwelling unit, townhouse, individual condominium unit,
+        individual unit in planned unit development, individual cooperative unit or
+        manufactured home, with an original term of 301 to 360 months; (b) was acquired
+        by us between January 1, 2015 and February 28, 2015; (c) has not been 30 or
+        more days delinquent from the date of acquisition to the Cut-off Date and
+        has been current on each of the three consecutive payment dates immediately
+        preceding the Cut-off Date (with delinquency calculated based on the "MBA
+        delinquency method"); (d) was not originated under our Refi Plus program (which
+        includes but is not limited to the Home Affordable Refinance Program ("HARP"));
+        (e) has an original combined loan-to-value ratio that is less than or equal
+        to 97%; (f) as of the Cut-off Date, is not subject to an Origination Rep and
+        Warranty Settlement; (g) is not subject to any form of risk sharing with the
+        loan seller (other than limited seller indemnification in certain cases);
+        (h) was not originated under certain non-standard programs; (i) is a conventional
+        loan (i.e. is not guaranteed by the Federal Housing Administration ("FHA")
+        or the US Department of Veterans Affairs ("VA")); (j) with respect to Reference
+        Obligations in Loan Group 1 only, has an original loan-to-value ratio that
+        is (i) greater than 60% and (ii) less than or equal to 80%; (k) with respect
+        to Reference Obligations in Loan Group 1 only, is not covered by private mortgage
+        insurance or pool insurance; (l) with respect to Reference Obligations in
+        Loan Group 2 only, has an original loan-to-value ratio that is (i) greater
+        than 80% and (ii) less than or equal to 97%; and (m) with respect to Reference
+        Obligations in Loan Group 2 only, (i) is not covered by pool insurance and
+        (ii)is covered by private mortgage insurance as of the Cut-off Date or was
+        covered by private mortgage insurance at the time of acquisition that has
+        since been cancelled or otherwise eliminated by the borrower as permitted
+        under Fannie Mae''s Servicing Guide or in the case of certain Reference Obligations
+        secured by mortgaged properties in the State of New York, was not covered
+        by private mortgage insurance at the time of acquisition as permitted under
+        Fannie Mae''s Selling Guide.'
+    Eligibility Defect:
+    - &id767 !!python/tuple
+      - 2258
+      - We refer to any Loan File or Underwriting Error or breach of a representation
+        or warranty with respect to a loan that we determined to be significant enough
+        to warrant issuing a repurchase request to the related loan seller or servicer
+        (and for which the related loan seller or servicer was unable to provide us
+        with a sufficient rebuttal 121 that warranted withdrawal of the repurchase
+        request) as an "Eligibility Defect" and describe the portion of the random
+        sample with Eligibility Defects as the "Eligibility Defect Rate." The Eligibility
+        Defect Rate does not necessarily indicate how well our mortgage loans ultimately
+        will perform.
+    Eligibility Defect Rate:
+    - *id767
+    Euroclear:
+    - &id768 !!python/tuple
+      - 1676
+      - The Euroclear System ("Euroclear") was created in 1968 to hold securities
+        for its participants ("Euroclear Participants") and to clear and settle transactions
+        between Euroclear Participants through simultaneous electronic book-entry
+        delivery against payment, thereby eliminating the need for physical movement
+        of certificates and any risk from lack of simultaneous transfers of securities
+        and cash.
+    Euroclear Operator:
+    - !!python/tuple
+      - 1679
+      - Euroclear is operated by Euroclear Bank S.A./N.V. (the "Euroclear Operator").
+    Euroclear Participants:
+    - *id768
+    Exchange Act:
+    - !!python/tuple
+      - 144
+      - POTENTIAL INVESTORS IN THE UNITED KINGDOM ARE ADVISED THAT ALL, OR MOST, OF
+        THE PROTECTIONS AFFORDED BY THE UNITED KINGDOM REGULATORY SYSTEM WILL NOT
+        APPLY TO AN INVESTMENT IN THE NOTES AND THAT COMPENSATION WILL NOT BE AVAILABLE
+        UNDER THE UNITED KINGDOM FINANCIAL SERVICES COMPENSATION SCHEME. ix ADDITIONAL
+        INFORMATION Our common stock is registered with the SEC under the Securities
+        Exchange Act of 1934 ("Exchange Act").
+    - &id785 !!python/tuple
+      - 833
+      - Rating of the Notes We have engaged Moody's Investors Service, Inc. ("Moody's")
+        and Kroll Bond Rating Agency, Inc. ("Kroll"), each a nationally recognized
+        statistical rating organization ("NRSRO") as defined in Section 3(a)(62) of
+        the Securities Exchange Act of 1934, as amended (the "Exchange Act"), to rate
+        the Class 1M-1 Notes, Class 1M-2A Notes, Class 1M-2B Notes, Class 1M-2 Notes,
+        Class 1M-2F Notes, Class 1M-2I Notes, Class 2M-1 Notes, Class 2M-2A Notes,
+        Class 2M-2B Notes and Class 2M-2 Notes, Class 2M-2F Notes and Class 2M-2I
+        Notes (collectively, the "Rated Notes").
+    Exchange Administrator:
+    - !!python/tuple
+      - 527
+      - Wells Fargo Bank, N.A. will act as the exchange administrator (the "Exchange
+        Administrator") for the RCR Notes and the Exchangeable Notes.
+    Exchangeable Notes:
+    - &id783 !!python/tuple
+      - 1
+      - The Class 1M-2 and Class 2M-2 Notes are Related Combinable and Recombinable
+        Notes ("RCR Notes") and may be exchanged for "Exchangeable Notes," and vice
+        versa, in the combinations set forth on Schedule I.
+    - &id773 !!python/tuple
+      - 409
+      - The Holders of the Class 2M-2 Notes can exchange all or part of that Class
+        for proportionate interests in the Class 2M-2A and Class 2M-2B Notes (together,
+        the "Group 2 Exchangeable Notes" and, together with the Group 1 Exchangeable
+        Notes, the "Exchangeable Notes"), and vice versa.
+    Fannie Mae QC Review:
+    - !!python/tuple
+      - 2603
+      - "The diligence sample selection population is limited to loans that previously\
+        \ were reviewed by us as part of our post-purchase QC review (the \"Fannie\
+        \ Mae QC Review\"), described above under \"\u2014 Results of Fannie Mae Quality\
+        \ Control,\" in order for the Diligence Provider to have access to the set\
+        \ of credit, property and compliance data and documents that we review as\
+        \ part of the Fannie Mae QC Review."
+    Financial Intermediary:
+    - !!python/tuple
+      - 1641
+      - A Note Owner's ownership of a Book-Entry Note will be recorded on the records
+        of the brokerage firm, bank, thrift institution or other financial intermediary
+        (each, a "Financial Intermediary") that maintains the Note Owner's account
+        for such purpose.
+    Freddie Mac:
+    - !!python/tuple
+      - 92
+      - Regulation and Conservatorship FHFA is an independent agency of the federal
+        government with general supervisory and regulatory authority over Fannie Mae,
+        the Federal Home Loan Mortgage Corporation ("Freddie Mac") and the 12 Federal
+        Home Loan Banks.
+    Fully Taxable Bonds:
+    - !!python/tuple
+      - 3377
+      - If you make the election described above, the election will apply to all debt
+        instruments the interest on which is not excludible from gross income ("Fully
+        Taxable Bonds") 179 that you hold at the beginning of the first taxable year
+        to which the election applies and to all Fully Taxable Bonds you later acquire.
+    Garn-St Germain Act:
+    - !!python/tuple
+      - 3230
+      - However, The Garn-St Germain Depository Institutions Act of 1982 (the "Garn-St
+        Germain Act") preempts state constitutional, statutory and case law that prohibits
+        the enforcement of due-on-sale clauses and permits lenders to enforce these
+        clauses in accordance with their terms, subject to limited exceptions.
+    Global Agency Agreement:
+    - &id769 !!python/tuple
+      - 525
+      - Wells Fargo Bank, N.A. ("Wells Fargo Bank") will act as global agent (the
+        "Global Agent") pursuant to a global agency agreement (the "Global Agency
+        Agreement") entered into with Fannie Mae.
+    - !!python/tuple
+      - 1593
+      - Under a Global Agency Agreement (the "Global Agency Agreement") to be dated
+        as of the Closing Date between us and the Global Agent, Wells Fargo Bank will
+        act as paying agent, registrar, transfer agent, authenticating agent and exchange
+        administrator.
+    Global Agent:
+    - *id769
+    Group 1 Class:
+    - &id770 !!python/tuple
+      - 543
+      - Group 1 Class 1A-H, Class 1M-1, Class 1M-1H, Class 1M-2, Class 1M-2A, Class
+        1M-AH, Class 1M-2F, Class 1M-2I, Class 1M-2B, Class 1M-BH, Class 1B and Class
+        1B-H, as applicable (each, a "Group 1 Class" and together, the "Group 1 Classes").
+    Group 1 Classes:
+    - *id770
+    Group 1 Exchangeable Notes:
+    - !!python/tuple
+      - 406
+      - The Holders of the Class 1M-2 Notes can exchange all or part of that Class
+        for proportionate interests in the Class 1M-2A and Class 1M-2B Notes (together,
+        the "Group 1 Exchangeable Notes"), and vice versa.
+    - &id771 !!python/tuple
+      - 530
+      - The Class 1M-2A and Class 1M-2B Notes are the "Group 1 Exchangeable Notes."
+        The Class 1M-2, Class 1M-2F and Class 1M-2I Notes are the Related Combinable
+        and Recombinable Notes, or "Group 1 RCR Notes," to which the Group 1 Exchangeable
+        Notes relate.
+    Group 1 Liquidation Date:
+    - !!python/tuple
+      - 1746
+      - Related Definitions "Group 1 Liquidation Date" means the 25th day (or next
+        succeeding business day) of the month that immediately follows the end of
+        the Group 1 Liquidation Period.
+    Group 1 Liquidation Period:
+    - !!python/tuple
+      - 1748
+      - 83 "Group 1 Liquidation Period" means the 30-month period immediately following
+        the Group 1 Recovery Election Date.
+    Group 1 Notes:
+    - !!python/tuple
+      - 413
+      - The Group 1 Offered Notes and the Exchangeable Notes and other RCR Notes in
+        Group 1 are collectively referred to as the "Group 1 Notes".
+    Group 1 Offered Notes:
+    - &id774 !!python/tuple
+      - 405
+      - D-1 xvi TRANSACTION SUMMARY On the Closing Date, we expect to issue the Class
+        1M-1 Notes, the Class 1M-2 Notes and the Class 1B Notes (the "Group 1 Offered
+        Notes"), and the Class 2M-1 Notes, the Class 2M-2 Notes and the Class 2B Notes
+        (the "Group 2 Offered Notes" and, together with the Group 1 Offered Notes,
+        the "Offered Notes"), which will be our unsecured general obligations.
+    Group 1 RCR Notes:
+    - !!python/tuple
+      - 408
+      - The Class 1M-2, Class 1M-2F and Class 1M-2I Notes are referred to as the "Group
+        1 RCR Notes".
+    - *id771
+    Group 1 Reference Tranche:
+    - !!python/tuple
+      - 429
+      - Solely for purposes of making the calculations for each Payment Date of (i)
+        any principal write-downs (or write-ups) on the Group 1 Notes as a result
+        of Credit Events (or reversals thereof) or Modification Events on the Reference
+        Obligations in Loan Group 1, (ii) any reduction or increase in interest amounts
+        on the Group 1 Notes as a result of Modification Events on the Reference Obligations
+        in Loan Group 1 and (iii) principal payments required to be made on the Group
+        1 Notes by us, a hypothetical structure of reference tranches (each, a "Group
+        1 Reference Tranche") deemed to be backed by the Reference Obligations in
+        Loan Group 1 has been established as set forth in the table below.
+    - !!python/tuple
+      - 605
+      - "Group 1 Solely for purposes of making the calculations for each 14 Payment\
+        \ Date of any principal write-downs (or write-ups) or reductions in the interest\
+        \ entitlements on the Group 1 Notes as a result of Credit Events (or reversals\
+        \ thereof) or Modification Events on the Reference Obligations in Loan Group\
+        \ 1 and principal payments required to be made on the Group 1 Notes by Fannie\
+        \ Mae, a hypothetical structure of reference tranches (each, a \"Group 1 Reference\
+        \ Tranche\") deemed to be backed by the Reference Obligations in Loan Group\
+        \ 1 have been established as set forth in the table under \"Transaction Summary\u2014\
+        Group 1\" above."
+    Group 1 Senior Percentage:
+    - !!python/tuple
+      - 1825
+      - The "Group 1 Senior Percentage" with respect to any Payment Date and the Group
+        1 Notes, is the percentage equivalent of a fraction, the numerator of which
+        is the Class Notional Amount of the Class 1A-H Reference Tranche immediately
+        prior to such Payment Date and the denominator of which is the aggregate unpaid
+        principal balance of the Reference Obligations in Loan Group 1 at the end
+        of the previous Reporting Period.
+    Group 1 Subordinate Percentage:
+    - !!python/tuple
+      - 1827
+      - The "Group 1 Subordinate Percentage" with respect to any Payment Date and
+        the Group 1 Notes is the percentage equal to 100% minus the Group 1 Senior
+        Percentage for such Payment Date.
+    Group 1 Termination Date:
+    - !!python/tuple
+      - 571
+      - "The Group 1 Notes will no longer be outstanding upon the date (the \"Group\
+        \ 1 Termination Date\") which is the earliest of: (1) the Maturity Date; (2)\
+        \ the Payment Date (the \"Group 1 Early Redemption Date\") on which the Group\
+        \ 1 Notes are redeemed by us pursuant to the Group 1 Early Redemption Option\
+        \ as described under \"Description of the Notes \u2014 Early Redemption Option\
+        \ \u2014 Group 1\"; and (3) the Payment Date on which the initial Class Principal\
+        \ Balances (without giving effect to any allocations of Tranche Write-down\
+        \ Amounts or Tranche Write-up Amounts related to the Group 1 Classes on such\
+        \ Payment Date and all prior Payment Dates) and accrued and unpaid interest\
+        \ due on the Class 1M-1, Class 1M-2A, Class 1M-2B and Class 1B Notes, plus\
+        \ related fees and expenses of the Global Agent, have otherwise been paid\
+        \ in full."
+    - !!python/tuple
+      - 1729
+      - "Termination Dates Group 1 The Group 1 Notes will no longer be outstanding\
+        \ upon the date (the \"Group 1 Termination Date\") which is the earliest of:\
+        \ \u2022 the Maturity Date; \u2022 the Group 1 Early Redemption Date; and\
+        \ \u2022 the Payment Date on which the aggregate initial Class Principal Balance\
+        \ (without giving effect to any allocations of Tranche Write-down Amounts\
+        \ or Tranche Write-up Amounts related to the Group 1 Classes on such Payment\
+        \ Date and all prior Payment Dates) and accrued and unpaid interest due on\
+        \ the Class 1M-1, Class 1M-2A, Class 1M-2B and Class 1B Notes have otherwise\
+        \ been paid in full."
+    Group 2 Class:
+    - &id772 !!python/tuple
+      - 544
+      - Group 2 Class 2A-H, Class 2M-1, Class 2M-1H, Class 2M-2, Class 2M-2A, Class
+        2M-AH, Class 2M-2F, Class 2M2I, Class 2M-2B, Class 2M-BH, Class 2B and Class
+        2B-H, as applicable (each, a "Group 2 Class" and together, the "Group 2 Classes").
+    Group 2 Classes:
+    - *id772
+    Group 2 Exchangeable Notes:
+    - *id773
+    - &id775 !!python/tuple
+      - 532
+      - The Class 2M-2A and Class 2M-2B Notes are the "Group 2 Exchangeable Notes."
+        The Class 2M-2, Class 2M-2F and Class 2M-2I Notes are the Related Combinable
+        and Recombinable Notes, or "Group 2 RCR Notes," to which the Group 2 Exchangeable
+        Notes relate.
+    Group 2 Liquidation Date:
+    - !!python/tuple
+      - 1752
+      - '"Group 2 Liquidation Date" means the 25th day (or next succeeding business
+        day) of the month that immediately follows the end of the Group 2 Liquidation
+        Period.'
+    Group 2 Liquidation Period:
+    - !!python/tuple
+      - 1754
+      - '"Group 2 Liquidation Period" means the 30-month period immediately following
+        the Group 2 Recovery Election Date.'
+    Group 2 Notes:
+    - !!python/tuple
+      - 414
+      - The Group 2 Offered Notes and the Exchangeable Notes and other RCR Notes in
+        Group 2 are collectively referred to as the "Group 2 Notes".
+    Group 2 Offered Notes:
+    - *id774
+    Group 2 RCR Notes:
+    - &id784 !!python/tuple
+      - 411
+      - The Class 2M-2, Class 2M2F and Class 2M-2I Notes are referred to as the "Group
+        2 RCR Notes" and, together with the Group 1 RCR Notes, the "Related Combinable
+        and Recombinable Notes", or "RCR Notes".
+    - *id775
+    Group 2 Reference Tranche:
+    - !!python/tuple
+      - 436
+      - Solely for purposes of making the calculations for each Payment Date of (i)
+        any principal write-downs (or write-ups) on the Group 2 Notes as a result
+        of Credit Events (or reversals thereof) or Modification Events on the Reference
+        Obligations in Loan Group 2, (ii) any reduction or increase in interest amounts
+        on the Group 2 Notes as a result of Modification Events on the Reference Obligations
+        in Loan Group 2 and (iii) principal payments required to be made on the Group
+        2 Notes by us, a hypothetical structure of reference tranches (each, a "Group
+        2 Reference Tranche") deemed to be backed by the Reference Obligations in
+        Loan Group 2 has been established as set forth in the table below.
+    - !!python/tuple
+      - 608
+      - "Group 2 Solely for purposes of making the calculations for each Payment Date\
+        \ of any principal write-downs (or write-ups) or reductions in the interest\
+        \ entitlements on the Group 2 Notes as a result of Credit Events (or reversals\
+        \ thereof) or Modification Events on the Reference Obligations in Loan Group\
+        \ 2 and principal payments required to be made on the Group 2 Notes by Fannie\
+        \ Mae, a hypothetical structure of reference tranches (each, a \"Group 2 Reference\
+        \ Tranche\") deemed to be backed by the Reference Obligations in Loan Group\
+        \ 2 have been established as set forth in the table under \"Transaction Summary\u2014\
+        Group 2\" above."
+    Group 2 Senior Percentage:
+    - !!python/tuple
+      - 1826
+      - The "Group 2 Senior Percentage" with respect to any Payment Date and the Group
+        2 Notes, is the percentage equivalent of a fraction, the numerator of which
+        is the Class Notional Amount of the Class 2A-H Reference Tranche immediately
+        prior to such Payment Date and the denominator of which is the aggregate unpaid
+        principal balance of the Reference Obligations in Loan Group 2 at the end
+        of the previous Reporting Period.
+    Group 2 Subordinate Percentage:
+    - !!python/tuple
+      - 1829
+      - The "Group 2 Subordinate Percentage" with respect to any Payment Date and
+        the Group 2 Notes is the percentage equal to 100% minus the Group 2 Senior
+        Percentage for such Payment Date.
+    Group 2 Termination Date:
+    - !!python/tuple
+      - 574
+      - "The Group 2 Notes will no longer be outstanding upon the date (the \"Group\
+        \ 2 Termination Date\") which is the earliest of: (1) the Maturity Date; (2)\
+        \ the Payment Date (the \"Group 2 Early Redemption Date\") on which the Group\
+        \ 2 Notes are redeemed by us pursuant to the Group 2 Early Redemption Option\
+        \ as described under \"Description of the Notes \u2014 Early Redemption Option\
+        \ \u2014 Group 2\"; and (3) the Payment Date on which the initial Class Principal\
+        \ Balances (without giving effect to any allocations of Tranche Write-down\
+        \ Amounts or Tranche Write-up Amounts related to the Group 2 Classes on such\
+        \ Payment Date and all prior Payment Dates) and accrued and unpaid interest\
+        \ due on the Class 2M-1, Class 2M-2A, Class 12 2M-2B and Class 2B Notes, plus\
+        \ related fees and expenses of the Global Agent, have otherwise been paid\
+        \ in full."
+    - !!python/tuple
+      - 1733
+      - "Group 2 The Group 2 Notes will no longer be outstanding upon the date (the\
+        \ \"Group 2 Termination Date\") which is the earliest of: \u2022 the Maturity\
+        \ Date; \u2022 the Group 2 Early Redemption Date; and \u2022 the Payment Date\
+        \ on which the aggregate initial Class Principal Balance (without giving effect\
+        \ to any allocations of Tranche Write-down Amounts or Tranche Write-up Amounts\
+        \ related to the Group 2 Classes on such Payment Date and all prior Payment\
+        \ Dates) and accrued and unpaid interest due on the Class 2M-1, Class 2M-2A,\
+        \ Class 2M-2B and Class 2B Notes have otherwise been paid in full."
+    Group Termination Date:
+    - !!python/tuple
+      - 576
+      - Each of the Group 1 Termination Date and the Group 2 Termination Date may
+        be referred to in this Prospectus as a "Group Termination Date." Projected
+        Recovery Amount and Liquidation If the Group Termination Date for the Group
+        1 Notes or Recovery Amount...................................................
+    Guaranty Obligations:
+    - !!python/tuple
+      - 3579
+      - The Reference Obligations are not assets of Fannie Mae, and our exposure to
+        the credit risk related to the Transaction is in the form of our guaranty
+        obligations on the related MBS (the "Guaranty Obligations").
+    Holder:
+    - &id776 !!python/tuple
+      - 426
+      - 1 For the avoidance of doubt, the Group 1 Notes and the Group 2 Notes are
+        not secured or backed by the Reference Obligations included in the respective
+        Loan Groups and under no circumstances will the actual cash flow from the
+        Reference Obligations be paid or otherwise made available to the holders of
+        the Notes (each, a "Holder" or "Noteholder" and, collectively, the "Holders"
+        or "Noteholders").
+    Holders:
+    - *id776
+    ICE Method:
+    - &id777 !!python/tuple
+      - 1770
+      - '"LIBOR Business Day" is a day on which banks are open for dealing in foreign
+        currency and exchange in London, New York City and Washington, DC The Global
+        Agent determines "One-Month LIBOR" by using the "Interest Settlement Rate"
+        for US dollar deposits with a maturity of one month set by ICE as of 11:00
+        a.m. (London time) on the LIBOR Adjustment Date (the "ICE Method").'
+    Incorporated Documents:
+    - !!python/tuple
+      - 148
+      - These documents are collectively referred to as the "Incorporated Documents"
+        and are considered part of this Prospectus.
+    Indirect Participants:
+    - &id781 !!python/tuple
+      - 1635
+      - Persons acquiring beneficial ownership interests in the Book-Entry Notes ("Note
+        Owners") will hold such Notes through The Depository Trust Company ("DC) in
+        the United States and Clearstream or Euroclear outside the United States,
+        if they are participants of such systems (the "Participants"), or indirectly
+        through organizations which are participants in such systems (the "Indirect
+        Participants").
+    Initial Cohort Pool:
+    - !!python/tuple
+      - 2559
+      - The "Initial Cohort Pool" represents all of the Available Loans that met the
+        Eligibility Criteria at the time of their acquisition by Fannie Mae (excluding
+        those Eligibility Criteria that are determined as of the Cut-Off Date).
+    Interest Accrual Amount:
+    - !!python/tuple
+      - 1783
+      - The "Interest Accrual Amount" with respect to each outstanding Class of Notes
+        (and the Class 2B-H Reference Tranche) and any Payment Date is an amount equal
+        to the accrued interest at the Class Coupon on the Class Principal Balance
+        (or Class Notional Amount, as applicable) of each Class of Notes (or the Class
+        2B-H Reference Tranche) immediately prior to such Payment Date.
+    Interest Only RCR Notes:
+    - !!python/tuple
+      - 554
+      - The Class 1M-2I and Class 2M-2I Notes are referred to as the "Interest Only
+        RCR Notes." Payment Date ............................................................
+    Interest Payment Amount:
+    - !!python/tuple
+      - 1782
+      - "With respect to each outstanding Class of Notes and any Payment Date, Holders\
+        \ thereof will be entitled to receive the Interest Accrual Amount for that\
+        \ Class of Notes, less any Modification Loss Amount for that Payment 85 Date\
+        \ allocated to reduce the Interest Payment Amount for that Class of Notes\
+        \ as described under \"\u2014Allocation of Modification Loss Amount\" below\
+        \ (such amount, the \"Interest Payment Amount\")."
+    Interest Settlement Rate:
+    - *id777
+    Investment Advisers Act:
+    - !!python/tuple
+      - 3669
+      - '"Investment Advisers Act" means the Investment Advisers Act of 1940, as amended.'
+    Investment Company Act:
+    - !!python/tuple
+      - 3612
+      - Under the Plan Asset Regulation, if a Plan invests in an "equity interest"
+        of an entity that is neither a "publicly-offered security" nor a security
+        issued by an investment company registered under the Investment Company Act
+        of 1940, as amended ("Investment Company Act"), the Plan's assets include
+        both the equity interest and an undivided interest in each of the entity's
+        underlying assets, unless it is established that the entity is an "operating
+        company" or that equity participation in the entity by Benefit Plan Investors
+        (as defined below) is not "significant".
+    Issuer:
+    - !!python/tuple
+      - 524
+      - Fannie Mae, a government-sponsored enterprise chartered by Congress, is the
+        "Issuer" of the Notes.
+    JP Morgan:
+    - *id764
+    January-February 2015 Acquisitions:
+    - !!python/tuple
+      - 2541
+      - First, we divided all mortgage loans that we acquired between January 1, 2015
+        and February 28, 2015 (the "January-February 2015 Acquisitions") into two
+        segments on a random basis.
+    Junior Reference Tranches:
+    - !!python/tuple
+      - 639
+      - The Group 1 Junior Reference Tranches and Group 2 Junior Reference Tranches
+        are collectively referred to as 16 the "Junior Reference Tranches".
+    LIBOR Adjustment Date:
+    - !!python/tuple
+      - 1769
+      - The Global Agent calculates the Class Coupons for each floating rate Note
+        for each Accrual Period (after the first Accrual Period) on the second LIBOR
+        Business Day before the Accrual Period begins (a "LIBOR Adjustment Date").
+    LIBOR Business Day:
+    - *id777
+    Layering:
+    - !!python/tuple
+      - 253
+      - 73 Combination or "Layering" of Multiple Risk Factors May Significantly Increase
+        the Risk of Loss on Your Notes.......................................................................................................................................................
+    - !!python/tuple
+      - 1586
+      - Combination or "Layering" of Multiple Risk Factors May Significantly Increase
+        the Risk of Loss on Your Notes Although the various risks discussed in this
+        Prospectus are generally described separately, prospective investors in the
+        Notes should consider the potential effects on the Notes of the interplay
+        of multiple risk factors.
+    Legal Investment:
+    - !!python/tuple
+      - 829
+      - See "Legal Investment" in this Prospectus for additional information.
+    - !!python/tuple
+      - 1489
+      - See "Legal Investment" in this Prospectus for additional information.
+    Lender Contract:
+    - !!python/tuple
+      - 2222
+      - Representations and warranties that we require are described in our Selling
+        Guide and Servicing Guide as well as various contracts with our loan sellers
+        (each, a "Lender Contract").
+    Limited Compliance Reviews:
+    - !!python/tuple
+      - 2275
+      - Our limited compliance reviews test for compliance with laws that may result
+        in assignee liability and that restrict points and fees ("Limited Compliance
+        Reviews"), but we do not examine all of the documents necessary to ensure
+        that a mortgage loan complies with all applicable federal, state and local
+        laws and regulations.
+    Liquidation Date:
+    - !!python/tuple
+      - 1758
+      - '"Liquidation Date" means the Group 1 Liquidation Date or the Group 2 Liquidation
+        Date, as applicable.'
+    Liquidation Period:
+    - !!python/tuple
+      - 1759
+      - '"Liquidation Period" means the Group 1 Liquidation Period or the Group 2
+        Liquidation Period, as applicable.'
+    Liquidation Proceeds:
+    - !!python/tuple
+      - 1856
+      - The "Liquidation Proceeds" with respect to a Credit Event Reference Obligation
+        represent all cash amounts (including sales proceeds, net of selling expenses)
+        received in connection with the liquidation of the Credit Event Reference
+        Obligation.
+    Liquidation Recovery Amount:
+    - &id778 !!python/tuple
+      - 1760
+      - '"Liquidation Recovery Amount" means, with respect to a Group of Notes and
+        the related Liquidation Date, the sum of: (a) the aggregate subsequent recoveries,
+        net of expenses and credits, actually received on the related Liquidation
+        Recovery Mortgage Loans during the related Liquidation Period; plus (b) the
+        maximum contractual amount of future recoveries Fannie Mae has determined
+        to pursue on the related Liquidation Recovery Mortgage Loans as of such date;
+        provided, that the "Liquidation Recovery Amount" will in no event be greater
+        than the excess, as of the related Recovery Election Date, of (i) the Tranche
+        Write-down Amounts, in the aggregate over the lives of the Notes, allocated
+        to the Notes of the related Holders, over (ii) any related Tranche Write-up
+        Amounts, in the aggregate over the lives of the Notes, allocated to such Notes.'
+    - *id778
+    Liquidation Recovery Mortgage Loans:
+    - !!python/tuple
+      - 1761
+      - '"Liquidation Recovery Mortgage Loans" means a mortgage loan that is a former
+        Reference Obligation that became a Credit Event Reference Obligation prior
+        to the related Recovery Election Date, if any, and that was subject to a disposition
+        prior to that Recovery Election Date.'
+    Loan Acquisition Practices:
+    - !!python/tuple
+      - 1109
+      - As described under "Loan Acquisition Practices", we acquire mortgage loans,
+        including the Reference Obligations, from our approved loan sellers pursuant
+        to our contracts with such loan sellers.
+    Loan Group 1:
+    - !!python/tuple
+      - 418
+      - The Group 1 Notes are structured so that (i) interest is paid directly by
+        us and (ii) principal is paid by us relative to the principal payments and
+        performance of a group of Reference Obligations ("Loan Group 1"), with an
+        initial aggregate unpaid principal balance as of the Cutoff Date of approximately
+        \n\n18,999,684,441 (the "Loan Group 1 Cut-off Date Balance").
+    Loan Group 2:
+    - !!python/tuple
+      - 419
+      - The Group 2 Notes are structured so that (i) interest is paid directly by
+        us and (ii) principal is paid by us relative to the principal payments and
+        performance of a group of Reference Obligations ("Loan Group 2"), with an
+        initial aggregate unpaid principal balance as of the Cut-off Date of approximately
+        \n\n10,827,710,232 (the "Loan Group 2 Cut-off Date Balance").
+    Loan Groups:
+    - !!python/tuple
+      - 417
+      - The Reference Pool will be divided into two "Loan Groups".
+    Material Finding:
+    - !!python/tuple
+      - 2613
+      - Credit, Document or Property Valuation Findings The Diligence Provider identified
+        11 mortgage loans in the Diligence Sample that did not comply materially with
+        the terms of our Selling Guide (each a "Material Finding") based on its review
+        of the loans.
+    Maturity Date:
+    - !!python/tuple
+      - 561
+      - The Payment Date in August 2028 (the "Maturity Date").
+    - !!python/tuple
+      - 1723
+      - Maturity Date The Maturity Date for the Notes will be the Payment Date in
+        August 2028 (the "Maturity Date").
+    Mezzanine Reference Tranches:
+    - !!python/tuple
+      - 635
+      - The Group 1 Mezzanine Reference Tranches and Group 2 Mezzanine Reference Tranches
+        are collectively referred to as the "Mezzanine Reference Tranches".
+    Minimum Credit Enhancement Test:
+    - !!python/tuple
+      - 1839
+      - 'The "Minimum Credit Enhancement Test" with respect to any Payment Date and
+        Loan Group is a test that will be satisfied if: (i)in the case of Loan Group
+        1, the Group 1 Subordinate Percentage (solely for purposes of such test, rounded
+        to the sixth decimal place) is greater than or equal to 4.750000%, and (ii)in
+        the case of Loan Group 2, the Group 2 Subordinate Percentage (solely for purposes
+        of such test, rounded to the sixth decimal place) is greater than or equal
+        to 4.750000%.'
+    Modeling Assumptions:
+    - !!python/tuple
+      - 2719
+      - 'Assumptions Relating to Weighted Average Life Tables, Declining Balances
+        Tables, Credit Event Sensitivity Table, Cumulative Note Write-down Amount
+        Tables and Yield Tables The tables on the following pages have been prepared
+        on the basis of the following assumptions (the "Modeling Assumptions"): (a)
+        The Reference Obligations for each Loan Group consist of the assumed mortgage
+        loans having the characteristics shown onAppendix C; (b) the initial Class
+        Principal Balances for the Offered Notes are as set forth or described on
+        the cover page hereof, the Class Principal Balances and Class Notional Amounts
+        of the other RCR Notes and the Exchangeable Notes are as set forth onSchedule
+        Ihereto, and the Class Coupons are assumed to be One-Month LIBOR plus 1.95%
+        for the Class 1M-1 Notes, One-Month LIBOR plus 6.75% for the Class 1M-2 Notes,
+        One-Month LIBOR plus 6.75% for the Class 1M-2A Notes, One-Month LIBOR plus
+        5.25% for the Class 1M-2F Notes, 1.50% for the Class 1M-2I Notes, One-Month
+        LIBOR plus 6.75% for the Class 1M-2B Notes, One-Month LIBOR plus 11.75% for
+        the Class 1B Notes, One-Month LIBOR plus 2.10% for the Class 2M-1 Notes, One-Month
+        LIBOR plus 6.95% for the Class 2M-2 Notes, One-Month LIBOR plus 6.95% for
+        the Class 2M-2A Notes, One-Month LIBOR plus 5.25% for the Class 2M-2F Notes,
+        1.70% for the Class 2M-2I Notes and One-Month LIBOR plus 6.95% for the Class
+        2M-2B Notes; 149 (c) the scheduled monthly payment for each Reference Obligation
+        is based on its outstanding principal balance, current mortgage rate and remaining
+        amortization term so that it will fully amortize in amounts sufficient for
+        the repayment thereof over its remaining amortization term; (d) other than
+        with respect to the Declining Balances Tables, the Reference Obligations in
+        each Loan Group experience Credit Events at the indicated CDR percentages
+        and there is no lag between the related Credit Event Amounts and the application
+        of any related Recovery Principal; the Principal Loss Amount is equal to 25%
+        of the Credit Event Amount with respect to Loan Group 1 and 15% of the Credit
+        Event Amount with respect to Loan Group 2; in the case of the Declining Balances
+        Tables, it is assumed that no Credit Events occur; (e) the Delinquency Test
+        is satisfied for each Payment Date and Loan Group; (f) scheduled payments
+        of principal and interest with respect to the Reference Obligations are received
+        on the applicable due date beginning on the first day of the calendar month
+        immediately preceding the month in which the first Payment Date occurs; (g)
+        principal prepayments in full on the Reference Obligations are received on
+        the last day of each month beginning in the calendar month prior to the month
+        in which the first Payment Date occurs; (h) there are no partial principal
+        prepayments on the Reference Obligations; (i) the Reference Obligations in
+        each Loan Group prepay at the indicated CPR percentages; (j) no Reference
+        Obligations are purchased or removed from the Reference Pool and no mortgage
+        loans are substituted for the Reference Obligations included in the Reference
+        Pool on the Closing Date; (k) there are no Modification Events or data corrections
+        in connection with the Reference Obligations; (l) there is no exercise of
+        the Early Redemption Option (except in the case of Weighted Average Life in
+        Years (to Early Redemption Date)); (m) there are no Reversed Credit Event
+        Reference Obligations or Originator Rep and Warranty Settlements; (n) the
+        Projected Recovery Amount and Liquidation Recovery Amount for each Loan Group
+        is zero; (o)the Notes are issued on February 18, 2016; (p) the Maturity Date
+        is the Payment Date in August 2028; (q) cash payments on the Notes are received
+        on the twenty-fifth (25th) day of each month beginning in March 2016 as described
+        under "Description of The Notes" in this Prospectus; and (r)One-Month LIBOR
+        is assumed to remain constant at 0.4295% per annum.'
+    Modification Event:
+    - !!python/tuple
+      - 1857
+      - A "Modification Event" with respect to any Reference Obligation is a forbearance
+        or certain mortgage rate modifications relating to such Reference Obligation,
+        it being understood that in the absence of a forbearance or certain mortgage
+        rate modifications, a term extension on a Reference Obligation will not constitute
+        a Modification Event.
+    - &id779 !!python/tuple
+      - 1858
+      - 'In addition, a mortgage rate modification that results in an increased mortgage
+        rate with respect to any Reference Obligation (after giving effect to all
+        scheduled mortgage rate modifications thereon) will not constitute a "Modification
+        Event." For example, in the case of a mortgage rate modification that provides
+        for a mortgage rate reduction from 4% to 2% followed by a future step-up in
+        the mortgage rate from 2% to 5%, the modification will not be treated as a
+        "Modification Event." By contrast, in the case of a mortgage rate modification
+        that provides for a mortgage rate reduction from 4% to 2% followed by a future
+        step-up in the mortgage rate from 2% back to 4%, the modification will be
+        treated as a "Modification Event." The "Modification Loss Amount" with respect
+        to each Payment Date and any Reference Obligation that has experienced a Modification
+        Event is the excess, if any, of: (a) one-twelfth of the Original Accrual Rate
+        multiplied by the UPB of such Reference Obligation, over (b) one-twelfth of
+        the Current Accrual Rate multiplied by the interest bearing UPB of such Reference
+        Obligation.'
+    - *id779
+    - *id779
+    Modification Loss Amount:
+    - *id779
+    Mortgage Insurance Credit Amount:
+    - !!python/tuple
+      - 1859
+      - The "Mortgage Insurance Credit Amount" with respect to any Credit Event Reference
+        Obligation is the full amount, if any, that may be claimed as contractual
+        proceeds of any mortgage insurance covering such Reference Obligation at the
+        time such Reference Obligation became a Credit Event Reference Obligation,
+        without regard to whether such amount or any portion thereof is actually received
+        by or reimbursed to Fannie Mae from the applicable mortgage insurer, servicer
+        or any other source.
+    - !!python/tuple
+      - 1860
+      - For the avoidance of doubt, the "Mortgage Insurance Credit Amount" will not
+        include amounts that otherwise may have been claimed to the extent the related
+        mortgage insurance coverage has been rescinded, has been denied or curtailed
+        due to origination or servicing breaches.
+    NI 31-103:
+    - *id780
+    NI 45-106:
+    - *id780
+    Net Liquidation Proceeds:
+    - !!python/tuple
+      - 1861
+      - The "Net Liquidation Proceeds" with respect to any Credit Event Reference
+        Obligation are the sum of the related Liquidation Proceeds, any Mortgage Insurance
+        Credit Amount, and any proceeds received from the related servicer in connection
+        with such Credit Event Reference Obligation, less related expenses and credits,
+        including but not limited to taxes and insurance, legal costs, maintenance
+        and preservation costs, in each case during the period including the month
+        in which such Reference Obligation became a Credit Event Reference Obligation
+        together with the immediately following three-month period.
+    Note Owners:
+    - *id781
+    Noteholder:
+    - *id776
+    Noteholders:
+    - *id776
+    Offered Notes:
+    - *id774
+    - !!python/tuple
+      - 1590
+      - 74 DESCRIPTION OF THE NOTES General On the Closing Date, we expect to issue
+        the Class 1M-1, Class 1M-2, Class 1M-2A, Class 1M-2F, Class 1M-2I, Class 1M-2B,
+        Class 1B, Class 2M-1, Class 2M-2, Class 2M-2A, Class 2M-2F, Class 2M-2I, Class
+        2M-2B and Class 2B Notes, and we expect to offer the Class 1M-1, Class 1M-2,
+        Class 1B, Class 2M-1, Class 2M-2 and Class 2B Notes (the "Offered Notes").
+    On-Market Swap Rate:
+    - !!python/tuple
+      - 3429
+      - The on-market NPC will be deemed to provide periodic payments to US Persons
+        that hold Class B Notes at a rate equal to the Class Coupon on the Class B
+        Notes minus the fixed rate on the deemed loan component stated above (such
+        rate, the "On-Market Swap Rate").
+    One-Month LIBOR:
+    - *id777
+    Original Accrual Rate:
+    - !!python/tuple
+      - 1862
+      - The "Original Accrual Rate" with respect to any Reference Obligation is the
+        mortgage rate as of the Cut-off Date, less the greater of (x) the related
+        servicing fee and (y) 35 basis points.
+    Overcollateralization Amount:
+    - !!python/tuple
+      - 1875
+      - On each Payment Date, the "Overcollateralization Amount" for a Loan Group
+        equals (a) the aggregate amount of Write-up Excesses for such Loan Group for
+        such Payment Date and all prior Payment Dates, minus (b) the aggregate amount
+        of Write-Up Excess amounts used to offset Tranche Write-down Amounts for such
+        Loan Group on all prior Payment Dates.
+    PAC Method:
+    - !!python/tuple
+      - 3347
+      - In general, OID accrues under Section 1272(a)(6) of the Code based on a prepayment
+        assumption that is used for US federal income tax purposes (and may not represent
+        the rate at which the Class M Debt Notes in fact prepay) (the "PAC Method").
+    PROSPECTUS DIRECTIVE:
+    - !!python/tuple
+      - 136
+      - FOR THE PURPOSES OF THE FOREGOING PARAGRAPH, THE EXPRESSION "PROSPECTUS DIRECTIVE"
+        MEANS DIRECTIVE 2003/71/EC (AND AMENDMENTS THERETO, INCLUDING DIRECTIVE 2010/73/EU),
+        AND INCLUDES ANY RELEVANT IMPLEMENTING MEASURE IN THE RELEVANT MEMBER STATE.
+    Participants:
+    - *id781
+    Payment Date:
+    - !!python/tuple
+      - 555
+      - Payments on the Notes will be made by the Global Agent on the twenty-fifth
+        (25th) day of each month (or, if such day is not a Business Day, then on the
+        next succeeding Business Day) beginning in March 2016 (each, a "Payment Date").
+    - &id786 !!python/tuple
+      - 1712
+      - Payments Payments on the Notes will be made by the Global Agent, as paying
+        agent, on the twenty-fifth (25th) day of each month (or, if such day is not
+        a Business Day, then on the next succeeding Business Day), beginning in March
+        2016 (each, a "Payment Date"), to the persons in whose names such Notes are
+        registered as of the close of business on the immediately preceding Business
+        Day in the case of Book-Entry Notes and as of the close of business on the
+        last day of the preceding month of such Payment Date in the case of Definitive
+        Notes (the "Record Date").
+    Payment Date Statement:
+    - !!python/tuple
+      - 1976
+      - 'Further, the 105 Global Agent will hold the Notes as custodian for DC(for
+        both US and offshore depositories) pursuant to its agreement with DC Payment
+        Date Statement The Global Agent will prepare a report each month (each a "Payment
+        Date Statement") setting forth certain information relating to the Reference
+        Pool and the related Loan Groups, the Notes, the Reference Tranches and the
+        hypothetical structure described in this Prospectus, including: (i) the Class
+        Principal Balance of each Class of Notes and the percentage of the initial
+        Class Principal Balance of each Class of Notes on the first (1st) day of the
+        immediately preceding Accrual Period, the amount of principal payments to
+        be made on the Notes of each Class on such Payment Date and the Class Principal
+        Balance of each Class of Notes and the percentage of the initial Class Principal
+        Balance of each Class of Notes after giving effect to any payments of principal
+        to be made on such Payment Date and the allocation of any Tranche Write-down
+        Amounts and Tranche Write-up Amounts to such Class of Notes on such Payment
+        Date; (ii) One-Month LIBOR for the Accrual Period preceding the related Payment
+        Date; (iii) the Interest Payment Amount for each outstanding Class of Notes
+        for the related Payment Date; (iv)the amount of principal required to be paid
+        by Fannie Mae for each Outstanding Class of Notes for the related Payment
+        Date and the Senior Reduction Amount, the Subordinate Reduction Amount, the
+        Senior Percentage and the Subordinate Percentage for the related Payment Date
+        by Loan Group; (v) the aggregate Tranche Write-down Amounts, Tranche Write-up
+        Amounts and Modification Loss Amounts previously allocated to each Class of
+        Notes and each Reference Tranche pursuant to the hypothetical structure and
+        the Tranche Write-down Amounts, Tranche Write-up Amounts and Modification
+        Loss Amounts to be allocated to each Class of Notes on the related Payment
+        Date; (vi) the cumulative number (to date) and unpaid principal balance of
+        the Reference Obligations in each Loan Group that have become Credit Event
+        Reference Obligations or with respect to which Modification Events have occurred,
+        the number and unpaid principal balance of the Reference Obligations in each
+        Loan Group that have become Credit Event Reference Obligations or with respect
+        to which Modification Events have occurred during the related Reporting Period;
+        (vii)the number and aggregate principal amounts of Reference Obligations in
+        each Loan Group (A) delinquent (1) 30 to 59 days, (2) 60 to 89 days, (3) 90
+        to 119 days, (4) 120 to 149 days, (5) 150 to 179 days and (6) 180 or more
+        days, as of the close of business on the last day of the second (2nd) calendar
+        month preceding such Payment Date, in the aggregate with respect to the Reference
+        Obligations, (B) that became Credit Event Reference Obligations (and identification
+        under which clause of the definition of "Credit Event" it became Credit Event
+        Reference Obligation), (C) that were removed from the Reference Pool as a
+        result of a defect or breach of a representation and warranty, and (D) which
+        have been paid in full; (viii) the percentage of the Reference Obligations
+        in each Loan Group outstanding (equal to the outstanding principal amount
+        of the Reference Obligations divided by the related Loan Group Cut-off Date
+        Balance) as of the current Reporting Period; (iv)the Reversed Credit Event
+        Amount, both cumulative and for the current Reporting Period by Loan Group;
+        (x) the amount of Scheduled Principal and Unscheduled Principal, both cumulative
+        and for the current Reporting Period by Loan Group; (xi) the Recovery Principal
+        for the current Reporting Period by Loan Group; (xii) the Rep and Warranty
+        Settlement Coverage Amount and the related Rep and Warranty Settlement Amount
+        for each Origination Rep and Warranty Settlement for the current Reporting
+        Period by Loan Group; and 106 (xiii) notification from Fannie Mae of its ongoing
+        compliance with the terms of the Risk Retention Letter.'
+    Payment Errors:
+    - &id788 !!python/tuple
+      - 1956
+      - Specifically, with respect to certain transactions in its RMBS Bond Administration
+        Platform, there were (i) reporting errors that occurred during the Period
+        that, when considered in the aggregate, led to Wells Fargo Bank's determination
+        that there was a material instance of noncompliance for its RMBS Bond Administration
+        Platform with respect to Item 1122(d)(3)(i)(B) of Regulation AB ("Reporting
+        Errors"), and (ii) payment errors that occurred during the Period that, when
+        considered in the aggregate, led to Wells Fargo Bank's determination that
+        there was a material instance of noncompliance for its platform with respect
+        to Item 1122(d)(3)(ii) of Regulation AB ("Payment Errors").
+    Period:
+    - !!python/tuple
+      - 1955
+      - The assessment of compliance with applicable servicing criteria as of and
+        for the twelve months ended December 31, 2014 (the "Period"), furnished pursuant
+        to Item 1122 of Regulation AB by the Corporate Trust Services division of
+        Wells Fargo Bank for its RMBS Bond Administration Platform (the "2014 Wells
+        Fargo RMBS Bond Admin Assessment"), discloses that material instances of noncompliance
+        occurred with respect to the servicing criteria described in Items 1122(d)(3)(i)(B)
+        and 1122(d)(3)(ii) of Regulation AB.
+    Permitted Variances:
+    - !!python/tuple
+      - 983
+      - "42 Certain Loan Sellers May Originate Loans Under Variances to Our Selling\
+        \ Guide As described under \"Loan Acquisition Practices \u2014 Credit Standards\"\
+        , certain of our loan sellers have negotiated contracts with us that enable\
+        \ them to sell mortgage loans to us under permitted contract variances (\"\
+        Permitted Variances\") that vary from the terms of our Selling Guide."
+    Plan Asset Regulation:
+    - !!python/tuple
+      - 3609
+      - "193 Plan Asset Regulation The DOL has promulgated regulations at 29 CFR \xA7\
+        \ 2510.3-101, as modified by Section 3(42) of ERISA (the \"Plan Asset Regulation\"\
+        ), describing what constitutes the assets of a Plan with respect to the Plan's\
+        \ investment in an entity for purposes of certain provisions of ERISA, including\
+        \ the fiduciary responsibility provisions of Title I of ERISA, and Section\
+        \ 4975 of the Code."
+    Plan Fiduciary:
+    - !!python/tuple
+      - 3601
+      - Any fiduciary of a Plan or of an entity whose underlying assets include assets
+        of Plans by reason of a Plan's investment in such entity, or of a governmental
+        or church plan or foreign plan that is subject to fiduciary standards similar
+        to those of ERISA ("Plan Fiduciary"), that proposes to cause such a Plan or
+        entity to purchase the Notes should determine whether, under the general fiduciary
+        standards of ERISA or other applicable law, an investment in the Notes is
+        appropriate for such plan or entity.
+    Preliminary Class Notional Amount:
+    - &id782 !!python/tuple
+      - 1887
+      - "Allocation of Modification Loss Amount Group 1 On each Payment Date on or\
+        \ prior to the Group 1 Termination Date, the following will be computed prior\
+        \ to the allocation of the Modification Loss Amount with respect to Loan Group\
+        \ 1: 97 \u2022 the \"Preliminary Principal Loss Amount,\" which is equal to\
+        \ the Principal Loss Amount for such Loan Group computed without giving effect\
+        \ to clause (d) of the definition of Principal Loss Amount; \u2022 the \"\
+        Preliminary Tranche Write-down Amount,\" which is equal to the Tranche Write-down\
+        \ Amount for such Loan Group computed using the Preliminary Principal Loss\
+        \ Amount instead of the Principal Loss Amount; \u2022 the \"Preliminary Tranche\
+        \ Write-up Amount,\" which is equal to the Tranche Write-up Amount for such\
+        \ Loan Group computed using the Preliminary Principal Loss Amount instead\
+        \ of the Principal Loss Amount; and \u2022 the \"Preliminary Class Notional\
+        \ Amount,\" which is equal to the Class Notional Amount of a Reference Tranche\
+        \ immediately prior to such Payment Date after the application of the Preliminary\
+        \ Tranche Write-down Amount for such Loan Group in accordance with the priorities\
+        \ set forth in the Allocation of Tranche Write-down Amount for the related\
+        \ Group and after the application of the Preliminary Tranche Write-up Amount\
+        \ for such Loan Group in accordance with the priorities set forth in the Allocation\
+        \ of Tranche Write-up Amount for the related Group."
+    Preliminary Principal Loss Amount:
+    - *id782
+    Prepayment Assumption:
+    - !!python/tuple
+      - 3352
+      - The remaining payments due are projected based on the pricing prepayment assumption
+        used to price the Notes at issuance (the "Prepayment Assumption"), but taking
+        into account events (including actual principal payments) that have occurred
+        prior to the end of the accrual period.
+    Principal Loss Amount:
+    - !!python/tuple
+      - 1877
+      - "The \"Principal Loss Amount\" with respect to any Payment Date and Loan Group\
+        \ is the sum of: (a) the aggregate amount of Credit Event Net Losses for all\
+        \ Credit Event Reference Obligations in such Loan Group for the related Reporting\
+        \ Period; (b) the aggregate amount of court-approved principal reductions\
+        \ (\"cramdowns\") on the Reference Obligations in such Loan Group in the related\
+        \ Reporting Period; (c) subsequent losses on any Reference Obligation in such\
+        \ Loan Group that became a Credit Event Reference Obligation on a prior Payment\
+        \ Date and with respect to which Net Liquidation Proceeds have already been\
+        \ determined; and 96 (d) amounts included in the second, fourth and sixth\
+        \ priorities under \"Allocation of Modification Loss Amount\u2014Group 1\"\
+        \ below and in the second, fourth and sixth priorities under \"Allocation\
+        \ of Modification Loss Amount\u2014Group 2\" below."
+    Principal Recovery Amount:
+    - !!python/tuple
+      - 1878
+      - 'The "Principal Recovery Amount" with respect to any Payment Date and Loan
+        Group is the sum of: (a) the aggregate amount of Credit Event Net Losses for
+        all Reversed Credit Event Reference Obligations in such Loan Group for the
+        related Reporting Period; (b) subsequent recoveries on any Reference Obligation
+        in such Loan Group that became a Credit Event Reference Obligation on a prior
+        Payment Date and with respect to which Net Liquidation Proceeds have already
+        been determined; (c) the aggregate amount of the Credit Event Net Gains of
+        all Credit Event Reference Obligations in such Loan Group for the related
+        Reporting Period; and (d) the aggregate amount of Rep and Warranty Settlement
+        Amounts for the Reporting Period for such Payment Date and Credit Event Reference
+        Obligations in such Loan Group.'
+    Prohibited Transactions:
+    - !!python/tuple
+      - 3604
+      - Prohibited Transactions General Section 406 of ERISA and Section 4975 of the
+        Code prohibit certain transactions ("Prohibited Transactions") involving the
+        assets of a Plan and certain persons (referred to as "parties in interest"
+        under ERISA or "disqualified persons" under the Code) having certain relationships
+        to such Plans, unless an exemption is available.
+    Projected Recovery Amount:
+    - !!python/tuple
+      - 1762
+      - '"Projected Recovery Amount" means, for either Group of Notes and the related
+        Recovery Election Date, if any, the aggregate amount of subsequent recoveries,
+        net of expenses and credits, projected to be received on the related Loan
+        Group, calculated based on a formula to be derived by Fannie Mae from the
+        actual net recovery experience for that Loan Group during a specified period
+        of time preceding such Recovery Election Date, plus any additional amount
+        determined by Fannie Mae in its sole discretion to be appropriate for purposes
+        of the foregoing projection in light of then-current market conditions.'
+    Prospectus Directive:
+    - !!python/tuple
+      - 4038
+      - For the purposes of this provision, the expression an "offer of the Notes
+        to the public" in relation to any Notes in any Relevant Member State means
+        the communication in any form and by any means of sufficient information on
+        the terms of the offer and the Notes to be offered so as to enable an investor
+        to decide to purchase or subscribe for the Notes, as the same may be varied
+        in that Member State by any measure implementing the Prospectus Directive
+        in that Member State and the expression "Prospectus Directive" means Directive
+        2003/71/EC of the European Parliament (and amendments thereto, including Directive
+        2010/73/EU), and includes any relevant implementing measure in each Relevant
+        Member State.
+    QC Review Process:
+    - !!python/tuple
+      - 2236
+      - QC reviews will be conducted as described below under "The QC Review Process".
+    Qualified Institutional Buyer:
+    - !!python/tuple
+      - 3665
+      - '"Qualified Institutional Buyer" means: (i) Any of the following entities,
+        acting for its own account or the accounts of other Qualified Institutional
+        Buyers, that in the aggregate owns and invests on a discretionary basis at
+        least \n\n100 million in securities of issuers that are not affiliated with
+        the entity: (A) Any insurance company as defined in section 2(13) of the Securities
+        Act; Note: A purchase by an insurance company for one or more of its separate
+        accounts, as defined by section 2(a)(37) of the Investment Company Act, which
+        are neither registered under section 8 of the Investment Company Act nor required
+        to be so registered, shall be deemed to be a purchase for the account of such
+        insurance company. (B) Any investment company registered under the Investment
+        Company Act or any business development company as defined in section 2(a)(48)
+        of the Investment Company Act; (C) Any Small Business Investment Company licensed
+        by the US Small Business Administration under section 301(c) or (d) of the
+        Small Business Investment Act of 1958; (D) Any plan established and maintained
+        by a state, its political subdivisions, or any agency or instrumentality of
+        a state or its political subdivisions, for the benefit of its employees; (E)Any
+        employee benefit plan within the meaning of Title I of ERISA; (F)Any trust
+        fund whose trustee is a bank or trust company and whose participants are exclusively
+        plans of the types identified in sub-clauses (D) or (E) above, except trust
+        funds that include as participants individual retirement accounts or H.R.'
+    Qualified Institutional Buyers:
+    - !!python/tuple
+      - 21
+      - Subject to limited exceptions in connection with the initial sale of the Notes,
+        the Notes may be sold only to "Qualified Institutional Buyers" and upon satisfaction
+        of certain conditions as further described in this Prospectus.
+    Qualified Stated Interest:
+    - !!python/tuple
+      - 3316
+      - '"Qualified Stated Interest" includes stated interest that is unconditionally
+        payable in cash or in property at least annually, at a qualified floating
+        rate as provided in the Treasury regulations.'
+    RCR NOTES:
+    - !!python/tuple
+      - 3488
+      - Exchanges If a Holder exchanges one or more Exchangeable Notes for the related
+        RCR Note or Notes in the manner described under "RCR NOTES," the exchange
+        will not be taxable.
+    RCR Notes:
+    - *id783
+    - *id784
+    - !!python/tuple
+      - 1932
+      - In the event that Exchangeable Notes have been exchanged for RCR Notes, Holders
+        of such RCR Notes will be entitled to exercise all the voting or direction
+        rights that are allocated to the related Exchangeable Notes in the manner
+        described under "RCR Notes" in this Prospectus.
+    RDC Guide:
+    - !!python/tuple
+      - 2196
+      - "Loan Documents and Custodial Process We require loan sellers to maintain\
+        \ copies of certain documents relating to mortgage loans acquired by us, some\
+        \ of which must be held either by our designated document custodian (\"DC)\
+        \ or by another custodial institution that meets the following eligibility\
+        \ criteria as set out more fully in the Selling Guide and in our Requirements\
+        \ for Document Custodians (\"RDC Guide\") (either such custodian, a \"document\
+        \ custodian\"): \u2022 must be a federally regulated institution or a subsidiary\
+        \ of such an institution; \u2022 must be in good standing with its regulator;\
+        \ and \u2022 must have a financial rating of \"125\" or better from IDC Financial\
+        \ Publishing or \"C\" or better from Kroll Bond Ratings Agency."
+    REFORM ACT:
+    - !!python/tuple
+      - 51
+      - UNDER THE FEDERAL HOUSING FINANCE REGULATORY REFORM ACT OF 2008 (THE "REFORM
+        ACT"), FHFA MUST PLACE FANNIE MAE INTO RECEIVERSHIP IF THE DIRECTOR OF FHFA
+        MAKES A DETERMINATION IN WRITING THAT OUR ASSETS ARE, AND FOR A PERIOD OF
+        60 DAYS HAVE BEEN, LESS THAN OUR OBLIGATIONS.
+    RELEVANT MEMBER STATE:
+    - !!python/tuple
+      - 133
+      - NOTICE TO EUROPEAN ECONOMIC AREA INVESTORS THIS PROSPECTUS HAS BEEN PREPARED
+        ON THE BASIS THAT ANY OFFER OF NOTES IN ANY MEMBER STATE OF THE EUROPEAN ECONOMIC
+        AREA WHICH HAS IMPLEMENTED THE PROSPECTUS DIRECTIVE (EACH, A "RELEVANT MEMBER
+        STATE") WILL BE MADE PUSANT TO AN EXEMPTION UNDER THE PROSPECTUS DIRECTIVE
+        (AS DEFINED BELOW) FROM THE REQUIREMENT TO PUBLISH A PROSPECTUS FOR OFFERS
+        OF NOTES.
+    RELEVANT PERSONS:
+    - !!python/tuple
+      - 140
+      - IT MAY NOT BE PASSED ON EXCEPT TO EXEMPT PERSONS OR OTHER PERSONS IN CIRCUSANCES
+        IN WHICH SECTION 21(1) OF THE FINANCIAL SERVICES AND MARKETS ACT 2000 DOES
+        NOT APPLY TO THE ISSUER (ALL SUCH PERSONS TOGETHER BEING REFERRED TO AS "RELEVANT
+        PERSONS").
+    Rated Notes:
+    - *id785
+    Record Date:
+    - !!python/tuple
+      - 559
+      - The Business Day immediately preceding a Payment Date, with respect to Book-Entry
+        Notes, and the last Business Day of the month preceding a Payment Date, with
+        respect to Definitive Notes (the "Record Date").
+    - *id786
+    Recovery Election Date:
+    - !!python/tuple
+      - 1764
+      - 84 "Recovery Election Date" means the Group 1 Recovery Election Date or the
+        Group 2 Recovery Election Date, as applicable.
+    Recovery Principal:
+    - !!python/tuple
+      - 1836
+      - '"Recovery Principal" with respect to any Payment Date and Loan Group is the
+        sum of: (i) the excess, if any, of the related Credit Event Amount for such
+        Payment Date and Loan Group, over the related Tranche Write-down Amount for
+        such Payment Date; plus (ii) the related Tranche Write-up Amount for such
+        Payment Date.'
+    Reference Obligations:
+    - *id787
+    - !!python/tuple
+      - 790
+      - Additional information on the Reference Pool appears under "The Reference
+        Obligations" and Appendix A.
+    - !!python/tuple
+      - 1107
+      - For a more detailed discussion of these factors, see "Prepayment and Yield
+        Considerations" and "The Reference Obligations" in this Prospectus.
+    - !!python/tuple
+      - 1589
+      - See "The Reference Obligations" and "Description of the Notes" in this Prospectus.
+    Reference Pool:
+    - *id787
+    - !!python/tuple
+      - 1219
+      - See "The Reference Pool" in Appendix A to this Prospectus for further information
+        regarding the geographic concentration of the Reference Obligations.
+    Reference Pool Removals:
+    - !!python/tuple
+      - 1926
+      - "Amendment We may amend the Debt Agreement and the terms of the Notes without\
+        \ your consent: \u2022 to cure any ambiguity or to correct any provision in\
+        \ the Debt Agreement if the amendment does not materially and adversely affect\
+        \ any Holder; \u2022 to conform the terms of the Debt Agreement to the terms\
+        \ of this Prospectus; \u2022 to add to our covenants for your benefit or surrender\
+        \ any right or power conferred upon us; \u2022 to evidence the succession\
+        \ of another entity to us and its assumption of our covenants; \u2022 to conform\
+        \ the terms of the Notes to, or cure any ambiguity or discrepancy resulting\
+        \ from any changes in, the Rules; \u2022 to prohibit the mortgage note sales\
+        \ referred to in clause (iv) of the definition of \"Credit Event\" with respect\
+        \ to the Reference Obligations; \u2022 to revise the definitions of \"Credit\
+        \ Event\" and \"Reference Pool Removals\" so as to provide that the mortgage\
+        \ note sales referred to in clause (iv) of the definition of \"Credit Event\"\
+        \ will no longer constitute Credit Events and will instead be treated as Reference\
+        \ Pool Removals under the Debt Agreement; or \u2022 in any other manner we\
+        \ may determine that will not adversely affect your interests in any material\
+        \ respect."
+    Relevant Implementation Date:
+    - !!python/tuple
+      - 4037
+      - 'European Economic Area In relation to each Relevant Member State, each Dealer
+        has represented and agreed that with effect from and including the date on
+        which the Prospectus Directive is implemented in that Relevant Member State
+        (the "Relevant Implementation Date") it has not made and will not make an
+        offer of Notes to the public in that Relevant Member State except that it
+        may, with effect from and including the Relevant Implementation Date, make
+        an offer of the Notes to the public in that Relevant Member State at any time:
+        (a) to any legal entity which is a qualified investor as defined in the Prospectus
+        Directive; (b) to fewer 150 natural or legal persons (other than qualified
+        investors as defined in the Prospectus Directive), as permitted under the
+        Prospectus Directive, subject to obtaining the prior consent of the relevant
+        dealer or dealers nominated by the Issuer for any such offer; or (c) in any
+        other circumstances falling within Article 3(2) of the Prospectus Directive,
+        provided that no such offer of Notes shall require the publication by the
+        Issuer or any other entity of a prospectus pursuant to Article 3 of the Prospectus
+        Directive.'
+    Relief Act:
+    - !!python/tuple
+      - 3244
+      - Servicemembers Civil Relief Act Under the terms of The Servicemembers Civil
+        Relief Act, as amended (the "Relief Act"), various rights and protections
+        apply to a borrower who is a servicemember that enters military service.
+    Reporting Errors:
+    - *id788
+    Reporting Period:
+    - !!python/tuple
+      - 641
+      - For any Payment Date and for purposes of making calculations with respect
+        to the hypothetical structure and the Reference Tranches, the reporting period
+        (each, a "Reporting Period") will be the second calendar month preceding the
+        month of such Payment Date.
+    Retained Interest:
+    - &id789 !!python/tuple
+      - 3586
+      - "191 In order to assist Applicable Investors (as defined below) in evaluating\
+        \ a potential investment in the Notes, on the Closing Date, the Issuer will\
+        \ enter into a letter agreement (the \"Risk Retention Letter\") pursuant to\
+        \ which the Issuer will irrevocably undertake to the Global Agent, for the\
+        \ benefit of each Applicable Investor, that, in connection with Article 405(1)\
+        \ of EU Regulation 575/2013, including the technical standards in relation\
+        \ thereto adopted by the European Commission, and guidelines and other materials\
+        \ published by the European Banking Authority in relation thereto (\"Article\
+        \ 405(1)\" ), as at the origination and on an ongoing basis, so long as any\
+        \ Notes remain outstanding: \u2022 it will, as originator (as such term is\
+        \ defined for the purpose of Article 405(1)), retain a material net economic\
+        \ interest (the \"Retained Interest\") in the exposure related to the Transaction\
+        \ of not less than 5%; \u2022 neither it nor its affiliates will sell, hedge\
+        \ or otherwise mitigate its credit risk under or associated with the Retained\
+        \ Interest or the Reference Obligations, except to the extent permitted in\
+        \ accordance with Article 405(1); accordingly, neither it nor its affiliates\
+        \ will, through this transaction or any subsequent transactions, enter into\
+        \ agreements that transfer or hedge more than a 95% pro rata share of the\
+        \ credit risk corresponding to (A) any of (i) the Class 1A-H Reference Tranche,\
+        \ (ii) the Class 1M-1 and Class 1M-1H Reference Tranches (in the aggregate),\
+        \ (iii) the Class 1M-2A and Class 1M-AH Reference Tranches (in the aggregate),\
+        \ (iv)the Class 1M-2B and Class 1M-BH Reference Tranches (in the aggregate)\
+        \ or (v) the Class 1B-H Reference Tranche or (B) any of (i) the Class 2A-H\
+        \ Reference Tranche, (ii) the Class 2M-1 and Class 2M-1H Reference Tranches\
+        \ (in the aggregate), (iii) the Class 2M-2A and Class 2M-AH Reference Tranches\
+        \ (in the aggregate) (iv) the Class 2M-2B and Class 2M-BH Reference Tranches\
+        \ (in the aggregate) or (v) the Class 2B-H Reference Tranche; \u2022 it will,\
+        \ upon written request and further subject to any applicable duty of confidentiality,\
+        \ provide such information in its possession as may reasonably be required\
+        \ to assist the Global Agent, for the benefit of each Applicable Investor,\
+        \ to satisfy the due diligence obligations set forth in Article 406 of EU\
+        \ Regulation 575/2013 as of the Closing Date and at any time prior to maturity\
+        \ of the Notes; \u2022 it will confirm to the Global Agent for reporting to\
+        \ Holders of the Notes its continued compliance with the undertakings set\
+        \ out at the first and second bullet points above (which confirmation may\
+        \ be by email): (i) on a monthly basis; (ii) following its determination that\
+        \ the performance of the Notes or the risk characteristics of the Notes or\
+        \ of the Reference Obligations has materially changed; and (iii) following\
+        \ knowledge of a breach of the obligations included in the Global Agency Agreement\
+        \ or the Debt Agreement; and \u2022 it will promptly notify the Global Agent\
+        \ in writing if for any reason: (i) it ceases to hold the Retained Interest\
+        \ in accordance with the first bullet point above; or (ii) it or any of its\
+        \ affiliates fails to comply with the covenants set out in the second and\
+        \ third bullet points above in any way."
+    Reversed Credit Event Amount:
+    - !!python/tuple
+      - 1863
+      - The "Reversed Credit Event Amount" with respect to any Payment Date and Loan
+        Group is the aggregate amount of the Credit Event UPB of all Reversed Credit
+        Event Reference Obligations in the related Loan Group for the related Reporting
+        Period.
+    Review File:
+    - !!python/tuple
+      - 2270
+      - These reviews are based on a combination of the documents and information
+        submitted to us by the loan sellers (the "Review File") together with information
+        regarding the borrower and the property that we develop ourselves.
+    Risk Factors:
+    - !!python/tuple
+      - 79
+      - Specifically, forward looking statements, together with related qualifying
+        language and assumptions, are found in the material (including the tables)
+        under the headings "Risk Factors" and "Prepayment and Yield Considerations"
+        and in the appendices.
+    - !!python/tuple
+      - 1330
+      - "Regardless of any subordination provided pursuant to the hypothetical structure,\
+        \ if we were to experience significant financial difficulties, or if FHFA\
+        \ were to place us in receivership and our obligation was repudiated as described\
+        \ above in \"\u2014 Governance and Regulation \u2014 Risks Relating to Fannie\
+        \ Mae,\" the Holders of Notes may suffer losses as a result of the various\
+        \ contingencies described in this \"Risk Factors\" section and elsewhere in\
+        \ this Prospectus."
+    Risk Retention Letter:
+    - *id789
+    Scheduled Principal:
+    - !!python/tuple
+      - 1831
+      - '"Scheduled Principal" with respect to any Payment Date and Loan Group is
+        the sum of all monthly scheduled payments of principal due (whether with respect
+        to the related Reporting Period or any prior Reporting Period) on the Reference
+        Obligations in that Loan Group and reported to Fannie Mae and collected by
+        the related servicer during the related Reporting Period.'
+    Securities Act:
+    - !!python/tuple
+      - 78
+      - FORWARD LOOKING STATEMENTS This Prospectus contains forward looking statements
+        within the meaning of Section 27A of the Securities Act of 1933, as amended
+        (the "Securities Act").
+    Securities Laws:
+    - *id780
+    Selling Guide:
+    - &id790 !!python/tuple
+      - 2014
+      - Representations and warranties required by us are described in the Mortgage
+        Selling and Servicing Contract, the Fannie Mae Single-Family Selling Guide
+        (the "Selling Guide"), the Fannie Mae Single-Family Servicing Guide (the "Servicing
+        Guide") and other Lender Contracts.
+    Senior Reduction Amount:
+    - !!python/tuple
+      - 1823
+      - 'Related Definitions The "Senior Reduction Amount" with respect to any Payment
+        Date and Loan Group is either: (A) if any of the Minimum Credit Enhancement
+        Test and the Delinquency Test for such Loan Group is not satisfied, the sum
+        of: (i) the Senior Percentage of the Scheduled Principal for such Payment
+        Date and Loan Group; (ii) 100% of the Unscheduled Principal for such Payment
+        Date and Loan Group; and (iii) 100% of the Recovery Principal for such Payment
+        Date and Loan Group; or (B) if the Minimum Credit Enhancement Test and the
+        Delinquency Test for such Loan Group are satisfied, the sum of: (i) the Senior
+        Percentage of the Scheduled Principal for such Payment Date and Loan Group;
+        (ii) the Senior Percentage of the Unscheduled Principal for such Payment Date
+        and Loan Group; and (iii) 100% of the Recovery Principal for such Payment
+        Date and Loan Group.'
+    Servicing Guide:
+    - *id790
+    Similar Law:
+    - !!python/tuple
+      - 830
+      - 33 ERISA Considerations Fiduciaries or other persons acting on behalf of or
+        using the assets of (i) any employee benefit plan or other arrangement, including
+        an individual retirement account (an "IRA"), subject to the Employee Retirement
+        Income Security Act of 1974, as amended ("ERISA"), Section 4975 of the Internal
+        Revenue Code of 1986, as amended (the "Code"), or any foreign, United States
+        federal, state or local law which is similar to ERISA or Section 4975 of the
+        Code (each, a "Similar Law") or (ii) an entity which is deemed to hold the
+        assets of such plan or arrangement (each, a "Plan"), should carefully review
+        with their legal advisors whether the purchase, holding or disposition of
+        a Note could give rise to a transaction prohibited or not otherwise permissible
+        under ERISA, the Code or Similar Law.
+    - !!python/tuple
+      - 3592
+      - CERTAIN ERISA CONSIDERATIONS The following is a summary of material considerations
+        arising under ERISA and the prohibited transaction provisions of Section 4975
+        of the Code that may be relevant to a prospective purchaser of the Notes that
+        is an employee benefit plan, or certain other retirement plans and arrangements,
+        including individual retirement accounts ("IRAs") and annuities, Keogh plans,
+        and collective investment funds in which such plans, accounts, annuities or
+        arrangements are invested, that are described in or must follow Title I of
+        ERISA or Section 4975 of the Code, or an 192 entity that is deemed to hold
+        the assets of any such plan or arrangement, or a governmental or church plan
+        or foreign plan that is subject to foreign law or United States federal, state
+        or local law similar to that of Title I of ERISA or Section 4975 of the Code
+        (collectively, "Plans," and each such law, a "Similar Law") or a person or
+        entity acting on behalf of, using the assets of or deemed to use the assets
+        of a Plan.
+    Single Security Initiative:
+    - !!python/tuple
+      - 1315
+      - Certain of these practices are subject to change over time, as a result of
+        changes in the economic environment and as a result of regulatory changes
+        and changes in requirements of our regulators, including implementation of
+        the "Single Security Initiative", among other reasons.
+    Special Note:
+    - !!python/tuple
+      - 495
+      - See "Special Note" on the cover of this Prospectus. (8) No subordination or
+        credit enhancement is available to the Class 2B and Class 2B-H Reference Tranches
+        except the Overcollateralization Amount, if any, for Loan Group 2.
+    - !!python/tuple
+      - 523
+      - See "Special Note" on the cover of this Prospectus.
+    - !!python/tuple
+      - 1596
+      - See "Special Note" on the cover of this Prospectus.
+    Strip RCR Note:
+    - !!python/tuple
+      - 3463
+      - A note of a strip RCR Note (a "Strip RCR Note") will represent the right to
+        receive a disproportionate part of the principal or interest payments on one
+        or more Exchangeable Notes.
+    Subordinate Reduction Amount:
+    - !!python/tuple
+      - 1824
+      - The "Subordinate Reduction Amount" with respect to any Payment Date and Loan
+        Group is the sum of the Scheduled Principal, Unscheduled Principal and Recovery
+        Principal for such Payment Date and Loan Group, less the Senior Reduction
+        Amount for such Loan Group.
+    To-Be-Announced:
+    - !!python/tuple
+      - 2004
+      - Instead, we acquire loans principally for the purpose of securitizing them,
+        thus facilitating transactions in the "To-Be-Announced" market and allowing
+        mortgage lenders to hedge and/or fund their origination pipelines.
+    Tranche Write-down Amount:
+    - !!python/tuple
+      - 1865
+      - The "Tranche Write-down Amount" with respect to any Payment Date and Loan
+        Group is the excess, if any, of the Principal Loss Amount for such Payment
+        Date and Loan Group over the Principal Recovery Amount for such Payment Date
+        and Loan Group.
+    Tranche Write-up Amount:
+    - !!python/tuple
+      - 1876
+      - Related Definitions The "Tranche Write-up Amount" with respect to any Payment
+        Date and Loan Group is the excess, if any, of the Principal Recovery Amount
+        for such Payment Date and Loan Group over the Principal Loss Amount for such
+        Payment Date and Loan Group.
+    Transaction:
+    - *id791
+    Transaction Summary:
+    - !!python/tuple
+      - 600
+      - Solely for purposes of making the calculations for each Payment Date of any
+        principal write-downs (or write-ups) or reductions in the interest entitlements
+        on the Notes as a result of Credit Events (or reversals thereof) or Modification
+        Events on the Reference Obligations in the related Loan Group and principal
+        payments required to be made on the Notes by Fannie Mae, a hypothetical structure
+        of Group 1 Reference Tranches deemed to be backed by Loan Group 1 and of Group
+        2 Reference Tranches deemed to be backed by Loan Group 2 have been established
+        as set forth in the table under "Transaction Summary" above.
+    Transaction Termination Date:
+    - !!python/tuple
+      - 582
+      - The transaction will terminate on the date which is the later of the Group
+        1 Termination Date and the Group 2 Termination Date (the "Transaction Termination
+        Date").
+    Treasury:
+    - !!python/tuple
+      - 95
+      - Our regulators also include the US Securities and Exchange Commission ("SEC")
+        and the US Department of the Treasury ("Treasury").
+    US Person:
+    - !!python/tuple
+      - 3266
+      - "For purposes of the foregoing and the discussion that follows, a \"US Person\"\
+        \ means: \u2022 a citizen or individual resident of the United States; \u2022\
+        \ a corporation created or organized in or under the laws of the United States\
+        \ or any state thereof or the District of Columbia; \u2022 an estate the income\
+        \ of which is includible in its gross income for US federal income tax purposes\
+        \ without regard to its source; \u2022 a trust if a court within the United\
+        \ States is able to exercise primary supervision over its administration and\
+        \ at least one US Person has the authority to control all substantial decisions\
+        \ of the trust; or 174 \u2022 certain trusts in existence on August 20, 1996,\
+        \ and treated as United States persons (within the meaning of Section 7701(a)(30)\
+        \ of the Code) prior to such date, that elect to continue to be treated as\
+        \ United States persons, as provided in Treasury Regulations."
+    Unscheduled Principal:
+    - !!python/tuple
+      - 1832
+      - '"Unscheduled Principal" with respect to any Payment Date and Loan Group is:
+        90 (a) all partial principal prepayments on the related Reference Obligations
+        collected during the related Reporting Period, plus (b) the aggregate unpaid
+        principal balance of all related Reference Obligations that became subject
+        to Reference Pool Removals during the related Reporting Period other than
+        (i) Credit Event Reference Obligations and (ii) the portions of any prepayments
+        in full that consist of scheduled principal collections, plus (c) decreases
+        in the unpaid principal balance of all related Reference Obligations as the
+        result of loan modifications or data corrections, plus (d) all scheduled principal
+        collections, if any, for any related Reference Obligations that have been
+        removed from the related MBS, minus (e) increases in the unpaid principal
+        balance of all related Reference Obligations as the result of loan modifications
+        or data corrections.'
+    Warrant:
+    - !!python/tuple
+      - 114
+      - The other agreement with Treasury is a warrant to purchase, for a nominal
+        price, shares of common stock equal to 79.9% of our outstanding common stock
+        (the "Warrant") on a fully-diluted basis.
+    Wells Fargo:
+    - *id764
+    Wells Fargo Bank:
+    - *id769
+    Withholding Agent:
+    - !!python/tuple
+      - 3495
+      - 'Payments of interest (and any payment of principal representing OID, if any)
+        on a Class M Debt Note (or an RCR Note) to any non-US Person generally are
+        exempt from US withholding tax if you satisfy the following conditions: (1)the
+        appropriate payor in the chain of payment (the "Withholding Agent") has received
+        prior to payment in the year in which such payment occurs, or in either of
+        the two preceding years, a statement signed by you under penalties of perjury
+        that certifies that you are not a US Person and provides your name, address
+        and taxpayer identification number, if any; (2)the Withholding Agent and all
+        intermediaries between you and the Withholding Agent do not know or have reason
+        to know that your non-US beneficial ownership statement is false; and (3)
+        you are not (a) a bank that receives payments on the Class M Debt Notes (or
+        RCR Notes) that are described in Section 881(c)(3)(A) of the Code, (b) a 10%
+        shareholder of Fannie Mae within the meaning of Section 871(h)(3)(B) of the
+        Code, or (c) a "controlled foreign corporation" related to Fannie Mae within
+        the meaning of Section 881(c)(3)(C) of the Code.'
+    Write-up Excess:
+    - !!python/tuple
+      - 1874
+      - Write-up Excess To the extent that the Tranche Write-up Amount for a Loan
+        Group on any Payment Date exceeds the Tranche Write-up Amount allocated to
+        such Loan Group on such Payment Date, the excess (the "Write-up Excess") will
+        be available as overcollateralization to offset any Tranche Write-down Amounts
+        for such Loan Group on future Payment Dates prior to the allocation of such
+        Tranche Write-down Amounts to reduce the Class Notional Amounts of the related
+        Reference Tranches.
+    Written-down Note:
+    - !!python/tuple
+      - 1767
+      - '"Written-down Note" means a Written-down Group 1 Note or a Written-down Group
+        2 Note, as applicable.'

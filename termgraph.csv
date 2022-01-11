@@ -1,0 +1,761 @@
+Accrual Period,LIBOR Adjustment Date
+Accrual Period,Payment Date Statement
+Applicable Investor,Retained Interest
+Applicable Investor,Risk Retention Letter
+Available Loans,Initial Cohort Pool
+Barclays,BofA Merrill
+Barclays,Citigroup
+Barclays,Credit Suisse
+Barclays,Dealer Agreement
+Barclays,Dealers
+Barclays,JP Morgan
+Barclays,Wells Fargo
+Benefit Plan Investor,Investment Company Act
+BofA Merrill,Barclays
+BofA Merrill,Citigroup
+BofA Merrill,Credit Suisse
+BofA Merrill,Dealer Agreement
+BofA Merrill,Dealers
+BofA Merrill,JP Morgan
+BofA Merrill,Wells Fargo
+Book-Entry Notes,Common Depositary
+Book-Entry Notes,Definitive Notes
+Book-Entry Notes,Indirect Participants
+Book-Entry Notes,Note Owners
+Book-Entry Notes,Participants
+Book-Entry Notes,Payment Date
+Book-Entry Notes,Record Date
+Business Day,ICE Method
+Business Day,Interest Settlement Rate
+Business Day,LIBOR Adjustment Date
+Business Day,LIBOR Business Day
+Business Day,One-Month LIBOR
+Business Day,Payment Date
+Business Day,Record Date
+Canadian Purchaser,NI 31-103
+Canadian Purchaser,NI 45-106
+Canadian Purchaser,Securities Laws
+Citigroup,Barclays
+Citigroup,BofA Merrill
+Citigroup,Credit Suisse
+Citigroup,Dealer Agreement
+Citigroup,Dealers
+Citigroup,JP Morgan
+Citigroup,Wells Fargo
+Class B Notes,Class M Debt Notes
+Class B Notes,On-Market Swap Rate
+Class Coupon,Annual Interest Amount
+Class Coupon,Dealer
+Class Coupon,Interest Accrual Amount
+Class Coupon,LIBOR Adjustment Date
+Class Coupon,Modeling Assumptions
+Class Coupon,On-Market Swap Rate
+Class M Debt Notes,CPDI Regulations
+Class M Debt Notes,PAC Method
+Class M Debt Notes,Withholding Agent
+Class Notional Amount,Annual Interest Amount
+Class Notional Amount,Group 1 Senior Percentage
+Class Notional Amount,Group 2 Senior Percentage
+Class Notional Amount,Interest Accrual Amount
+Class Notional Amount,Modeling Assumptions
+Class Notional Amount,Preliminary Class Notional Amount
+Class Notional Amount,Preliminary Principal Loss Amount
+Class Notional Amount,Write-up Excess
+Class Principal Balance,Annual Interest Amount
+Class Principal Balance,Group 1 Termination Date
+Class Principal Balance,Group 2 Termination Date
+Class Principal Balance,Interest Accrual Amount
+Class Principal Balance,Modeling Assumptions
+Class Principal Balance,Payment Date Statement
+Clearstream,Book-Entry Notes
+Clearstream,Clearstream International
+Clearstream,Clearstream Participants
+Clearstream,Common Depositary
+Clearstream,Indirect Participants
+Clearstream,Note Owners
+Clearstream,Participants
+Clearstream International,Clearstream
+Closing Date,Accrual Period
+Closing Date,Book-Entry Notes
+Closing Date,Class M Debt Notes
+Closing Date,Dealer
+Closing Date,Debt Agreement
+Closing Date,Global Agency Agreement
+Closing Date,Group 1 Offered Notes
+Closing Date,Group 2 Offered Notes
+Closing Date,Modeling Assumptions
+Closing Date,Offered Notes
+Closing Date,Retained Interest
+Closing Date,Risk Retention Letter
+Credit Event,Credit Event Amount
+Credit Event,Credit Event Net Gain
+Credit Event,Credit Event Net Loss
+Credit Event,Credit Event Reference Obligation
+Credit Event,Credit Event UPB
+Credit Event,Group 1 Reference Tranche
+Credit Event,Group 2 Reference Tranche
+Credit Event,Liquidation Proceeds
+Credit Event,Liquidation Recovery Mortgage Loans
+Credit Event,Modeling Assumptions
+Credit Event,Mortgage Insurance Credit Amount
+Credit Event,Net Liquidation Proceeds
+Credit Event,Payment Date Statement
+Credit Event,Principal Loss Amount
+Credit Event,Principal Recovery Amount
+Credit Event,Recovery Principal
+Credit Event,Reference Pool Removals
+Credit Event,Reversed Credit Event Amount
+Credit Event,Transaction Summary
+Credit Event,Unscheduled Principal
+Credit Event Amount,Modeling Assumptions
+Credit Event Amount,Payment Date Statement
+Credit Event Amount,Recovery Principal
+Credit Event Amount,Reversed Credit Event Amount
+Credit Event Net Gain,Principal Recovery Amount
+Credit Event Net Loss,Principal Loss Amount
+Credit Event Net Loss,Principal Recovery Amount
+Credit Event Reference Obligation,Credit Event Amount
+Credit Event Reference Obligation,Credit Event Net Gain
+Credit Event Reference Obligation,Credit Event Net Loss
+Credit Event Reference Obligation,Credit Event UPB
+Credit Event Reference Obligation,Liquidation Proceeds
+Credit Event Reference Obligation,Liquidation Recovery Mortgage Loans
+Credit Event Reference Obligation,Modeling Assumptions
+Credit Event Reference Obligation,Mortgage Insurance Credit Amount
+Credit Event Reference Obligation,Net Liquidation Proceeds
+Credit Event Reference Obligation,Payment Date Statement
+Credit Event Reference Obligation,Principal Loss Amount
+Credit Event Reference Obligation,Principal Recovery Amount
+Credit Event Reference Obligation,Reversed Credit Event Amount
+Credit Event Reference Obligation,Unscheduled Principal
+Credit Event UPB,Credit Event Amount
+Credit Event UPB,Credit Event Net Gain
+Credit Event UPB,Credit Event Net Loss
+Credit Event UPB,Reversed Credit Event Amount
+Credit Suisse,Barclays
+Credit Suisse,BofA Merrill
+Credit Suisse,Citigroup
+Credit Suisse,Dealer Agreement
+Credit Suisse,Dealers
+Credit Suisse,JP Morgan
+Credit Suisse,Wells Fargo
+Current Accrual Rate,Credit Event Net Gain
+Current Accrual Rate,Credit Event Net Loss
+Current Accrual Rate,Modification Event
+Current Accrual Rate,Modification Loss Amount
+Cut-off Date,Canadian Purchaser
+Cut-off Date,Eligibility Criteria
+Cut-off Date,Loan Group 1
+Cut-off Date,Loan Group 2
+Cut-off Date,NI 31-103
+Cut-off Date,NI 45-106
+Cut-off Date,Original Accrual Rate
+Cut-off Date,Payment Date Statement
+Cut-off Date,Reference Obligations
+Cut-off Date,Reference Pool
+Cut-off Date,Securities Laws
+Dealer,Barclays
+Dealer,BofA Merrill
+Dealer,Canadian Purchaser
+Dealer,Citigroup
+Dealer,Credit Suisse
+Dealer,Dealer Agreement
+Dealer,Dealers
+Dealer,JP Morgan
+Dealer,NI 31-103
+Dealer,NI 45-106
+Dealer,Relevant Implementation Date
+Dealer,Securities Laws
+Dealer,Wells Fargo
+Dealer Agreement,Barclays
+Dealer Agreement,BofA Merrill
+Dealer Agreement,Citigroup
+Dealer Agreement,Credit Suisse
+Dealer Agreement,JP Morgan
+Dealer Agreement,Wells Fargo
+Dealers,Barclays
+Dealers,BofA Merrill
+Dealers,Citigroup
+Dealers,Credit Suisse
+Dealers,Dealer Agreement
+Dealers,JP Morgan
+Dealers,Wells Fargo
+Debt Agreement,Reference Pool Removals
+Debt Agreement,Retained Interest
+Debt Agreement,Risk Retention Letter
+Definitive Notes,Payment Date
+Definitive Notes,Record Date
+Delinquency Test,Modeling Assumptions
+Delinquency Test,Senior Reduction Amount
+Diligence Provider,Canadian Purchaser
+Diligence Provider,Diligence Sample
+Diligence Provider,Fannie Mae QC Review
+Diligence Provider,Material Finding
+Diligence Provider,NI 31-103
+Diligence Provider,NI 45-106
+Diligence Provider,Securities Laws
+Diligence Sample,Material Finding
+Distressed Principal Balance,Delinquency Test
+EEA RISK RETENTION,EXEMPT PERSONS
+EEA Risk Retention,EEA Risk Retention Regulation
+EEA Risk Retention,Transaction
+EEA Risk Retention Regulation,Transaction
+EXEMPT PERSONS,EEA RISK RETENTION
+EXEMPT PERSONS,RELEVANT PERSONS
+Early Redemption Option,Group 1 Termination Date
+Early Redemption Option,Group 2 Termination Date
+Early Redemption Option,Modeling Assumptions
+Eligibility Criteria,Initial Cohort Pool
+Eligibility Defect,Eligibility Defect Rate
+Eligibility Defect Rate,Eligibility Defect
+Euroclear,Book-Entry Notes
+Euroclear,Common Depositary
+Euroclear,Euroclear Operator
+Euroclear,Euroclear Participants
+Euroclear,Indirect Participants
+Euroclear,Note Owners
+Euroclear,Participants
+Euroclear Participants,Euroclear
+Exchange Act,Rated Notes
+Exchangeable Notes,Class Principal Balance
+Exchangeable Notes,Combination RCR Note
+Exchangeable Notes,Combinations
+Exchangeable Notes,Exchange Administrator
+Exchangeable Notes,Group 1 Exchangeable Notes
+Exchangeable Notes,Group 1 Notes
+Exchangeable Notes,Group 1 RCR Notes
+Exchangeable Notes,Group 2 Exchangeable Notes
+Exchangeable Notes,Group 2 Notes
+Exchangeable Notes,Group 2 RCR Notes
+Exchangeable Notes,Modeling Assumptions
+Exchangeable Notes,RCR NOTES
+Exchangeable Notes,RCR Notes
+Exchangeable Notes,Strip RCR Note
+Global Agency Agreement,Global Agent
+Global Agency Agreement,Retained Interest
+Global Agency Agreement,Risk Retention Letter
+Global Agency Agreement,Wells Fargo Bank
+Global Agent,Business Day
+Global Agent,Common Depositary
+Global Agent,Global Agency Agreement
+Global Agent,Group 1 Termination Date
+Global Agent,Group 2 Termination Date
+Global Agent,ICE Method
+Global Agent,Interest Settlement Rate
+Global Agent,LIBOR Adjustment Date
+Global Agent,LIBOR Business Day
+Global Agent,One-Month LIBOR
+Global Agent,Payment Date
+Global Agent,Payment Date Statement
+Global Agent,Record Date
+Global Agent,Retained Interest
+Global Agent,Risk Retention Letter
+Global Agent,Wells Fargo Bank
+Group 1 Class,Group 1 Classes
+Group 1 Class,Group 1 Termination Date
+Group 1 Classes,Group 1 Class
+Group 1 Classes,Group 1 Termination Date
+Group 1 Exchangeable Notes,Exchangeable Notes
+Group 1 Exchangeable Notes,Group 1 RCR Notes
+Group 1 Exchangeable Notes,Group 2 Exchangeable Notes
+Group 1 Liquidation Date,Liquidation Date
+Group 1 Liquidation Period,Group 1 Liquidation Date
+Group 1 Liquidation Period,Liquidation Period
+Group 1 Notes,Group 1 Reference Tranche
+Group 1 Notes,Group 1 Senior Percentage
+Group 1 Notes,Group 1 Subordinate Percentage
+Group 1 Notes,Group 1 Termination Date
+Group 1 Notes,Group Termination Date
+Group 1 Notes,Holder
+Group 1 Notes,Holders
+Group 1 Notes,Loan Group 1
+Group 1 Notes,Noteholder
+Group 1 Notes,Noteholders
+Group 1 Offered Notes,Group 1 Notes
+Group 1 Offered Notes,Group 2 Offered Notes
+Group 1 Offered Notes,Offered Notes
+Group 1 RCR Notes,Group 1 Exchangeable Notes
+Group 1 RCR Notes,Group 2 RCR Notes
+Group 1 RCR Notes,RCR Notes
+Group 1 Reference Tranche,Transaction Summary
+Group 1 Senior Percentage,Group 1 Subordinate Percentage
+Group 1 Subordinate Percentage,Minimum Credit Enhancement Test
+Group 1 Termination Date,Group Termination Date
+Group 1 Termination Date,Preliminary Class Notional Amount
+Group 1 Termination Date,Preliminary Principal Loss Amount
+Group 1 Termination Date,Transaction Termination Date
+Group 2 Class,Group 2 Classes
+Group 2 Class,Group 2 Termination Date
+Group 2 Classes,Group 2 Class
+Group 2 Classes,Group 2 Termination Date
+Group 2 Exchangeable Notes,Exchangeable Notes
+Group 2 Exchangeable Notes,Group 2 RCR Notes
+Group 2 Liquidation Date,Early Redemption Option
+Group 2 Liquidation Date,Liquidation Date
+Group 2 Liquidation Period,Group 2 Liquidation Date
+Group 2 Liquidation Period,Liquidation Period
+Group 2 Notes,Early Redemption Option
+Group 2 Notes,Group 2 Reference Tranche
+Group 2 Notes,Group 2 Senior Percentage
+Group 2 Notes,Group 2 Subordinate Percentage
+Group 2 Notes,Group 2 Termination Date
+Group 2 Notes,Holder
+Group 2 Notes,Holders
+Group 2 Notes,Loan Group 2
+Group 2 Notes,Noteholder
+Group 2 Notes,Noteholders
+Group 2 Offered Notes,Group 1 Offered Notes
+Group 2 Offered Notes,Group 2 Notes
+Group 2 Offered Notes,Offered Notes
+Group 2 RCR Notes,Group 2 Exchangeable Notes
+Group 2 RCR Notes,RCR Notes
+Group 2 Reference Tranche,Transaction Summary
+Group 2 Senior Percentage,Group 2 Subordinate Percentage
+Group 2 Subordinate Percentage,Minimum Credit Enhancement Test
+Group 2 Termination Date,Group Termination Date
+Group 2 Termination Date,Transaction Termination Date
+Group Termination Date,Credit Event
+Holder,Class Principal Balance
+Holder,Debt Agreement
+Holder,Early Redemption Option
+Holder,Exchangeable Notes
+Holder,Group 1 Exchangeable Notes
+Holder,Group 2 Exchangeable Notes
+Holder,Holders
+Holder,Interest Payment Amount
+Holder,Liquidation Recovery Amount
+Holder,Noteholder
+Holder,Noteholders
+Holder,RCR NOTES
+Holder,RCR Notes
+Holder,Reference Pool Removals
+Holder,Retained Interest
+Holder,Risk Factors
+Holder,Risk Retention Letter
+Holders,Class Principal Balance
+Holders,Debt Agreement
+Holders,Early Redemption Option
+Holders,Exchangeable Notes
+Holders,Group 1 Exchangeable Notes
+Holders,Group 2 Exchangeable Notes
+Holders,Holder
+Holders,Interest Payment Amount
+Holders,Liquidation Recovery Amount
+Holders,Noteholder
+Holders,Noteholders
+Holders,RCR Notes
+Holders,Retained Interest
+Holders,Risk Factors
+Holders,Risk Retention Letter
+ICE Method,Interest Settlement Rate
+ICE Method,LIBOR Business Day
+ICE Method,One-Month LIBOR
+Indirect Participants,Common Depositary
+Indirect Participants,Note Owners
+Indirect Participants,Participants
+Initial Cohort Pool,Diligence Provider
+Interest Accrual Amount,Interest Payment Amount
+Interest Payment Amount,Payment Date Statement
+Interest Settlement Rate,Designated Page
+Interest Settlement Rate,ICE Method
+Interest Settlement Rate,LIBOR Business Day
+Interest Settlement Rate,One-Month LIBOR
+Investment Company Act,Qualified Institutional Buyer
+Issuer,Relevant Implementation Date
+Issuer,Retained Interest
+Issuer,Risk Retention Letter
+JP Morgan,Barclays
+JP Morgan,BofA Merrill
+JP Morgan,Citigroup
+JP Morgan,Credit Suisse
+JP Morgan,Dealer Agreement
+JP Morgan,Dealers
+JP Morgan,Wells Fargo
+January-February 2015 Acquisitions,Available Loans
+LIBOR Adjustment Date,ICE Method
+LIBOR Adjustment Date,Interest Settlement Rate
+LIBOR Adjustment Date,LIBOR Business Day
+LIBOR Adjustment Date,One-Month LIBOR
+LIBOR Business Day,ICE Method
+LIBOR Business Day,Interest Settlement Rate
+LIBOR Business Day,LIBOR Adjustment Date
+LIBOR Business Day,One-Month LIBOR
+Lender Contract,Selling Guide
+Lender Contract,Servicing Guide
+Liquidation Date,Early Redemption Option
+Liquidation Date,Group 1 Liquidation Date
+Liquidation Date,Group 2 Liquidation Date
+Liquidation Date,Liquidation Recovery Amount
+Liquidation Period,Group 1 Liquidation Date
+Liquidation Period,Group 1 Liquidation Period
+Liquidation Period,Group 2 Liquidation Date
+Liquidation Period,Group 2 Liquidation Period
+Liquidation Period,Liquidation Recovery Amount
+Liquidation Proceeds,Credit Event Net Gain
+Liquidation Proceeds,Credit Event Net Loss
+Liquidation Proceeds,Net Liquidation Proceeds
+Liquidation Proceeds,Principal Loss Amount
+Liquidation Proceeds,Principal Recovery Amount
+Liquidation Recovery Amount,Early Redemption Option
+Liquidation Recovery Amount,Modeling Assumptions
+Liquidation Recovery Mortgage Loans,Liquidation Recovery Amount
+Loan Acquisition Practices,Permitted Variances
+Loan Group 1,Canadian Purchaser
+Loan Group 1,Eligibility Criteria
+Loan Group 1,Group 1 Reference Tranche
+Loan Group 1,Group 1 Senior Percentage
+Loan Group 1,Minimum Credit Enhancement Test
+Loan Group 1,Modeling Assumptions
+Loan Group 1,NI 31-103
+Loan Group 1,NI 45-106
+Loan Group 1,Preliminary Class Notional Amount
+Loan Group 1,Preliminary Principal Loss Amount
+Loan Group 1,Securities Laws
+Loan Group 1,Transaction Summary
+Loan Group 2,Canadian Purchaser
+Loan Group 2,Eligibility Criteria
+Loan Group 2,Group 2 Reference Tranche
+Loan Group 2,Group 2 Senior Percentage
+Loan Group 2,Minimum Credit Enhancement Test
+Loan Group 2,Modeling Assumptions
+Loan Group 2,NI 31-103
+Loan Group 2,NI 45-106
+Loan Group 2,Securities Laws
+Loan Group 2,Special Note
+Loan Group 2,Transaction Summary
+Loan Groups,Holder
+Loan Groups,Holders
+Loan Groups,Noteholder
+Loan Groups,Noteholders
+Loan Groups,Payment Date Statement
+Maturity Date,Dealer
+Maturity Date,Group 1 Termination Date
+Maturity Date,Group 2 Termination Date
+Maturity Date,Modeling Assumptions
+Minimum Credit Enhancement Test,Senior Reduction Amount
+Modification Event,Current Accrual Rate
+Modification Event,Group 1 Reference Tranche
+Modification Event,Group 2 Reference Tranche
+Modification Event,Modeling Assumptions
+Modification Event,Modification Loss Amount
+Modification Event,Payment Date Statement
+Modification Event,Transaction Summary
+Modification Loss Amount,Interest Payment Amount
+Modification Loss Amount,Modification Event
+Modification Loss Amount,Payment Date Statement
+Modification Loss Amount,Preliminary Class Notional Amount
+Modification Loss Amount,Preliminary Principal Loss Amount
+Modification Loss Amount,Principal Loss Amount
+Mortgage Insurance Credit Amount,Net Liquidation Proceeds
+NI 31-103,Canadian Purchaser
+NI 31-103,NI 45-106
+NI 31-103,Securities Laws
+NI 45-106,Canadian Purchaser
+NI 45-106,NI 31-103
+NI 45-106,Securities Laws
+Net Liquidation Proceeds,Credit Event Net Gain
+Net Liquidation Proceeds,Credit Event Net Loss
+Net Liquidation Proceeds,Principal Loss Amount
+Net Liquidation Proceeds,Principal Recovery Amount
+Note Owners,Book-Entry Notes
+Note Owners,Common Depositary
+Note Owners,Indirect Participants
+Note Owners,Participants
+Noteholder,Holder
+Noteholder,Holders
+Noteholder,Noteholders
+Noteholders,Holder
+Noteholders,Holders
+Noteholders,Noteholder
+Offered Notes,Dealer
+Offered Notes,Group 1 Notes
+Offered Notes,Group 1 Offered Notes
+Offered Notes,Group 2 Notes
+Offered Notes,Group 2 Offered Notes
+Offered Notes,Modeling Assumptions
+One-Month LIBOR,ICE Method
+One-Month LIBOR,Interest Settlement Rate
+One-Month LIBOR,LIBOR Business Day
+One-Month LIBOR,Modeling Assumptions
+One-Month LIBOR,Payment Date Statement
+Original Accrual Rate,Modification Event
+Original Accrual Rate,Modification Loss Amount
+Overcollateralization Amount,Special Note
+PROSPECTUS DIRECTIVE,RELEVANT MEMBER STATE
+Participants,Clearstream Participants
+Participants,Common Depositary
+Participants,Euroclear
+Participants,Euroclear Participants
+Participants,Indirect Participants
+Participants,Note Owners
+Payment Date,Accrual Period
+Payment Date,Canadian Purchaser
+Payment Date,Class Notional Amount
+Payment Date,Class Principal Balance
+Payment Date,Credit Event
+Payment Date,Credit Event Amount
+Payment Date,Credit Event Reference Obligation
+Payment Date,Credit Event UPB
+Payment Date,Current Accrual Rate
+Payment Date,Delinquency Test
+Payment Date,Distressed Principal Balance
+Payment Date,Group 1 Reference Tranche
+Payment Date,Group 1 Senior Percentage
+Payment Date,Group 1 Subordinate Percentage
+Payment Date,Group 1 Termination Date
+Payment Date,Group 2 Reference Tranche
+Payment Date,Group 2 Senior Percentage
+Payment Date,Group 2 Subordinate Percentage
+Payment Date,Group 2 Termination Date
+Payment Date,Interest Accrual Amount
+Payment Date,Interest Only RCR Notes
+Payment Date,Interest Payment Amount
+Payment Date,Maturity Date
+Payment Date,Minimum Credit Enhancement Test
+Payment Date,Modeling Assumptions
+Payment Date,Modification Event
+Payment Date,Modification Loss Amount
+Payment Date,NI 31-103
+Payment Date,NI 45-106
+Payment Date,Overcollateralization Amount
+Payment Date,Payment Date Statement
+Payment Date,Preliminary Class Notional Amount
+Payment Date,Preliminary Principal Loss Amount
+Payment Date,Principal Loss Amount
+Payment Date,Principal Recovery Amount
+Payment Date,Record Date
+Payment Date,Recovery Principal
+Payment Date,Reporting Period
+Payment Date,Reversed Credit Event Amount
+Payment Date,Scheduled Principal
+Payment Date,Securities Laws
+Payment Date,Senior Reduction Amount
+Payment Date,Subordinate Reduction Amount
+Payment Date,Tranche Write-down Amount
+Payment Date,Tranche Write-up Amount
+Payment Date,Transaction Summary
+Payment Date,Unscheduled Principal
+Payment Date,Write-up Excess
+Payment Errors,Reporting Errors
+Period,Accrual Period
+Period,Credit Event
+Period,Credit Event Amount
+Period,Credit Event UPB
+Period,Group 1 Liquidation Date
+Period,Group 1 Liquidation Period
+Period,Group 1 Senior Percentage
+Period,Group 2 Liquidation Date
+Period,Group 2 Liquidation Period
+Period,Group 2 Senior Percentage
+Period,LIBOR Adjustment Date
+Period,Liquidation Period
+Period,Liquidation Recovery Amount
+Period,Payment Date Statement
+Period,Payment Errors
+Period,Principal Loss Amount
+Period,Principal Recovery Amount
+Period,Reporting Errors
+Period,Reporting Period
+Period,Reversed Credit Event Amount
+Period,Scheduled Principal
+Period,Unscheduled Principal
+Plan Asset Regulation,Benefit Plan Investor
+Plan Asset Regulation,Investment Company Act
+Preliminary Class Notional Amount,Preliminary Principal Loss Amount
+Preliminary Principal Loss Amount,Preliminary Class Notional Amount
+Principal Loss Amount,Delinquency Test
+Principal Loss Amount,Modeling Assumptions
+Principal Loss Amount,Preliminary Class Notional Amount
+Principal Loss Amount,Preliminary Principal Loss Amount
+Principal Loss Amount,Tranche Write-down Amount
+Principal Loss Amount,Tranche Write-up Amount
+Principal Recovery Amount,Tranche Write-down Amount
+Principal Recovery Amount,Tranche Write-up Amount
+Projected Recovery Amount,Early Redemption Option
+Projected Recovery Amount,Group Termination Date
+Projected Recovery Amount,Modeling Assumptions
+Prospectus Directive,Relevant Implementation Date
+Qualified Institutional Buyer,Qualified Institutional Buyers
+Qualified Institutional Buyers,Qualified Institutional Buyer
+RCR Notes,Class M Debt Notes
+RCR Notes,Class Principal Balance
+RCR Notes,Combinations
+RCR Notes,Exchange Administrator
+RCR Notes,Exchangeable Notes
+RCR Notes,Group 1 Exchangeable Notes
+RCR Notes,Group 1 Notes
+RCR Notes,Group 1 RCR Notes
+RCR Notes,Group 2 Exchangeable Notes
+RCR Notes,Group 2 Notes
+RCR Notes,Group 2 RCR Notes
+RCR Notes,Interest Only RCR Notes
+RCR Notes,Modeling Assumptions
+RCR Notes,Withholding Agent
+RELEVANT MEMBER STATE,PROSPECTUS DIRECTIVE
+Rated Notes,Exchange Act
+Record Date,Payment Date
+Recovery Election Date,Group 1 Liquidation Period
+Recovery Election Date,Group 2 Liquidation Period
+Recovery Election Date,Liquidation Recovery Amount
+Recovery Election Date,Liquidation Recovery Mortgage Loans
+Recovery Election Date,Projected Recovery Amount
+Recovery Principal,Modeling Assumptions
+Recovery Principal,Payment Date Statement
+Recovery Principal,Senior Reduction Amount
+Recovery Principal,Subordinate Reduction Amount
+Reference Obligations,Canadian Purchaser
+Reference Obligations,Credit Event Amount
+Reference Obligations,Cut-off Date
+Reference Obligations,Delinquency Test
+Reference Obligations,Distressed Principal Balance
+Reference Obligations,Eligibility Criteria
+Reference Obligations,Group 1 Reference Tranche
+Reference Obligations,Group 1 Senior Percentage
+Reference Obligations,Group 2 Reference Tranche
+Reference Obligations,Group 2 Senior Percentage
+Reference Obligations,Guaranty Obligations
+Reference Obligations,Holder
+Reference Obligations,Holders
+Reference Obligations,Loan Acquisition Practices
+Reference Obligations,Loan Group 1
+Reference Obligations,Loan Group 2
+Reference Obligations,Modeling Assumptions
+Reference Obligations,NI 31-103
+Reference Obligations,NI 45-106
+Reference Obligations,Noteholder
+Reference Obligations,Noteholders
+Reference Obligations,Payment Date Statement
+Reference Obligations,Principal Loss Amount
+Reference Obligations,Principal Recovery Amount
+Reference Obligations,Reference Pool
+Reference Obligations,Reference Pool Removals
+Reference Obligations,Retained Interest
+Reference Obligations,Reversed Credit Event Amount
+Reference Obligations,Risk Retention Letter
+Reference Obligations,Scheduled Principal
+Reference Obligations,Securities Laws
+Reference Obligations,Transaction Summary
+Reference Obligations,Unscheduled Principal
+Reference Pool,Available Loans
+Reference Pool,Cut-off Date
+Reference Pool,Eligibility Criteria
+Reference Pool,Loan Groups
+Reference Pool,Modeling Assumptions
+Reference Pool,Payment Date Statement
+Reference Pool,Reference Obligations
+Reference Pool,Reference Pool Removals
+Reference Pool,Unscheduled Principal
+Reference Pool Removals,Unscheduled Principal
+Reporting Errors,Payment Errors
+Reporting Period,Credit Event
+Reporting Period,Credit Event Amount
+Reporting Period,Credit Event UPB
+Reporting Period,Group 1 Senior Percentage
+Reporting Period,Group 2 Senior Percentage
+Reporting Period,Payment Date Statement
+Reporting Period,Principal Loss Amount
+Reporting Period,Principal Recovery Amount
+Reporting Period,Reversed Credit Event Amount
+Reporting Period,Scheduled Principal
+Reporting Period,Unscheduled Principal
+Retained Interest,Risk Retention Letter
+Reversed Credit Event Amount,Payment Date Statement
+Risk Factors,EEA Risk Retention
+Risk Factors,Layering
+Risk Retention Letter,Payment Date Statement
+Risk Retention Letter,Retained Interest
+Scheduled Principal,Payment Date Statement
+Scheduled Principal,Senior Reduction Amount
+Scheduled Principal,Subordinate Reduction Amount
+Securities Act,Canadian Purchaser
+Securities Act,NI 31-103
+Securities Act,NI 45-106
+Securities Act,Qualified Institutional Buyer
+Securities Act,Securities Laws
+Securities Laws,Canadian Purchaser
+Securities Laws,NI 31-103
+Securities Laws,NI 45-106
+Selling Guide,Eligibility Criteria
+Selling Guide,Lender Contract
+Selling Guide,Material Finding
+Selling Guide,Permitted Variances
+Selling Guide,RDC Guide
+Selling Guide,Servicing Guide
+Senior Reduction Amount,Class Notional Amount
+Senior Reduction Amount,Payment Date Statement
+Senior Reduction Amount,Subordinate Reduction Amount
+Servicing Guide,Eligibility Criteria
+Servicing Guide,Lender Contract
+Servicing Guide,Selling Guide
+Subordinate Reduction Amount,Class Notional Amount
+Subordinate Reduction Amount,Payment Date Statement
+Tranche Write-down Amount,Class Notional Amount
+Tranche Write-down Amount,Class Principal Balance
+Tranche Write-down Amount,Group 1 Termination Date
+Tranche Write-down Amount,Group 2 Termination Date
+Tranche Write-down Amount,Liquidation Recovery Amount
+Tranche Write-down Amount,Overcollateralization Amount
+Tranche Write-down Amount,Payment Date Statement
+Tranche Write-down Amount,Preliminary Class Notional Amount
+Tranche Write-down Amount,Preliminary Principal Loss Amount
+Tranche Write-down Amount,Recovery Principal
+Tranche Write-down Amount,Write-up Excess
+Tranche Write-up Amount,Class Notional Amount
+Tranche Write-up Amount,Class Principal Balance
+Tranche Write-up Amount,Group 1 Termination Date
+Tranche Write-up Amount,Group 2 Termination Date
+Tranche Write-up Amount,Liquidation Recovery Amount
+Tranche Write-up Amount,Payment Date Statement
+Tranche Write-up Amount,Preliminary Class Notional Amount
+Tranche Write-up Amount,Preliminary Principal Loss Amount
+Tranche Write-up Amount,Recovery Principal
+Tranche Write-up Amount,Write-up Excess
+Transaction,EEA Risk Retention Regulation
+Transaction,Group 1 Reference Tranche
+Transaction,Group 2 Reference Tranche
+Transaction,Guaranty Obligations
+Transaction,Prohibited Transactions
+Transaction,Retained Interest
+Transaction,Risk Retention Letter
+Transaction,Transaction Summary
+Transaction,Transaction Termination Date
+Transaction Summary,Group 1 Reference Tranche
+Transaction Summary,Group 2 Reference Tranche
+Treasury,CLASS B NOTES
+Treasury,CPDI Regulations
+Treasury,Qualified Stated Interest
+Treasury,US Person
+Treasury,Warrant
+US Person,Class M Debt Notes
+US Person,On-Market Swap Rate
+US Person,Withholding Agent
+Unscheduled Principal,Payment Date Statement
+Unscheduled Principal,Senior Reduction Amount
+Unscheduled Principal,Subordinate Reduction Amount
+Warrant,Eligibility Criteria
+Warrant,Modeling Assumptions
+Warrant,Payment Date Statement
+Warrant,Principal Recovery Amount
+Wells Fargo,Barclays
+Wells Fargo,BofA Merrill
+Wells Fargo,Citigroup
+Wells Fargo,Complaint
+Wells Fargo,Credit Suisse
+Wells Fargo,Dealer Agreement
+Wells Fargo,Dealers
+Wells Fargo,Exchange Administrator
+Wells Fargo,Global Agency Agreement
+Wells Fargo,Global Agent
+Wells Fargo,JP Morgan
+Wells Fargo,Payment Errors
+Wells Fargo,Period
+Wells Fargo,Reporting Errors
+Wells Fargo,Wells Fargo Bank
+Wells Fargo Bank,Complaint
+Wells Fargo Bank,Exchange Administrator
+Wells Fargo Bank,Global Agency Agreement
+Wells Fargo Bank,Global Agent
+Wells Fargo Bank,Payment Errors
+Wells Fargo Bank,Period
+Wells Fargo Bank,Reporting Errors
+Write-up Excess,Overcollateralization Amount
